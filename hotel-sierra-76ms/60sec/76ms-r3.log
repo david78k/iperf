@@ -1,0 +1,17 @@
+N = 1
+N = 2
+N = 3
+N = 4
+N = 5
+N = 6
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.148.4 port 54676 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54671 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54673 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54672 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54674 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54675 connected with 198.202.120.7 port 5001
+N = 7

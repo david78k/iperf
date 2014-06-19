@@ -1,0 +1,1470 @@
+N = 1
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 149.165.148.5 port 50186 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec   374 MBytes  52.2 Mbits/sec
+N = 2
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  4] local 149.165.148.5 port 50191 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50190 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.1 sec   456 MBytes  63.6 Mbits/sec
+[  3]  0.0-60.5 sec   383 MBytes  53.1 Mbits/sec
+[SUM]  0.0-60.5 sec   839 MBytes   116 Mbits/sec
+N = 3
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  4] local 149.165.148.5 port 50197 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50196 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50198 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec   524 MBytes  73.2 Mbits/sec
+[  5]  0.0-60.1 sec   454 MBytes  63.4 Mbits/sec
+[  4]  0.0-60.1 sec   446 MBytes  62.2 Mbits/sec
+[SUM]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+N = 4
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  6] local 149.165.148.5 port 50206 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50203 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50204 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50205 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.1 sec   626 MBytes  87.4 Mbits/sec
+[  4]  0.0-60.1 sec   686 MBytes  95.8 Mbits/sec
+[  5]  0.0-60.1 sec   542 MBytes  75.5 Mbits/sec
+[  3]  0.0-60.2 sec   479 MBytes  66.8 Mbits/sec
+[SUM]  0.0-60.2 sec  2.28 GBytes   325 Mbits/sec
+N = 5
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.5 port 50215 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50211 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50212 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50214 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50213 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec   595 MBytes  83.2 Mbits/sec
+[  5]  0.0-60.1 sec   650 MBytes  90.8 Mbits/sec
+[  7]  0.0-60.1 sec   756 MBytes   105 Mbits/sec
+[  4]  0.0-60.3 sec   892 MBytes   124 Mbits/sec
+[  6]  0.0-60.3 sec   779 MBytes   108 Mbits/sec
+[SUM]  0.0-60.3 sec  3.59 GBytes   511 Mbits/sec
+N = 6
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.148.5 port 50226 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50221 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50222 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50223 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50224 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50225 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   776 MBytes   108 Mbits/sec
+[  5]  0.0-60.0 sec   643 MBytes  89.9 Mbits/sec
+[  8]  0.0-60.1 sec   722 MBytes   101 Mbits/sec
+[  3]  0.0-60.1 sec   654 MBytes  91.3 Mbits/sec
+[  4]  0.0-60.1 sec   544 MBytes  75.8 Mbits/sec
+[  7]  0.0-60.7 sec   657 MBytes  90.7 Mbits/sec
+[SUM]  0.0-60.7 sec  3.90 GBytes   552 Mbits/sec
+N = 7
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  9] local 149.165.148.5 port 50237 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50232 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50233 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50234 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50235 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50236 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50231 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   834 MBytes   117 Mbits/sec
+[  4]  0.0-60.0 sec   750 MBytes   105 Mbits/sec
+[  9]  0.0-60.1 sec   629 MBytes  87.8 Mbits/sec
+[  8]  0.0-60.1 sec   645 MBytes  90.1 Mbits/sec
+[  5]  0.0-60.1 sec   768 MBytes   107 Mbits/sec
+[  7]  0.0-60.1 sec   762 MBytes   106 Mbits/sec
+[  3]  0.0-60.1 sec   668 MBytes  93.3 Mbits/sec
+[SUM]  0.0-60.1 sec  4.94 GBytes   706 Mbits/sec
+N = 8
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 10] local 149.165.148.5 port 50250 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50246 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50245 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50244 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50248 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50247 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50249 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50243 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  8]  0.0-60.0 sec   744 MBytes   104 Mbits/sec
+[  3]  0.0-60.0 sec   788 MBytes   110 Mbits/sec
+[  5]  0.0-60.1 sec   768 MBytes   107 Mbits/sec
+[  4]  0.0-60.1 sec   623 MBytes  87.0 Mbits/sec
+[  6]  0.0-60.1 sec   614 MBytes  85.7 Mbits/sec
+[  9]  0.0-60.1 sec   705 MBytes  98.3 Mbits/sec
+[  7]  0.0-60.3 sec   694 MBytes  96.6 Mbits/sec
+[ 10]  0.0-60.5 sec   646 MBytes  89.5 Mbits/sec
+[SUM]  0.0-60.5 sec  5.45 GBytes   774 Mbits/sec
+N = 9
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  6] local 149.165.148.5 port 50257 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50258 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50256 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50260 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50259 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50261 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50262 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50255 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50263 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 11]  0.0-60.0 sec   558 MBytes  77.9 Mbits/sec
+[ 10]  0.0-60.0 sec   559 MBytes  78.1 Mbits/sec
+[  3]  0.0-60.0 sec   499 MBytes  69.7 Mbits/sec
+[  8]  0.0-60.0 sec   440 MBytes  61.5 Mbits/sec
+[  5]  0.0-60.1 sec   390 MBytes  54.4 Mbits/sec
+[  7]  0.0-60.1 sec   613 MBytes  85.5 Mbits/sec
+[  4]  0.0-60.2 sec   548 MBytes  76.4 Mbits/sec
+[  6]  0.0-60.2 sec   544 MBytes  75.7 Mbits/sec
+[  9]  0.0-60.2 sec   446 MBytes  62.1 Mbits/sec
+[SUM]  0.0-60.2 sec  4.49 GBytes   640 Mbits/sec
+N = 10
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 12] local 149.165.148.5 port 50277 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50269 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50270 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50273 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50272 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50271 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50275 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50274 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50276 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50268 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec   655 MBytes  91.6 Mbits/sec
+[  8]  0.0-60.0 sec   606 MBytes  84.8 Mbits/sec
+[  4]  0.0-60.0 sec   639 MBytes  89.3 Mbits/sec
+[ 10]  0.0-60.0 sec   477 MBytes  66.7 Mbits/sec
+[  9]  0.0-60.0 sec   495 MBytes  69.2 Mbits/sec
+[ 12]  0.0-60.1 sec   584 MBytes  81.5 Mbits/sec
+[  6]  0.0-60.1 sec   556 MBytes  77.7 Mbits/sec
+[  3]  0.0-60.1 sec   504 MBytes  70.4 Mbits/sec
+[  7]  0.0-60.1 sec   572 MBytes  79.8 Mbits/sec
+[ 11]  0.0-60.1 sec   382 MBytes  53.3 Mbits/sec
+[SUM]  0.0-60.1 sec  5.34 GBytes   763 Mbits/sec
+N = 12
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 14] local 149.165.148.5 port 50293 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50283 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50284 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50285 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50286 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50287 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50288 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50289 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50290 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50292 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50282 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50291 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec   345 MBytes  48.2 Mbits/sec
+[  8]  0.0-60.0 sec   450 MBytes  62.9 Mbits/sec
+[  5]  0.0-60.1 sec   452 MBytes  63.2 Mbits/sec
+[ 11]  0.0-60.1 sec   523 MBytes  73.0 Mbits/sec
+[  6]  0.0-60.1 sec   369 MBytes  51.6 Mbits/sec
+[ 13]  0.0-60.1 sec   529 MBytes  73.9 Mbits/sec
+[ 10]  0.0-60.1 sec   558 MBytes  77.9 Mbits/sec
+[  7]  0.0-60.1 sec   405 MBytes  56.5 Mbits/sec
+[  9]  0.0-60.1 sec   365 MBytes  51.0 Mbits/sec
+[ 12]  0.0-60.1 sec   433 MBytes  60.4 Mbits/sec
+[  4]  0.0-60.2 sec   448 MBytes  62.5 Mbits/sec
+[ 14]  0.0-60.5 sec   442 MBytes  61.3 Mbits/sec
+[SUM]  0.0-60.5 sec  5.19 GBytes   738 Mbits/sec
+N = 14
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 149.165.148.5 port 50299 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50300 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50302 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50303 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50304 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50305 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50312 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50301 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50308 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50309 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50306 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50307 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50310 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50311 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec   407 MBytes  56.9 Mbits/sec
+[ 14]  0.0-60.0 sec   288 MBytes  40.2 Mbits/sec
+[ 13]  0.0-60.0 sec   466 MBytes  65.2 Mbits/sec
+[ 12]  0.0-60.1 sec   378 MBytes  52.8 Mbits/sec
+[ 16]  0.0-60.1 sec   468 MBytes  65.3 Mbits/sec
+[ 10]  0.0-60.1 sec   356 MBytes  49.7 Mbits/sec
+[ 15]  0.0-60.1 sec   428 MBytes  59.7 Mbits/sec
+[  3]  0.0-60.1 sec   331 MBytes  46.2 Mbits/sec
+[ 11]  0.0-60.2 sec   418 MBytes  58.3 Mbits/sec
+[  7]  0.0-60.2 sec   393 MBytes  54.7 Mbits/sec
+[  9]  0.0-60.3 sec   322 MBytes  44.8 Mbits/sec
+[  6]  0.0-60.3 sec   497 MBytes  69.1 Mbits/sec
+[  8]  0.0-60.3 sec   320 MBytes  44.5 Mbits/sec
+[  4]  0.0-60.3 sec   486 MBytes  67.6 Mbits/sec
+[SUM]  0.0-60.3 sec  5.43 GBytes   773 Mbits/sec
+N = 16
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 18] local 149.165.148.5 port 50332 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50319 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50318 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50320 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50321 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50322 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50323 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50324 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50325 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50326 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50327 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50328 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50329 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50330 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50317 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50331 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0-60.0 sec   424 MBytes  59.2 Mbits/sec
+[ 13]  0.0-60.0 sec   305 MBytes  42.6 Mbits/sec
+[  5]  0.0-60.1 sec   453 MBytes  63.3 Mbits/sec
+[  7]  0.0-60.1 sec   405 MBytes  56.6 Mbits/sec
+[ 18]  0.0-60.1 sec   375 MBytes  52.4 Mbits/sec
+[ 17]  0.0-60.1 sec   386 MBytes  53.9 Mbits/sec
+[ 10]  0.0-60.1 sec   319 MBytes  44.5 Mbits/sec
+[  8]  0.0-60.1 sec   306 MBytes  42.7 Mbits/sec
+[ 11]  0.0-60.1 sec   337 MBytes  47.0 Mbits/sec
+[  6]  0.0-60.1 sec   451 MBytes  62.9 Mbits/sec
+[ 14]  0.0-60.1 sec   345 MBytes  48.2 Mbits/sec
+[  3]  0.0-60.1 sec   367 MBytes  51.2 Mbits/sec
+[  9]  0.0-60.2 sec   334 MBytes  46.5 Mbits/sec
+[ 12]  0.0-60.3 sec   362 MBytes  50.4 Mbits/sec
+[  4]  0.0-60.3 sec   430 MBytes  59.8 Mbits/sec
+[ 15]  0.0-60.4 sec   371 MBytes  51.5 Mbits/sec
+[SUM]  0.0-60.4 sec  5.83 GBytes   829 Mbits/sec
+N = 18
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 20] local 149.165.148.5 port 50354 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50337 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50339 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50338 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50340 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50341 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50342 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50344 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50343 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50345 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50346 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50347 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50348 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50350 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50349 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50351 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50352 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50353 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0-60.0 sec   346 MBytes  48.3 Mbits/sec
+[  8]  0.0-60.0 sec   315 MBytes  44.1 Mbits/sec
+[  6]  0.0-60.0 sec   383 MBytes  53.6 Mbits/sec
+[ 13]  0.0-60.0 sec   344 MBytes  48.0 Mbits/sec
+[  9]  0.0-60.1 sec   330 MBytes  46.2 Mbits/sec
+[ 20]  0.0-60.1 sec   380 MBytes  53.0 Mbits/sec
+[ 10]  0.0-60.1 sec   309 MBytes  43.1 Mbits/sec
+[ 16]  0.0-60.1 sec   322 MBytes  45.0 Mbits/sec
+[  5]  0.0-60.1 sec   382 MBytes  53.2 Mbits/sec
+[ 17]  0.0-60.1 sec   431 MBytes  60.1 Mbits/sec
+[ 14]  0.0-60.2 sec   312 MBytes  43.5 Mbits/sec
+[  4]  0.0-60.2 sec   274 MBytes  38.1 Mbits/sec
+[  3]  0.0-60.2 sec   313 MBytes  43.6 Mbits/sec
+[ 12]  0.0-60.3 sec   329 MBytes  45.8 Mbits/sec
+[ 19]  0.0-60.4 sec   419 MBytes  58.2 Mbits/sec
+[ 11]  0.0-60.4 sec   420 MBytes  58.3 Mbits/sec
+[ 18]  0.0-60.5 sec   380 MBytes  52.7 Mbits/sec
+[  7]  0.0-60.6 sec   457 MBytes  63.3 Mbits/sec
+[SUM]  0.0-60.6 sec  6.29 GBytes   892 Mbits/sec
+N = 20
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  4] local 149.165.148.5 port 50360 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50364 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50362 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50361 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50363 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50366 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50367 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50368 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50369 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50370 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50371 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50372 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50378 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50365 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50373 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50374 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50375 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50376 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50359 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50377 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 21]  0.0-60.0 sec   282 MBytes  39.5 Mbits/sec
+[  8]  0.0-60.0 sec   295 MBytes  41.2 Mbits/sec
+[ 11]  0.0-60.1 sec   360 MBytes  50.3 Mbits/sec
+[ 18]  0.0-60.1 sec   303 MBytes  42.3 Mbits/sec
+[ 19]  0.0-60.1 sec   289 MBytes  40.4 Mbits/sec
+[ 15]  0.0-60.1 sec   335 MBytes  46.8 Mbits/sec
+[ 22]  0.0-60.1 sec   332 MBytes  46.3 Mbits/sec
+[  3]  0.0-60.1 sec   332 MBytes  46.3 Mbits/sec
+[  6]  0.0-60.2 sec   400 MBytes  55.8 Mbits/sec
+[ 17]  0.0-60.2 sec   368 MBytes  51.3 Mbits/sec
+[  9]  0.0-60.2 sec   240 MBytes  33.4 Mbits/sec
+[ 12]  0.0-60.2 sec   318 MBytes  44.3 Mbits/sec
+[ 10]  0.0-60.2 sec   338 MBytes  47.0 Mbits/sec
+[  5]  0.0-60.3 sec   417 MBytes  58.0 Mbits/sec
+[ 20]  0.0-60.3 sec   343 MBytes  47.7 Mbits/sec
+[  4]  0.0-60.4 sec   356 MBytes  49.4 Mbits/sec
+[  7]  0.0-60.4 sec   347 MBytes  48.2 Mbits/sec
+[ 13]  0.0-60.4 sec   282 MBytes  39.2 Mbits/sec
+[ 16]  0.0-60.4 sec   314 MBytes  43.6 Mbits/sec
+[ 14]  0.0-60.5 sec   348 MBytes  48.2 Mbits/sec
+[SUM]  0.0-60.5 sec  6.44 GBytes   915 Mbits/sec
+N = 30
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 31] local 149.165.148.5 port 50411 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50383 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50384 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50385 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50386 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50389 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50391 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50392 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50387 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50388 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50393 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50394 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50395 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50396 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50398 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50397 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50399 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50400 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50401 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50402 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50403 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50404 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50405 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50406 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50407 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50409 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50408 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50410 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50390 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50412 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec   196 MBytes  27.4 Mbits/sec
+[  8]  0.0-60.0 sec   239 MBytes  33.4 Mbits/sec
+[ 26]  0.0-60.0 sec   238 MBytes  33.2 Mbits/sec
+[ 29]  0.0-60.0 sec   252 MBytes  35.2 Mbits/sec
+[ 27]  0.0-60.0 sec   201 MBytes  28.0 Mbits/sec
+[ 11]  0.0-60.1 sec   210 MBytes  29.3 Mbits/sec
+[ 12]  0.0-60.1 sec   285 MBytes  39.8 Mbits/sec
+[ 25]  0.0-60.1 sec   177 MBytes  24.7 Mbits/sec
+[  4]  0.0-60.1 sec   244 MBytes  34.1 Mbits/sec
+[ 14]  0.0-60.1 sec   248 MBytes  34.6 Mbits/sec
+[ 10]  0.0-60.1 sec   260 MBytes  36.2 Mbits/sec
+[ 17]  0.0-60.1 sec   226 MBytes  31.5 Mbits/sec
+[ 19]  0.0-60.1 sec   244 MBytes  34.1 Mbits/sec
+[ 28]  0.0-60.1 sec   224 MBytes  31.3 Mbits/sec
+[ 32]  0.0-60.1 sec   225 MBytes  31.4 Mbits/sec
+[  9]  0.0-60.2 sec   225 MBytes  31.3 Mbits/sec
+[ 16]  0.0-60.2 sec   251 MBytes  34.9 Mbits/sec
+[ 22]  0.0-60.2 sec   222 MBytes  30.9 Mbits/sec
+[ 21]  0.0-60.2 sec   236 MBytes  32.9 Mbits/sec
+[ 31]  0.0-60.2 sec   223 MBytes  31.1 Mbits/sec
+[  6]  0.0-60.2 sec   197 MBytes  27.5 Mbits/sec
+[  5]  0.0-60.2 sec   300 MBytes  41.8 Mbits/sec
+[  7]  0.0-60.2 sec   257 MBytes  35.8 Mbits/sec
+[ 18]  0.0-60.3 sec   220 MBytes  30.6 Mbits/sec
+[ 15]  0.0-60.3 sec   207 MBytes  28.8 Mbits/sec
+[ 13]  0.0-60.4 sec   232 MBytes  32.2 Mbits/sec
+[ 30]  0.0-60.4 sec   217 MBytes  30.1 Mbits/sec
+[ 20]  0.0-60.4 sec   224 MBytes  31.2 Mbits/sec
+[ 23]  0.0-60.5 sec   202 MBytes  28.0 Mbits/sec
+[ 24]  0.0-60.6 sec   228 MBytes  31.6 Mbits/sec
+[SUM]  0.0-60.6 sec  6.75 GBytes   956 Mbits/sec
+N = 40
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 41] local 149.165.148.5 port 50455 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50418 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50419 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50420 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50421 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50422 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50423 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50424 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50425 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50426 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50427 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50429 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50428 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50430 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50431 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50434 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50433 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50432 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50435 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50436 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50437 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50439 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50438 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50441 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50440 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50442 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50443 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50444 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.5 port 50445 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.5 port 50447 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50446 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.5 port 50448 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.5 port 50449 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.5 port 50450 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.5 port 50451 connected with 198.202.120.7 port 5001
+[ 38] local 149.165.148.5 port 50452 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.5 port 50453 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.5 port 50456 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.5 port 50454 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50417 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 41]  0.0-60.0 sec   184 MBytes  25.7 Mbits/sec
+[ 25]  0.0-60.0 sec   147 MBytes  20.5 Mbits/sec
+[  8]  0.0-60.0 sec   176 MBytes  24.5 Mbits/sec
+[ 16]  0.0-60.0 sec   197 MBytes  27.5 Mbits/sec
+[ 12]  0.0-60.0 sec   193 MBytes  27.0 Mbits/sec
+[ 13]  0.0-60.0 sec   173 MBytes  24.2 Mbits/sec
+[  6]  0.0-60.1 sec   194 MBytes  27.1 Mbits/sec
+[ 11]  0.0-60.0 sec   137 MBytes  19.1 Mbits/sec
+[ 38]  0.0-60.1 sec   164 MBytes  22.9 Mbits/sec
+[ 24]  0.0-60.1 sec   208 MBytes  29.1 Mbits/sec
+[ 27]  0.0-60.1 sec   159 MBytes  22.2 Mbits/sec
+[ 35]  0.0-60.1 sec   213 MBytes  29.8 Mbits/sec
+[ 30]  0.0-60.1 sec   166 MBytes  23.2 Mbits/sec
+[ 33]  0.0-60.1 sec   154 MBytes  21.4 Mbits/sec
+[ 22]  0.0-60.1 sec   187 MBytes  26.1 Mbits/sec
+[ 15]  0.0-60.1 sec   197 MBytes  27.5 Mbits/sec
+[ 21]  0.0-60.1 sec   195 MBytes  27.2 Mbits/sec
+[ 42]  0.0-60.1 sec   176 MBytes  24.5 Mbits/sec
+[ 36]  0.0-60.2 sec   201 MBytes  28.1 Mbits/sec
+[  4]  0.0-60.2 sec   174 MBytes  24.2 Mbits/sec
+[ 17]  0.0-60.2 sec   182 MBytes  25.4 Mbits/sec
+[  7]  0.0-60.2 sec   179 MBytes  25.0 Mbits/sec
+[  3]  0.0-60.2 sec   241 MBytes  33.6 Mbits/sec
+[  9]  0.0-60.3 sec   164 MBytes  22.8 Mbits/sec
+[ 34]  0.0-60.3 sec   152 MBytes  21.2 Mbits/sec
+[ 28]  0.0-60.3 sec   145 MBytes  20.2 Mbits/sec
+[ 32]  0.0-60.3 sec   179 MBytes  24.9 Mbits/sec
+[ 31]  0.0-60.3 sec   189 MBytes  26.3 Mbits/sec
+[  5]  0.0-60.3 sec   171 MBytes  23.8 Mbits/sec
+[ 26]  0.0-60.3 sec   190 MBytes  26.4 Mbits/sec
+[ 20]  0.0-60.4 sec   146 MBytes  20.2 Mbits/sec
+[ 14]  0.0-60.4 sec   202 MBytes  28.1 Mbits/sec
+[ 10]  0.0-60.4 sec   166 MBytes  23.1 Mbits/sec
+[ 39]  0.0-60.4 sec   161 MBytes  22.3 Mbits/sec
+[ 18]  0.0-60.4 sec   150 MBytes  20.9 Mbits/sec
+[ 40]  0.0-60.4 sec   157 MBytes  21.8 Mbits/sec
+[ 37]  0.0-60.4 sec   182 MBytes  25.3 Mbits/sec
+[ 23]  0.0-60.6 sec   159 MBytes  22.0 Mbits/sec
+[ 19]  0.0-60.6 sec   224 MBytes  31.1 Mbits/sec
+[ 29]  0.0-60.6 sec   153 MBytes  21.2 Mbits/sec
+[SUM]  0.0-60.6 sec  6.92 GBytes   981 Mbits/sec
+N = 50
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 52] local 149.165.148.5 port 50510 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50463 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50462 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50464 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50466 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50465 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50468 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50470 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50471 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50467 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50469 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50472 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50473 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50474 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50475 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50476 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50477 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50479 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50478 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50480 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50482 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50483 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50481 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50484 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.5 port 50491 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50488 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50487 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.5 port 50492 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50485 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.5 port 50494 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50490 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.5 port 50489 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.5 port 50493 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50486 connected with 198.202.120.7 port 5001
+[ 38] local 149.165.148.5 port 50496 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.5 port 50495 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.5 port 50497 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.5 port 50498 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.5 port 50500 connected with 198.202.120.7 port 5001
+[ 41] local 149.165.148.5 port 50499 connected with 198.202.120.7 port 5001
+[ 43] local 149.165.148.5 port 50501 connected with 198.202.120.7 port 5001
+[ 44] local 149.165.148.5 port 50502 connected with 198.202.120.7 port 5001
+[ 45] local 149.165.148.5 port 50503 connected with 198.202.120.7 port 5001
+[ 46] local 149.165.148.5 port 50505 connected with 198.202.120.7 port 5001
+[ 50] local 149.165.148.5 port 50508 connected with 198.202.120.7 port 5001
+[ 51] local 149.165.148.5 port 50509 connected with 198.202.120.7 port 5001
+[ 49] local 149.165.148.5 port 50507 connected with 198.202.120.7 port 5001
+[ 47] local 149.165.148.5 port 50504 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50461 connected with 198.202.120.7 port 5001
+[ 48] local 149.165.148.5 port 50506 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 31]  0.0-60.0 sec   129 MBytes  18.1 Mbits/sec
+[ 43]  0.0-60.0 sec   141 MBytes  19.7 Mbits/sec
+[ 26]  0.0-60.0 sec   163 MBytes  22.7 Mbits/sec
+[ 34]  0.0-60.0 sec  76.9 MBytes  10.7 Mbits/sec
+[  8]  0.0-60.0 sec   149 MBytes  20.8 Mbits/sec
+[ 47]  0.0-60.1 sec   160 MBytes  22.4 Mbits/sec
+[ 23]  0.0-60.1 sec   135 MBytes  18.9 Mbits/sec
+[ 37]  0.0-60.1 sec   148 MBytes  20.7 Mbits/sec
+[  4]  0.0-60.1 sec   154 MBytes  21.5 Mbits/sec
+[ 14]  0.0-60.1 sec   137 MBytes  19.2 Mbits/sec
+[ 44]  0.0-60.1 sec   154 MBytes  21.6 Mbits/sec
+[ 19]  0.0-60.1 sec   130 MBytes  18.2 Mbits/sec
+[ 46]  0.0-60.1 sec   130 MBytes  18.2 Mbits/sec
+[ 24]  0.0-60.1 sec   155 MBytes  21.7 Mbits/sec
+[  7]  0.0-60.1 sec   156 MBytes  21.8 Mbits/sec
+[ 10]  0.0-60.2 sec   154 MBytes  21.4 Mbits/sec
+[  6]  0.0-60.2 sec   113 MBytes  15.8 Mbits/sec
+[ 18]  0.0-60.2 sec   163 MBytes  22.7 Mbits/sec
+[ 35]  0.0-60.2 sec   142 MBytes  19.7 Mbits/sec
+[ 20]  0.0-60.3 sec   166 MBytes  23.2 Mbits/sec
+[ 27]  0.0-60.3 sec   143 MBytes  19.9 Mbits/sec
+[ 52]  0.0-60.3 sec   126 MBytes  17.6 Mbits/sec
+[ 33]  0.0-60.3 sec   139 MBytes  19.4 Mbits/sec
+[ 36]  0.0-60.3 sec   123 MBytes  17.2 Mbits/sec
+[ 45]  0.0-60.3 sec   128 MBytes  17.9 Mbits/sec
+[ 48]  0.0-60.3 sec   140 MBytes  19.4 Mbits/sec
+[ 17]  0.0-60.4 sec   160 MBytes  22.2 Mbits/sec
+[ 25]  0.0-60.4 sec   120 MBytes  16.7 Mbits/sec
+[ 38]  0.0-60.4 sec   135 MBytes  18.7 Mbits/sec
+[ 40]  0.0-60.4 sec   150 MBytes  20.8 Mbits/sec
+[ 51]  0.0-60.4 sec   123 MBytes  17.1 Mbits/sec
+[ 11]  0.0-60.4 sec   118 MBytes  16.4 Mbits/sec
+[ 21]  0.0-60.4 sec   167 MBytes  23.2 Mbits/sec
+[ 28]  0.0-60.4 sec   122 MBytes  17.0 Mbits/sec
+[ 22]  0.0-60.5 sec   170 MBytes  23.6 Mbits/sec
+[ 41]  0.0-60.5 sec   176 MBytes  24.3 Mbits/sec
+[ 42]  0.0-60.5 sec   172 MBytes  23.8 Mbits/sec
+[  3]  0.0-60.5 sec   139 MBytes  19.3 Mbits/sec
+[ 39]  0.0-60.5 sec   119 MBytes  16.4 Mbits/sec
+[ 16]  0.0-60.5 sec   114 MBytes  15.9 Mbits/sec
+[ 50]  0.0-60.5 sec   131 MBytes  18.2 Mbits/sec
+[ 13]  0.0-60.5 sec   148 MBytes  20.6 Mbits/sec
+[ 15]  0.0-60.5 sec   127 MBytes  17.6 Mbits/sec
+[ 12]  0.0-60.6 sec   146 MBytes  20.2 Mbits/sec
+[  5]  0.0-60.6 sec   182 MBytes  25.2 Mbits/sec
+[ 30]  0.0-60.6 sec   154 MBytes  21.3 Mbits/sec
+[ 29]  0.0-60.7 sec   146 MBytes  20.2 Mbits/sec
+[ 49]  0.0-60.8 sec   160 MBytes  22.0 Mbits/sec
+[  9]  0.0-61.0 sec   152 MBytes  20.9 Mbits/sec
+[ 32]  0.0-61.6 sec   137 MBytes  18.6 Mbits/sec
+[SUM]  0.0-61.6 sec  6.96 GBytes   971 Mbits/sec
+N = 60
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.148.5 port 50518 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50520 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50521 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50519 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50522 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50523 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50517 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50524 connected with 198.202.120.7 port 5001
+[ 62] local 149.165.148.5 port 50575 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50526 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50527 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50525 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50528 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50530 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50531 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50529 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50532 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50533 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50534 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50535 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50536 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50537 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50538 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50539 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50540 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50541 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50543 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50542 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.5 port 50544 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.5 port 50546 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50545 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.5 port 50547 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.5 port 50549 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.5 port 50550 connected with 198.202.120.7 port 5001
+[ 38] local 149.165.148.5 port 50551 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.5 port 50553 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.5 port 50552 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.5 port 50548 connected with 198.202.120.7 port 5001
+[ 41] local 149.165.148.5 port 50554 connected with 198.202.120.7 port 5001
+[ 43] local 149.165.148.5 port 50556 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.5 port 50555 connected with 198.202.120.7 port 5001
+[ 44] local 149.165.148.5 port 50557 connected with 198.202.120.7 port 5001
+[ 45] local 149.165.148.5 port 50558 connected with 198.202.120.7 port 5001
+[ 46] local 149.165.148.5 port 50559 connected with 198.202.120.7 port 5001
+[ 53] local 149.165.148.5 port 50565 connected with 198.202.120.7 port 5001
+[ 52] local 149.165.148.5 port 50566 connected with 198.202.120.7 port 5001
+[ 47] local 149.165.148.5 port 50560 connected with 198.202.120.7 port 5001
+[ 49] local 149.165.148.5 port 50561 connected with 198.202.120.7 port 5001
+[ 51] local 149.165.148.5 port 50564 connected with 198.202.120.7 port 5001
+[ 50] local 149.165.148.5 port 50563 connected with 198.202.120.7 port 5001
+[ 54] local 149.165.148.5 port 50567 connected with 198.202.120.7 port 5001
+[ 48] local 149.165.148.5 port 50562 connected with 198.202.120.7 port 5001
+[ 55] local 149.165.148.5 port 50568 connected with 198.202.120.7 port 5001
+[ 56] local 149.165.148.5 port 50569 connected with 198.202.120.7 port 5001
+[ 57] local 149.165.148.5 port 50570 connected with 198.202.120.7 port 5001
+[ 59] local 149.165.148.5 port 50572 connected with 198.202.120.7 port 5001
+[ 58] local 149.165.148.5 port 50571 connected with 198.202.120.7 port 5001
+[ 60] local 149.165.148.5 port 50573 connected with 198.202.120.7 port 5001
+[ 61] local 149.165.148.5 port 50574 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50516 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 14]  0.0-60.0 sec   148 MBytes  20.7 Mbits/sec
+[ 17]  0.0-60.0 sec   118 MBytes  16.5 Mbits/sec
+[ 18]  0.0-60.0 sec   129 MBytes  18.0 Mbits/sec
+[ 45]  0.0-60.0 sec   124 MBytes  17.3 Mbits/sec
+[  7]  0.0-60.1 sec   133 MBytes  18.6 Mbits/sec
+[ 47]  0.0-60.1 sec   154 MBytes  21.6 Mbits/sec
+[ 13]  0.0-60.1 sec   131 MBytes  18.3 Mbits/sec
+[ 50]  0.0-60.1 sec   101 MBytes  14.1 Mbits/sec
+[ 33]  0.0-60.1 sec  95.8 MBytes  13.4 Mbits/sec
+[ 32]  0.0-60.1 sec   105 MBytes  14.7 Mbits/sec
+[ 56]  0.0-60.1 sec   114 MBytes  15.9 Mbits/sec
+[ 20]  0.0-60.1 sec   103 MBytes  14.3 Mbits/sec
+[ 55]  0.0-60.1 sec  96.1 MBytes  13.4 Mbits/sec
+[ 12]  0.0-60.1 sec   120 MBytes  16.7 Mbits/sec
+[ 11]  0.0-60.1 sec   135 MBytes  18.8 Mbits/sec
+[ 16]  0.0-60.1 sec   158 MBytes  22.0 Mbits/sec
+[ 60]  0.0-60.2 sec  95.2 MBytes  13.3 Mbits/sec
+[ 39]  0.0-60.2 sec  91.8 MBytes  12.8 Mbits/sec
+[ 59]  0.0-60.2 sec  84.2 MBytes  11.7 Mbits/sec
+[ 27]  0.0-60.2 sec   138 MBytes  19.2 Mbits/sec
+[ 34]  0.0-60.2 sec  94.8 MBytes  13.2 Mbits/sec
+[  3]  0.0-60.2 sec   151 MBytes  21.1 Mbits/sec
+[ 26]  0.0-60.2 sec   148 MBytes  20.5 Mbits/sec
+[ 29]  0.0-60.2 sec   134 MBytes  18.7 Mbits/sec
+[ 38]  0.0-60.2 sec   130 MBytes  18.2 Mbits/sec
+[ 37]  0.0-60.2 sec   124 MBytes  17.3 Mbits/sec
+[  4]  0.0-60.3 sec   111 MBytes  15.4 Mbits/sec
+[ 19]  0.0-60.3 sec   151 MBytes  21.0 Mbits/sec
+[ 23]  0.0-60.3 sec   108 MBytes  15.0 Mbits/sec
+[ 30]  0.0-60.3 sec  89.1 MBytes  12.4 Mbits/sec
+[ 51]  0.0-60.3 sec  95.2 MBytes  13.3 Mbits/sec
+[ 61]  0.0-60.3 sec  95.2 MBytes  13.3 Mbits/sec
+[ 62]  0.0-60.3 sec   109 MBytes  15.2 Mbits/sec
+[ 48]  0.0-60.3 sec   102 MBytes  14.2 Mbits/sec
+[ 35]  0.0-60.3 sec   103 MBytes  14.3 Mbits/sec
+[ 54]  0.0-60.3 sec   138 MBytes  19.1 Mbits/sec
+[ 15]  0.0-60.4 sec   148 MBytes  20.6 Mbits/sec
+[ 46]  0.0-60.3 sec   132 MBytes  18.3 Mbits/sec
+[  6]  0.0-60.4 sec   138 MBytes  19.2 Mbits/sec
+[  8]  0.0-60.4 sec  94.4 MBytes  13.1 Mbits/sec
+[ 25]  0.0-60.4 sec   103 MBytes  14.3 Mbits/sec
+[ 44]  0.0-60.4 sec   116 MBytes  16.2 Mbits/sec
+[ 22]  0.0-60.4 sec   127 MBytes  17.7 Mbits/sec
+[ 24]  0.0-60.4 sec   123 MBytes  17.1 Mbits/sec
+[  5]  0.0-60.4 sec   109 MBytes  15.2 Mbits/sec
+[ 53]  0.0-60.4 sec   124 MBytes  17.2 Mbits/sec
+[ 43]  0.0-60.5 sec   144 MBytes  20.0 Mbits/sec
+[  9]  0.0-60.5 sec   103 MBytes  14.2 Mbits/sec
+[ 52]  0.0-60.5 sec  76.1 MBytes  10.6 Mbits/sec
+[ 49]  0.0-60.5 sec   104 MBytes  14.4 Mbits/sec
+[ 36]  0.0-60.6 sec   106 MBytes  14.6 Mbits/sec
+[ 28]  0.0-60.6 sec   102 MBytes  14.2 Mbits/sec
+[ 41]  0.0-60.6 sec   137 MBytes  18.9 Mbits/sec
+[ 42]  0.0-60.7 sec   161 MBytes  22.2 Mbits/sec
+[ 57]  0.0-60.7 sec   134 MBytes  18.6 Mbits/sec
+[ 58]  0.0-60.7 sec   147 MBytes  20.3 Mbits/sec
+[ 40]  0.0-60.8 sec   121 MBytes  16.7 Mbits/sec
+[ 21]  0.0-60.8 sec   116 MBytes  16.0 Mbits/sec
+[ 10]  0.0-60.9 sec   109 MBytes  15.0 Mbits/sec
+[ 31]  0.0-61.4 sec   130 MBytes  17.7 Mbits/sec
+[SUM]  0.0-61.4 sec  6.99 GBytes   978 Mbits/sec
+N = 70
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  4] local 149.165.148.5 port 50581 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50582 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50583 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50584 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50585 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50586 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50587 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50588 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50589 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50590 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50591 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50593 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50592 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50595 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50596 connected with 198.202.120.7 port 5001
+[ 72] local 149.165.148.5 port 50648 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50594 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50597 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50599 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50598 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50602 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50601 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50600 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50605 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50603 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50604 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50606 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50607 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.5 port 50608 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.5 port 50610 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50609 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.5 port 50611 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.5 port 50612 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.5 port 50613 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.5 port 50614 connected with 198.202.120.7 port 5001
+[ 38] local 149.165.148.5 port 50615 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.5 port 50616 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.5 port 50617 connected with 198.202.120.7 port 5001
+[ 41] local 149.165.148.5 port 50618 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.5 port 50619 connected with 198.202.120.7 port 5001
+[ 43] local 149.165.148.5 port 50620 connected with 198.202.120.7 port 5001
+[ 44] local 149.165.148.5 port 50621 connected with 198.202.120.7 port 5001
+[ 45] local 149.165.148.5 port 50622 connected with 198.202.120.7 port 5001
+[ 53] local 149.165.148.5 port 50630 connected with 198.202.120.7 port 5001
+[ 47] local 149.165.148.5 port 50624 connected with 198.202.120.7 port 5001
+[ 50] local 149.165.148.5 port 50625 connected with 198.202.120.7 port 5001
+[ 48] local 149.165.148.5 port 50627 connected with 198.202.120.7 port 5001
+[ 46] local 149.165.148.5 port 50623 connected with 198.202.120.7 port 5001
+[ 49] local 149.165.148.5 port 50626 connected with 198.202.120.7 port 5001
+[ 52] local 149.165.148.5 port 50629 connected with 198.202.120.7 port 5001
+[ 51] local 149.165.148.5 port 50628 connected with 198.202.120.7 port 5001
+[ 55] local 149.165.148.5 port 50632 connected with 198.202.120.7 port 5001
+[ 54] local 149.165.148.5 port 50631 connected with 198.202.120.7 port 5001
+[ 57] local 149.165.148.5 port 50634 connected with 198.202.120.7 port 5001
+[ 56] local 149.165.148.5 port 50633 connected with 198.202.120.7 port 5001
+[ 58] local 149.165.148.5 port 50635 connected with 198.202.120.7 port 5001
+[ 60] local 149.165.148.5 port 50637 connected with 198.202.120.7 port 5001
+[ 59] local 149.165.148.5 port 50636 connected with 198.202.120.7 port 5001
+[ 61] local 149.165.148.5 port 50638 connected with 198.202.120.7 port 5001
+[ 62] local 149.165.148.5 port 50639 connected with 198.202.120.7 port 5001
+[ 63] local 149.165.148.5 port 50640 connected with 198.202.120.7 port 5001
+[ 64] local 149.165.148.5 port 50641 connected with 198.202.120.7 port 5001
+[ 66] local 149.165.148.5 port 50643 connected with 198.202.120.7 port 5001
+[ 65] local 149.165.148.5 port 50642 connected with 198.202.120.7 port 5001
+[ 67] local 149.165.148.5 port 50644 connected with 198.202.120.7 port 5001
+[ 68] local 149.165.148.5 port 50645 connected with 198.202.120.7 port 5001
+[ 69] local 149.165.148.5 port 50646 connected with 198.202.120.7 port 5001
+[ 70] local 149.165.148.5 port 50647 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50580 connected with 198.202.120.7 port 5001
+[ 71] local 149.165.148.5 port 50649 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 23]  0.0-60.0 sec   120 MBytes  16.8 Mbits/sec
+[ 57]  0.0-60.0 sec   113 MBytes  15.8 Mbits/sec
+[ 56]  0.0-60.0 sec  72.0 MBytes  10.1 Mbits/sec
+[  7]  0.0-60.0 sec   123 MBytes  17.1 Mbits/sec
+[ 30]  0.0-60.0 sec   105 MBytes  14.6 Mbits/sec
+[ 33]  0.0-60.0 sec  60.9 MBytes  8.51 Mbits/sec
+[ 34]  0.0-60.0 sec  82.9 MBytes  11.6 Mbits/sec
+[ 14]  0.0-60.0 sec   114 MBytes  15.9 Mbits/sec
+[ 37]  0.0-60.0 sec  96.2 MBytes  13.4 Mbits/sec
+[ 40]  0.0-60.0 sec   104 MBytes  14.6 Mbits/sec
+[  6]  0.0-60.1 sec   136 MBytes  19.0 Mbits/sec
+[ 46]  0.0-60.0 sec   101 MBytes  14.1 Mbits/sec
+[ 60]  0.0-60.1 sec  73.6 MBytes  10.3 Mbits/sec
+[ 43]  0.0-60.1 sec  98.8 MBytes  13.8 Mbits/sec
+[ 12]  0.0-60.1 sec   116 MBytes  16.2 Mbits/sec
+[ 55]  0.0-60.1 sec  91.0 MBytes  12.7 Mbits/sec
+[ 26]  0.0-60.1 sec  76.4 MBytes  10.7 Mbits/sec
+[ 64]  0.0-60.2 sec   102 MBytes  14.3 Mbits/sec
+[ 35]  0.0-60.2 sec  90.0 MBytes  12.5 Mbits/sec
+[ 51]  0.0-60.2 sec  90.2 MBytes  12.6 Mbits/sec
+[ 58]  0.0-60.2 sec  94.0 MBytes  13.1 Mbits/sec
+[ 67]  0.0-60.2 sec   140 MBytes  19.5 Mbits/sec
+[ 28]  0.0-60.2 sec   122 MBytes  17.0 Mbits/sec
+[ 42]  0.0-60.2 sec   129 MBytes  18.0 Mbits/sec
+[ 65]  0.0-60.2 sec  93.0 MBytes  13.0 Mbits/sec
+[ 61]  0.0-60.2 sec  92.6 MBytes  12.9 Mbits/sec
+[ 62]  0.0-60.2 sec   109 MBytes  15.2 Mbits/sec
+[ 31]  0.0-60.2 sec   104 MBytes  14.5 Mbits/sec
+[ 63]  0.0-60.2 sec  77.9 MBytes  10.8 Mbits/sec
+[  3]  0.0-60.2 sec   115 MBytes  16.0 Mbits/sec
+[ 54]  0.0-60.3 sec  88.5 MBytes  12.3 Mbits/sec
+[ 17]  0.0-60.3 sec  97.4 MBytes  13.5 Mbits/sec
+[ 10]  0.0-60.3 sec   125 MBytes  17.3 Mbits/sec
+[ 49]  0.0-60.3 sec   114 MBytes  15.8 Mbits/sec
+[ 68]  0.0-60.3 sec   108 MBytes  15.1 Mbits/sec
+[  4]  0.0-60.3 sec   130 MBytes  18.0 Mbits/sec
+[ 22]  0.0-60.4 sec   123 MBytes  17.1 Mbits/sec
+[ 50]  0.0-60.4 sec  94.8 MBytes  13.2 Mbits/sec
+[ 21]  0.0-60.4 sec   123 MBytes  17.1 Mbits/sec
+[ 25]  0.0-60.4 sec  93.4 MBytes  13.0 Mbits/sec
+[ 48]  0.0-60.4 sec  86.2 MBytes  12.0 Mbits/sec
+[ 16]  0.0-60.5 sec   108 MBytes  15.0 Mbits/sec
+[ 18]  0.0-60.4 sec   109 MBytes  15.1 Mbits/sec
+[ 15]  0.0-60.5 sec  96.9 MBytes  13.4 Mbits/sec
+[ 72]  0.0-60.5 sec   121 MBytes  16.7 Mbits/sec
+[ 71]  0.0-60.5 sec  95.2 MBytes  13.2 Mbits/sec
+[ 47]  0.0-60.5 sec   104 MBytes  14.5 Mbits/sec
+[ 69]  0.0-60.5 sec   102 MBytes  14.1 Mbits/sec
+[ 66]  0.0-60.5 sec  96.8 MBytes  13.4 Mbits/sec
+[ 11]  0.0-60.5 sec  81.8 MBytes  11.3 Mbits/sec
+[ 44]  0.0-60.5 sec   115 MBytes  15.9 Mbits/sec
+[ 45]  0.0-60.6 sec  81.1 MBytes  11.2 Mbits/sec
+[ 19]  0.0-60.7 sec  80.9 MBytes  11.2 Mbits/sec
+[ 59]  0.0-60.7 sec   113 MBytes  15.7 Mbits/sec
+[ 13]  0.0-60.7 sec   124 MBytes  17.2 Mbits/sec
+[ 29]  0.0-60.7 sec  89.2 MBytes  12.3 Mbits/sec
+[ 20]  0.0-60.7 sec  81.8 MBytes  11.3 Mbits/sec
+[  8]  0.0-60.7 sec   140 MBytes  19.3 Mbits/sec
+[  9]  0.0-60.8 sec   111 MBytes  15.4 Mbits/sec
+[ 24]  0.0-60.8 sec  80.6 MBytes  11.1 Mbits/sec
+[ 70]  0.0-60.8 sec  92.0 MBytes  12.7 Mbits/sec
+[  5]  0.0-60.8 sec  81.1 MBytes  11.2 Mbits/sec
+[ 41]  0.0-60.8 sec   113 MBytes  15.6 Mbits/sec
+[ 32]  0.0-60.9 sec   100 MBytes  13.9 Mbits/sec
+[ 27]  0.0-61.0 sec   121 MBytes  16.6 Mbits/sec
+[ 36]  0.0-61.0 sec  97.1 MBytes  13.4 Mbits/sec
+[ 39]  0.0-61.1 sec   143 MBytes  19.7 Mbits/sec
+[ 53]  0.0-61.1 sec  82.9 MBytes  11.4 Mbits/sec
+[ 38]  0.0-61.2 sec   119 MBytes  16.3 Mbits/sec
+[ 52]  0.0-61.8 sec  79.8 MBytes  10.8 Mbits/sec
+[SUM]  0.0-61.8 sec  7.02 GBytes   975 Mbits/sec
+N = 80
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 82] local 149.165.148.5 port 50733 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50656 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50655 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50657 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50658 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50659 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50661 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50662 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50663 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50664 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50660 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50666 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50667 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50665 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50668 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50670 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50669 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50671 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50672 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50673 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50674 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50675 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50676 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50678 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50679 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50681 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50680 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.5 port 50682 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50683 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50677 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.5 port 50684 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.5 port 50685 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.5 port 50687 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.5 port 50686 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.5 port 50688 connected with 198.202.120.7 port 5001
+[ 38] local 149.165.148.5 port 50689 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.5 port 50690 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.5 port 50691 connected with 198.202.120.7 port 5001
+[ 46] local 149.165.148.5 port 50697 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.5 port 50693 connected with 198.202.120.7 port 5001
+[ 44] local 149.165.148.5 port 50694 connected with 198.202.120.7 port 5001
+[ 41] local 149.165.148.5 port 50692 connected with 198.202.120.7 port 5001
+[ 43] local 149.165.148.5 port 50695 connected with 198.202.120.7 port 5001
+[ 47] local 149.165.148.5 port 50698 connected with 198.202.120.7 port 5001
+[ 45] local 149.165.148.5 port 50696 connected with 198.202.120.7 port 5001
+[ 48] local 149.165.148.5 port 50699 connected with 198.202.120.7 port 5001
+[ 49] local 149.165.148.5 port 50700 connected with 198.202.120.7 port 5001
+[ 50] local 149.165.148.5 port 50701 connected with 198.202.120.7 port 5001
+[ 51] local 149.165.148.5 port 50702 connected with 198.202.120.7 port 5001
+[ 53] local 149.165.148.5 port 50704 connected with 198.202.120.7 port 5001
+[ 55] local 149.165.148.5 port 50706 connected with 198.202.120.7 port 5001
+[ 52] local 149.165.148.5 port 50703 connected with 198.202.120.7 port 5001
+[ 54] local 149.165.148.5 port 50705 connected with 198.202.120.7 port 5001
+[ 56] local 149.165.148.5 port 50707 connected with 198.202.120.7 port 5001
+[ 57] local 149.165.148.5 port 50708 connected with 198.202.120.7 port 5001
+[ 58] local 149.165.148.5 port 50709 connected with 198.202.120.7 port 5001
+[ 59] local 149.165.148.5 port 50710 connected with 198.202.120.7 port 5001
+[ 60] local 149.165.148.5 port 50711 connected with 198.202.120.7 port 5001
+[ 61] local 149.165.148.5 port 50712 connected with 198.202.120.7 port 5001
+[ 62] local 149.165.148.5 port 50713 connected with 198.202.120.7 port 5001
+[ 63] local 149.165.148.5 port 50714 connected with 198.202.120.7 port 5001
+[ 65] local 149.165.148.5 port 50716 connected with 198.202.120.7 port 5001
+[ 64] local 149.165.148.5 port 50715 connected with 198.202.120.7 port 5001
+[ 66] local 149.165.148.5 port 50717 connected with 198.202.120.7 port 5001
+[ 67] local 149.165.148.5 port 50718 connected with 198.202.120.7 port 5001
+[ 68] local 149.165.148.5 port 50719 connected with 198.202.120.7 port 5001
+[ 69] local 149.165.148.5 port 50720 connected with 198.202.120.7 port 5001
+[ 71] local 149.165.148.5 port 50722 connected with 198.202.120.7 port 5001
+[ 70] local 149.165.148.5 port 50721 connected with 198.202.120.7 port 5001
+[ 73] local 149.165.148.5 port 50724 connected with 198.202.120.7 port 5001
+[ 76] local 149.165.148.5 port 50727 connected with 198.202.120.7 port 5001
+[ 78] local 149.165.148.5 port 50729 connected with 198.202.120.7 port 5001
+[ 77] local 149.165.148.5 port 50728 connected with 198.202.120.7 port 5001
+[ 72] local 149.165.148.5 port 50723 connected with 198.202.120.7 port 5001
+[ 79] local 149.165.148.5 port 50730 connected with 198.202.120.7 port 5001
+[ 74] local 149.165.148.5 port 50725 connected with 198.202.120.7 port 5001
+[ 75] local 149.165.148.5 port 50726 connected with 198.202.120.7 port 5001
+[ 81] local 149.165.148.5 port 50732 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50654 connected with 198.202.120.7 port 5001
+[ 80] local 149.165.148.5 port 50731 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 25]  0.0-60.0 sec   102 MBytes  14.3 Mbits/sec
+[ 30]  0.0-60.0 sec  60.5 MBytes  8.46 Mbits/sec
+[ 44]  0.0-60.0 sec  82.6 MBytes  11.6 Mbits/sec
+[ 38]  0.0-60.0 sec   100 MBytes  14.0 Mbits/sec
+[ 37]  0.0-60.1 sec  92.9 MBytes  13.0 Mbits/sec
+[ 47]  0.0-60.1 sec  75.0 MBytes  10.5 Mbits/sec
+[ 72]  0.0-60.1 sec  93.5 MBytes  13.1 Mbits/sec
+[ 74]  0.0-60.1 sec  92.6 MBytes  12.9 Mbits/sec
+[ 80]  0.0-60.1 sec  88.2 MBytes  12.3 Mbits/sec
+[ 18]  0.0-60.1 sec  95.0 MBytes  13.3 Mbits/sec
+[ 31]  0.0-60.1 sec   110 MBytes  15.4 Mbits/sec
+[ 35]  0.0-60.1 sec   112 MBytes  15.7 Mbits/sec
+[ 52]  0.0-60.1 sec  83.4 MBytes  11.6 Mbits/sec
+[ 58]  0.0-60.1 sec  69.0 MBytes  9.63 Mbits/sec
+[ 62]  0.0-60.1 sec  86.9 MBytes  12.1 Mbits/sec
+[  7]  0.0-60.2 sec   112 MBytes  15.6 Mbits/sec
+[  9]  0.0-60.2 sec  81.8 MBytes  11.4 Mbits/sec
+[ 15]  0.0-60.2 sec   129 MBytes  18.0 Mbits/sec
+[ 14]  0.0-60.1 sec  92.2 MBytes  12.9 Mbits/sec
+[ 32]  0.0-60.1 sec  82.6 MBytes  11.5 Mbits/sec
+[ 33]  0.0-60.1 sec   130 MBytes  18.1 Mbits/sec
+[ 41]  0.0-60.2 sec  74.5 MBytes  10.4 Mbits/sec
+[ 45]  0.0-60.2 sec   102 MBytes  14.1 Mbits/sec
+[ 77]  0.0-60.2 sec   109 MBytes  15.3 Mbits/sec
+[ 81]  0.0-60.1 sec  92.4 MBytes  12.9 Mbits/sec
+[  3]  0.0-60.1 sec  67.4 MBytes  9.40 Mbits/sec
+[ 12]  0.0-60.2 sec  95.5 MBytes  13.3 Mbits/sec
+[ 23]  0.0-60.2 sec  71.5 MBytes  9.96 Mbits/sec
+[ 59]  0.0-60.2 sec   100 MBytes  14.0 Mbits/sec
+[ 60]  0.0-60.2 sec  78.1 MBytes  10.9 Mbits/sec
+[ 61]  0.0-60.2 sec  94.9 MBytes  13.2 Mbits/sec
+[ 64]  0.0-60.3 sec   112 MBytes  15.6 Mbits/sec
+[ 71]  0.0-60.2 sec   131 MBytes  18.2 Mbits/sec
+[ 76]  0.0-60.2 sec  70.6 MBytes  9.84 Mbits/sec
+[ 82]  0.0-60.3 sec  97.6 MBytes  13.6 Mbits/sec
+[  4]  0.0-60.3 sec  80.0 MBytes  11.1 Mbits/sec
+[ 19]  0.0-60.3 sec  88.8 MBytes  12.4 Mbits/sec
+[ 17]  0.0-60.3 sec  95.5 MBytes  13.3 Mbits/sec
+[ 26]  0.0-60.3 sec  94.1 MBytes  13.1 Mbits/sec
+[ 40]  0.0-60.3 sec   116 MBytes  16.1 Mbits/sec
+[ 50]  0.0-60.3 sec  94.4 MBytes  13.1 Mbits/sec
+[ 22]  0.0-60.3 sec  95.8 MBytes  13.3 Mbits/sec
+[ 42]  0.0-60.3 sec  78.8 MBytes  10.9 Mbits/sec
+[ 48]  0.0-60.3 sec  93.0 MBytes  12.9 Mbits/sec
+[ 55]  0.0-60.4 sec  79.9 MBytes  11.1 Mbits/sec
+[ 69]  0.0-60.3 sec  91.1 MBytes  12.7 Mbits/sec
+[ 43]  0.0-60.4 sec  60.0 MBytes  8.33 Mbits/sec
+[ 57]  0.0-60.4 sec  88.4 MBytes  12.3 Mbits/sec
+[ 68]  0.0-60.4 sec  93.2 MBytes  12.9 Mbits/sec
+[ 24]  0.0-60.4 sec  90.5 MBytes  12.6 Mbits/sec
+[  8]  0.0-60.5 sec  93.2 MBytes  12.9 Mbits/sec
+[ 10]  0.0-60.5 sec  80.9 MBytes  11.2 Mbits/sec
+[ 46]  0.0-60.5 sec   100 MBytes  13.9 Mbits/sec
+[ 56]  0.0-60.5 sec  95.4 MBytes  13.2 Mbits/sec
+[ 79]  0.0-60.5 sec   104 MBytes  14.5 Mbits/sec
+[ 28]  0.0-60.5 sec  92.6 MBytes  12.8 Mbits/sec
+[ 54]  0.0-60.5 sec  91.2 MBytes  12.6 Mbits/sec
+[ 78]  0.0-60.5 sec  82.9 MBytes  11.5 Mbits/sec
+[ 16]  0.0-60.6 sec   101 MBytes  13.9 Mbits/sec
+[ 21]  0.0-60.6 sec   108 MBytes  15.0 Mbits/sec
+[  5]  0.0-60.6 sec  63.8 MBytes  8.83 Mbits/sec
+[ 39]  0.0-60.6 sec  84.2 MBytes  11.7 Mbits/sec
+[  6]  0.0-60.6 sec  71.6 MBytes  9.92 Mbits/sec
+[ 13]  0.0-60.6 sec  60.6 MBytes  8.39 Mbits/sec
+[ 20]  0.0-60.6 sec  92.0 MBytes  12.7 Mbits/sec
+[ 51]  0.0-60.6 sec  97.0 MBytes  13.4 Mbits/sec
+[ 66]  0.0-60.7 sec  81.9 MBytes  11.3 Mbits/sec
+[ 29]  0.0-60.7 sec  61.8 MBytes  8.54 Mbits/sec
+[ 49]  0.0-60.7 sec  76.0 MBytes  10.5 Mbits/sec
+[ 27]  0.0-60.7 sec  77.0 MBytes  10.6 Mbits/sec
+[ 11]  0.0-60.7 sec   101 MBytes  14.0 Mbits/sec
+[ 63]  0.0-60.8 sec  76.1 MBytes  10.5 Mbits/sec
+[ 75]  0.0-60.8 sec  69.8 MBytes  9.62 Mbits/sec
+[ 53]  0.0-60.8 sec  97.9 MBytes  13.5 Mbits/sec
+[ 73]  0.0-60.8 sec  80.9 MBytes  11.2 Mbits/sec
+[ 65]  0.0-60.9 sec  97.6 MBytes  13.4 Mbits/sec
+[ 34]  0.0-60.9 sec  80.1 MBytes  11.0 Mbits/sec
+[ 70]  0.0-61.0 sec  82.5 MBytes  11.3 Mbits/sec
+[ 36]  0.0-61.3 sec  81.4 MBytes  11.1 Mbits/sec
+[ 67]  0.0-61.4 sec   107 MBytes  14.7 Mbits/sec
+[SUM]  0.0-61.4 sec  7.03 GBytes   984 Mbits/sec
+N = 90
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.148.5 port 50740 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50741 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.5 port 50739 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50742 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50743 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50744 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50745 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50746 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50747 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50748 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50749 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50750 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50751 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50752 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50753 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50754 connected with 198.202.120.7 port 5001
+[ 90] local 149.165.148.5 port 50825 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50762 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50756 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50763 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.5 port 50766 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50767 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50759 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50765 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50764 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50758 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.5 port 50771 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50757 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50760 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.5 port 50769 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.5 port 50770 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50755 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.5 port 50768 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50761 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.5 port 50772 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.5 port 50774 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.5 port 50775 connected with 198.202.120.7 port 5001
+[ 38] local 149.165.148.5 port 50773 connected with 198.202.120.7 port 5001
+[ 41] local 149.165.148.5 port 50776 connected with 198.202.120.7 port 5001
+[ 43] local 149.165.148.5 port 50778 connected with 198.202.120.7 port 5001
+[ 44] local 149.165.148.5 port 50779 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.5 port 50777 connected with 198.202.120.7 port 5001
+[ 45] local 149.165.148.5 port 50780 connected with 198.202.120.7 port 5001
+[ 46] local 149.165.148.5 port 50781 connected with 198.202.120.7 port 5001
+[ 47] local 149.165.148.5 port 50782 connected with 198.202.120.7 port 5001
+[ 48] local 149.165.148.5 port 50783 connected with 198.202.120.7 port 5001
+[ 49] local 149.165.148.5 port 50784 connected with 198.202.120.7 port 5001
+[ 50] local 149.165.148.5 port 50785 connected with 198.202.120.7 port 5001
+[ 51] local 149.165.148.5 port 50786 connected with 198.202.120.7 port 5001
+[ 52] local 149.165.148.5 port 50787 connected with 198.202.120.7 port 5001
+[ 53] local 149.165.148.5 port 50788 connected with 198.202.120.7 port 5001
+[ 54] local 149.165.148.5 port 50789 connected with 198.202.120.7 port 5001
+[ 55] local 149.165.148.5 port 50790 connected with 198.202.120.7 port 5001
+[ 64] local 149.165.148.5 port 50800 connected with 198.202.120.7 port 5001
+[ 62] local 149.165.148.5 port 50797 connected with 198.202.120.7 port 5001
+[ 79] local 149.165.148.5 port 50816 connected with 198.202.120.7 port 5001
+[ 70] local 149.165.148.5 port 50805 connected with 198.202.120.7 port 5001
+[ 72] local 149.165.148.5 port 50807 connected with 198.202.120.7 port 5001
+[ 68] local 149.165.148.5 port 50803 connected with 198.202.120.7 port 5001
+[ 61] local 149.165.148.5 port 50796 connected with 198.202.120.7 port 5001
+[ 66] local 149.165.148.5 port 50801 connected with 198.202.120.7 port 5001
+[ 65] local 149.165.148.5 port 50798 connected with 198.202.120.7 port 5001
+[ 59] local 149.165.148.5 port 50793 connected with 198.202.120.7 port 5001
+[ 57] local 149.165.148.5 port 50792 connected with 198.202.120.7 port 5001
+[ 71] local 149.165.148.5 port 50806 connected with 198.202.120.7 port 5001
+[ 81] local 149.165.148.5 port 50815 connected with 198.202.120.7 port 5001
+[ 69] local 149.165.148.5 port 50804 connected with 198.202.120.7 port 5001
+[ 77] local 149.165.148.5 port 50812 connected with 198.202.120.7 port 5001
+[ 58] local 149.165.148.5 port 50794 connected with 198.202.120.7 port 5001
+[ 73] local 149.165.148.5 port 50808 connected with 198.202.120.7 port 5001
+[ 75] local 149.165.148.5 port 50810 connected with 198.202.120.7 port 5001
+[ 78] local 149.165.148.5 port 50813 connected with 198.202.120.7 port 5001
+[ 67] local 149.165.148.5 port 50802 connected with 198.202.120.7 port 5001
+[ 60] local 149.165.148.5 port 50795 connected with 198.202.120.7 port 5001
+[ 74] local 149.165.148.5 port 50809 connected with 198.202.120.7 port 5001
+[ 56] local 149.165.148.5 port 50791 connected with 198.202.120.7 port 5001
+[ 63] local 149.165.148.5 port 50799 connected with 198.202.120.7 port 5001
+[ 80] local 149.165.148.5 port 50814 connected with 198.202.120.7 port 5001
+[ 83] local 149.165.148.5 port 50818 connected with 198.202.120.7 port 5001
+[ 76] local 149.165.148.5 port 50811 connected with 198.202.120.7 port 5001
+[ 82] local 149.165.148.5 port 50817 connected with 198.202.120.7 port 5001
+[ 84] local 149.165.148.5 port 50819 connected with 198.202.120.7 port 5001
+[ 86] local 149.165.148.5 port 50821 connected with 198.202.120.7 port 5001
+[ 85] local 149.165.148.5 port 50820 connected with 198.202.120.7 port 5001
+[ 87] local 149.165.148.5 port 50823 connected with 198.202.120.7 port 5001
+[ 92] local 149.165.148.5 port 50827 connected with 198.202.120.7 port 5001
+[ 91] local 149.165.148.5 port 50826 connected with 198.202.120.7 port 5001
+[ 88] local 149.165.148.5 port 50822 connected with 198.202.120.7 port 5001
+[ 89] local 149.165.148.5 port 50824 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50738 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 14]  0.0-60.0 sec   118 MBytes  16.6 Mbits/sec
+[ 25]  0.0-60.0 sec   118 MBytes  16.5 Mbits/sec
+[ 11]  0.0-60.0 sec  85.8 MBytes  12.0 Mbits/sec
+[ 66]  0.0-60.0 sec  55.2 MBytes  7.72 Mbits/sec
+[ 17]  0.0-60.0 sec   139 MBytes  19.5 Mbits/sec
+[ 56]  0.0-60.0 sec  29.1 MBytes  4.07 Mbits/sec
+[ 54]  0.0-60.0 sec  66.8 MBytes  9.33 Mbits/sec
+[ 78]  0.0-60.1 sec  78.4 MBytes  10.9 Mbits/sec
+[ 63]  0.0-60.1 sec  68.1 MBytes  9.52 Mbits/sec
+[  6]  0.0-60.1 sec   116 MBytes  16.1 Mbits/sec
+[ 55]  0.0-60.1 sec  65.5 MBytes  9.14 Mbits/sec
+[ 48]  0.0-60.1 sec  98.9 MBytes  13.8 Mbits/sec
+[ 69]  0.0-60.1 sec  58.8 MBytes  8.20 Mbits/sec
+[ 21]  0.0-60.1 sec   104 MBytes  14.4 Mbits/sec
+[ 26]  0.0-60.1 sec  66.0 MBytes  9.21 Mbits/sec
+[ 58]  0.0-60.1 sec  35.6 MBytes  4.97 Mbits/sec
+[ 22]  0.0-60.1 sec  82.2 MBytes  11.5 Mbits/sec
+[ 28]  0.0-60.1 sec  94.8 MBytes  13.2 Mbits/sec
+[ 35]  0.0-60.1 sec  76.2 MBytes  10.6 Mbits/sec
+[ 65]  0.0-60.2 sec  60.4 MBytes  8.42 Mbits/sec
+[ 19]  0.0-60.2 sec  85.5 MBytes  11.9 Mbits/sec
+[  8]  0.0-60.2 sec   101 MBytes  14.1 Mbits/sec
+[ 83]  0.0-60.2 sec  69.1 MBytes  9.63 Mbits/sec
+[ 60]  0.0-60.2 sec  65.1 MBytes  9.07 Mbits/sec
+[ 43]  0.0-60.2 sec  64.9 MBytes  9.04 Mbits/sec
+[ 50]  0.0-60.2 sec  75.2 MBytes  10.5 Mbits/sec
+[ 71]  0.0-60.2 sec  59.2 MBytes  8.25 Mbits/sec
+[ 91]  0.0-60.2 sec  76.6 MBytes  10.7 Mbits/sec
+[ 34]  0.0-60.2 sec  70.2 MBytes  9.78 Mbits/sec
+[ 51]  0.0-60.2 sec  92.6 MBytes  12.9 Mbits/sec
+[  7]  0.0-60.3 sec  73.6 MBytes  10.2 Mbits/sec
+[ 16]  0.0-60.2 sec  93.0 MBytes  12.9 Mbits/sec
+[ 29]  0.0-60.3 sec  58.4 MBytes  8.13 Mbits/sec
+[ 39]  0.0-60.3 sec  83.5 MBytes  11.6 Mbits/sec
+[ 77]  0.0-60.2 sec  59.0 MBytes  8.22 Mbits/sec
+[ 12]  0.0-60.3 sec  90.9 MBytes  12.6 Mbits/sec
+[ 15]  0.0-60.3 sec  90.9 MBytes  12.6 Mbits/sec
+[ 30]  0.0-60.3 sec  85.0 MBytes  11.8 Mbits/sec
+[ 44]  0.0-60.3 sec  90.6 MBytes  12.6 Mbits/sec
+[ 61]  0.0-60.3 sec  98.2 MBytes  13.7 Mbits/sec
+[ 87]  0.0-60.3 sec  70.6 MBytes  9.83 Mbits/sec
+[  4]  0.0-60.3 sec  85.5 MBytes  11.9 Mbits/sec
+[ 92]  0.0-60.3 sec  83.4 MBytes  11.6 Mbits/sec
+[ 47]  0.0-60.3 sec  83.2 MBytes  11.6 Mbits/sec
+[ 18]  0.0-60.3 sec  92.5 MBytes  12.9 Mbits/sec
+[ 40]  0.0-60.3 sec  94.5 MBytes  13.1 Mbits/sec
+[ 46]  0.0-60.3 sec  81.1 MBytes  11.3 Mbits/sec
+[ 84]  0.0-60.4 sec  89.4 MBytes  12.4 Mbits/sec
+[ 62]  0.0-60.4 sec  97.1 MBytes  13.5 Mbits/sec
+[ 59]  0.0-60.4 sec   104 MBytes  14.5 Mbits/sec
+[ 74]  0.0-60.4 sec  75.9 MBytes  10.5 Mbits/sec
+[ 81]  0.0-60.4 sec  48.6 MBytes  6.75 Mbits/sec
+[ 53]  0.0-60.4 sec  79.4 MBytes  11.0 Mbits/sec
+[  9]  0.0-60.5 sec   109 MBytes  15.1 Mbits/sec
+[ 85]  0.0-60.5 sec   115 MBytes  16.0 Mbits/sec
+[ 57]  0.0-60.5 sec  73.5 MBytes  10.2 Mbits/sec
+[ 52]  0.0-60.5 sec  67.2 MBytes  9.33 Mbits/sec
+[ 79]  0.0-60.5 sec  76.6 MBytes  10.6 Mbits/sec
+[ 33]  0.0-60.5 sec  59.0 MBytes  8.18 Mbits/sec
+[ 32]  0.0-60.6 sec  85.5 MBytes  11.8 Mbits/sec
+[ 76]  0.0-60.6 sec  51.0 MBytes  7.06 Mbits/sec
+[ 27]  0.0-60.6 sec  82.4 MBytes  11.4 Mbits/sec
+[  5]  0.0-60.6 sec  83.6 MBytes  11.6 Mbits/sec
+[ 24]  0.0-60.6 sec  46.1 MBytes  6.38 Mbits/sec
+[ 70]  0.0-60.7 sec  90.5 MBytes  12.5 Mbits/sec
+[ 73]  0.0-60.7 sec  91.4 MBytes  12.6 Mbits/sec
+[ 38]  0.0-60.7 sec  84.4 MBytes  11.7 Mbits/sec
+[ 10]  0.0-60.7 sec  93.1 MBytes  12.9 Mbits/sec
+[ 20]  0.0-60.7 sec   102 MBytes  14.1 Mbits/sec
+[ 82]  0.0-60.7 sec  94.0 MBytes  13.0 Mbits/sec
+[ 90]  0.0-60.7 sec  76.9 MBytes  10.6 Mbits/sec
+[ 86]  0.0-60.8 sec   100 MBytes  13.8 Mbits/sec
+[ 64]  0.0-60.8 sec  53.6 MBytes  7.40 Mbits/sec
+[ 89]  0.0-60.8 sec  83.2 MBytes  11.5 Mbits/sec
+[ 36]  0.0-60.8 sec  81.6 MBytes  11.3 Mbits/sec
+[ 45]  0.0-60.9 sec  62.5 MBytes  8.61 Mbits/sec
+[ 68]  0.0-60.9 sec  51.5 MBytes  7.09 Mbits/sec
+[ 80]  0.0-60.9 sec  88.1 MBytes  12.1 Mbits/sec
+[ 13]  0.0-60.9 sec  81.8 MBytes  11.3 Mbits/sec
+[ 49]  0.0-60.9 sec  76.2 MBytes  10.5 Mbits/sec
+[ 67]  0.0-60.9 sec  59.0 MBytes  8.12 Mbits/sec
+[ 41]  0.0-60.9 sec  77.8 MBytes  10.7 Mbits/sec
+[ 31]  0.0-61.0 sec  81.6 MBytes  11.2 Mbits/sec
+[ 37]  0.0-61.1 sec  88.2 MBytes  12.1 Mbits/sec
+[ 88]  0.0-61.1 sec  69.2 MBytes  9.50 Mbits/sec
+[ 23]  0.0-61.1 sec   102 MBytes  14.0 Mbits/sec
+[ 42]  0.0-61.2 sec  97.9 MBytes  13.4 Mbits/sec
+[  3]  0.0-61.2 sec  64.9 MBytes  8.89 Mbits/sec
+[ 75]  0.0-61.3 sec  73.9 MBytes  10.1 Mbits/sec
+[ 72]  0.0-61.6 sec  70.6 MBytes  9.62 Mbits/sec
+[SUM]  0.0-61.6 sec  7.06 GBytes   985 Mbits/sec
+N = 100
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  4] local 149.165.148.5 port 50832 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.5 port 50833 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.5 port 50835 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.5 port 50837 connected with 198.202.120.7 port 5001
+[102] local 149.165.148.5 port 50930 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.5 port 50836 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.5 port 50840 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.5 port 50834 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.5 port 50839 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.5 port 50838 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.5 port 50842 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.5 port 50845 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.5 port 50841 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.5 port 50843 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.5 port 50844 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.5 port 50847 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.5 port 50846 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.5 port 50848 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.5 port 50849 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.5 port 50851 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.5 port 50850 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.5 port 50854 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.5 port 50855 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.5 port 50853 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.5 port 50852 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.5 port 50856 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.5 port 50858 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.5 port 50857 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.5 port 50859 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.5 port 50861 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.5 port 50862 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.5 port 50863 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.5 port 50860 connected with 198.202.120.7 port 5001
+[ 38] local 149.165.148.5 port 50866 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.5 port 50864 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.5 port 50865 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.5 port 50867 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.5 port 50868 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.5 port 50870 connected with 198.202.120.7 port 5001
+[ 41] local 149.165.148.5 port 50869 connected with 198.202.120.7 port 5001
+[ 43] local 149.165.148.5 port 50871 connected with 198.202.120.7 port 5001
+[ 45] local 149.165.148.5 port 50873 connected with 198.202.120.7 port 5001
+[ 46] local 149.165.148.5 port 50874 connected with 198.202.120.7 port 5001
+[ 44] local 149.165.148.5 port 50872 connected with 198.202.120.7 port 5001
+[ 47] local 149.165.148.5 port 50875 connected with 198.202.120.7 port 5001
+[ 48] local 149.165.148.5 port 50876 connected with 198.202.120.7 port 5001
+[ 49] local 149.165.148.5 port 50877 connected with 198.202.120.7 port 5001
+[ 50] local 149.165.148.5 port 50878 connected with 198.202.120.7 port 5001
+[ 51] local 149.165.148.5 port 50879 connected with 198.202.120.7 port 5001
+[ 52] local 149.165.148.5 port 50880 connected with 198.202.120.7 port 5001
+[ 55] local 149.165.148.5 port 50883 connected with 198.202.120.7 port 5001
+[ 54] local 149.165.148.5 port 50882 connected with 198.202.120.7 port 5001
+[ 53] local 149.165.148.5 port 50881 connected with 198.202.120.7 port 5001
+[ 57] local 149.165.148.5 port 50885 connected with 198.202.120.7 port 5001
+[ 56] local 149.165.148.5 port 50886 connected with 198.202.120.7 port 5001
+[ 59] local 149.165.148.5 port 50887 connected with 198.202.120.7 port 5001
+[ 58] local 149.165.148.5 port 50884 connected with 198.202.120.7 port 5001
+[ 61] local 149.165.148.5 port 50889 connected with 198.202.120.7 port 5001
+[ 60] local 149.165.148.5 port 50888 connected with 198.202.120.7 port 5001
+[ 64] local 149.165.148.5 port 50891 connected with 198.202.120.7 port 5001
+[ 63] local 149.165.148.5 port 50890 connected with 198.202.120.7 port 5001
+[ 65] local 149.165.148.5 port 50892 connected with 198.202.120.7 port 5001
+[ 62] local 149.165.148.5 port 50893 connected with 198.202.120.7 port 5001
+[ 66] local 149.165.148.5 port 50894 connected with 198.202.120.7 port 5001
+[ 68] local 149.165.148.5 port 50896 connected with 198.202.120.7 port 5001
+[ 74] local 149.165.148.5 port 50902 connected with 198.202.120.7 port 5001
+[ 69] local 149.165.148.5 port 50897 connected with 198.202.120.7 port 5001
+[ 71] local 149.165.148.5 port 50899 connected with 198.202.120.7 port 5001
+[ 70] local 149.165.148.5 port 50898 connected with 198.202.120.7 port 5001
+[ 75] local 149.165.148.5 port 50903 connected with 198.202.120.7 port 5001
+[ 73] local 149.165.148.5 port 50901 connected with 198.202.120.7 port 5001
+[ 72] local 149.165.148.5 port 50900 connected with 198.202.120.7 port 5001
+[ 67] local 149.165.148.5 port 50895 connected with 198.202.120.7 port 5001
+[ 76] local 149.165.148.5 port 50904 connected with 198.202.120.7 port 5001
+[ 78] local 149.165.148.5 port 50906 connected with 198.202.120.7 port 5001
+[ 77] local 149.165.148.5 port 50905 connected with 198.202.120.7 port 5001
+[ 79] local 149.165.148.5 port 50907 connected with 198.202.120.7 port 5001
+[ 80] local 149.165.148.5 port 50908 connected with 198.202.120.7 port 5001
+[ 82] local 149.165.148.5 port 50910 connected with 198.202.120.7 port 5001
+[ 81] local 149.165.148.5 port 50909 connected with 198.202.120.7 port 5001
+[ 83] local 149.165.148.5 port 50911 connected with 198.202.120.7 port 5001
+[ 85] local 149.165.148.5 port 50913 connected with 198.202.120.7 port 5001
+[ 84] local 149.165.148.5 port 50912 connected with 198.202.120.7 port 5001
+[ 87] local 149.165.148.5 port 50915 connected with 198.202.120.7 port 5001
+[ 86] local 149.165.148.5 port 50914 connected with 198.202.120.7 port 5001
+[ 90] local 149.165.148.5 port 50917 connected with 198.202.120.7 port 5001
+[ 89] local 149.165.148.5 port 50918 connected with 198.202.120.7 port 5001
+[ 88] local 149.165.148.5 port 50916 connected with 198.202.120.7 port 5001
+[ 91] local 149.165.148.5 port 50919 connected with 198.202.120.7 port 5001
+[ 94] local 149.165.148.5 port 50922 connected with 198.202.120.7 port 5001
+[ 95] local 149.165.148.5 port 50923 connected with 198.202.120.7 port 5001
+[ 92] local 149.165.148.5 port 50920 connected with 198.202.120.7 port 5001
+[ 93] local 149.165.148.5 port 50921 connected with 198.202.120.7 port 5001
+[ 98] local 149.165.148.5 port 50926 connected with 198.202.120.7 port 5001
+[ 96] local 149.165.148.5 port 50924 connected with 198.202.120.7 port 5001
+[ 97] local 149.165.148.5 port 50925 connected with 198.202.120.7 port 5001
+[100] local 149.165.148.5 port 50928 connected with 198.202.120.7 port 5001
+[ 99] local 149.165.148.5 port 50927 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.5 port 50831 connected with 198.202.120.7 port 5001
+[101] local 149.165.148.5 port 50929 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0-60.0 sec  74.0 MBytes  10.3 Mbits/sec
+[ 38]  0.0-60.0 sec  55.0 MBytes  7.69 Mbits/sec
+[ 62]  0.0-60.0 sec  74.0 MBytes  10.3 Mbits/sec
+[ 28]  0.0-60.0 sec  81.0 MBytes  11.3 Mbits/sec
+[ 65]  0.0-60.0 sec  91.8 MBytes  12.8 Mbits/sec
+[ 64]  0.0-60.0 sec  64.6 MBytes  9.03 Mbits/sec
+[ 70]  0.0-60.0 sec  70.2 MBytes  9.82 Mbits/sec
+[ 81]  0.0-60.0 sec  62.0 MBytes  8.66 Mbits/sec
+[ 11]  0.0-60.1 sec  70.1 MBytes  9.80 Mbits/sec
+[ 19]  0.0-60.1 sec  85.6 MBytes  12.0 Mbits/sec
+[ 26]  0.0-60.1 sec  59.8 MBytes  8.35 Mbits/sec
+[ 27]  0.0-60.1 sec  45.8 MBytes  6.39 Mbits/sec
+[ 25]  0.0-60.1 sec  96.4 MBytes  13.5 Mbits/sec
+[ 71]  0.0-60.1 sec  80.1 MBytes  11.2 Mbits/sec
+[ 32]  0.0-60.1 sec  65.0 MBytes  9.07 Mbits/sec
+[  5]  0.0-60.1 sec  72.0 MBytes  10.0 Mbits/sec
+[ 90]  0.0-60.1 sec  67.2 MBytes  9.38 Mbits/sec
+[102]  0.0-60.1 sec  59.5 MBytes  8.30 Mbits/sec
+[ 15]  0.0-60.1 sec  73.0 MBytes  10.2 Mbits/sec
+[ 40]  0.0-60.1 sec  57.8 MBytes  8.06 Mbits/sec
+[ 23]  0.0-60.1 sec  68.1 MBytes  9.50 Mbits/sec
+[ 98]  0.0-60.2 sec  62.6 MBytes  8.73 Mbits/sec
+[  4]  0.0-60.2 sec  66.4 MBytes  9.26 Mbits/sec
+[ 14]  0.0-60.2 sec  41.1 MBytes  5.73 Mbits/sec
+[ 66]  0.0-60.2 sec  74.8 MBytes  10.4 Mbits/sec
+[ 88]  0.0-60.2 sec  93.4 MBytes  13.0 Mbits/sec
+[ 94]  0.0-60.2 sec  92.2 MBytes  12.9 Mbits/sec
+[ 97]  0.0-60.2 sec  63.8 MBytes  8.89 Mbits/sec
+[ 49]  0.0-60.2 sec  77.9 MBytes  10.9 Mbits/sec
+[ 17]  0.0-60.2 sec  81.6 MBytes  11.4 Mbits/sec
+[ 72]  0.0-60.2 sec  61.1 MBytes  8.52 Mbits/sec
+[ 99]  0.0-60.2 sec  70.6 MBytes  9.83 Mbits/sec
+[  3]  0.0-60.3 sec  77.6 MBytes  10.8 Mbits/sec
+[ 73]  0.0-60.3 sec  64.6 MBytes  8.99 Mbits/sec
+[ 45]  0.0-60.3 sec  74.8 MBytes  10.4 Mbits/sec
+[ 83]  0.0-60.3 sec  71.0 MBytes  9.88 Mbits/sec
+[ 13]  0.0-60.3 sec  63.9 MBytes  8.89 Mbits/sec
+[ 34]  0.0-60.3 sec  76.0 MBytes  10.6 Mbits/sec
+[ 95]  0.0-60.3 sec  76.1 MBytes  10.6 Mbits/sec
+[ 42]  0.0-60.3 sec  78.1 MBytes  10.9 Mbits/sec
+[ 69]  0.0-60.3 sec  73.1 MBytes  10.2 Mbits/sec
+[ 87]  0.0-60.3 sec  76.8 MBytes  10.7 Mbits/sec
+[ 39]  0.0-60.4 sec  53.6 MBytes  7.45 Mbits/sec
+[ 93]  0.0-60.4 sec   140 MBytes  19.5 Mbits/sec
+[ 63]  0.0-60.4 sec  69.4 MBytes  9.63 Mbits/sec
+[ 75]  0.0-60.4 sec  86.4 MBytes  12.0 Mbits/sec
+[ 50]  0.0-60.4 sec  73.0 MBytes  10.1 Mbits/sec
+[ 36]  0.0-60.4 sec  57.9 MBytes  8.03 Mbits/sec
+[ 79]  0.0-60.4 sec  91.1 MBytes  12.7 Mbits/sec
+[ 91]  0.0-60.4 sec  57.4 MBytes  7.97 Mbits/sec
+[  6]  0.0-60.4 sec  86.0 MBytes  11.9 Mbits/sec
+[ 20]  0.0-60.5 sec  79.0 MBytes  11.0 Mbits/sec
+[ 53]  0.0-60.5 sec  48.1 MBytes  6.68 Mbits/sec
+[ 61]  0.0-60.5 sec  67.0 MBytes  9.29 Mbits/sec
+[ 47]  0.0-60.5 sec  60.9 MBytes  8.44 Mbits/sec
+[ 59]  0.0-60.5 sec  90.4 MBytes  12.5 Mbits/sec
+[101]  0.0-60.5 sec  75.9 MBytes  10.5 Mbits/sec
+[ 24]  0.0-60.5 sec  75.2 MBytes  10.4 Mbits/sec
+[ 77]  0.0-60.5 sec  80.1 MBytes  11.1 Mbits/sec
+[ 57]  0.0-60.5 sec  89.0 MBytes  12.3 Mbits/sec
+[ 82]  0.0-60.5 sec  78.0 MBytes  10.8 Mbits/sec
+[ 37]  0.0-60.5 sec  59.1 MBytes  8.19 Mbits/sec
+[ 54]  0.0-60.5 sec  71.8 MBytes  9.94 Mbits/sec
+[ 22]  0.0-60.6 sec  81.5 MBytes  11.3 Mbits/sec
+[ 96]  0.0-60.6 sec  72.6 MBytes  10.1 Mbits/sec
+[ 12]  0.0-60.6 sec  64.9 MBytes  8.98 Mbits/sec
+[ 78]  0.0-60.6 sec  59.6 MBytes  8.25 Mbits/sec
+[ 68]  0.0-60.6 sec  68.5 MBytes  9.48 Mbits/sec
+[ 84]  0.0-60.6 sec  71.6 MBytes  9.91 Mbits/sec
+[  8]  0.0-60.6 sec  54.0 MBytes  7.47 Mbits/sec
+[ 58]  0.0-60.7 sec  55.4 MBytes  7.66 Mbits/sec
+[ 85]  0.0-60.7 sec  78.5 MBytes  10.9 Mbits/sec
+[ 48]  0.0-60.7 sec  61.8 MBytes  8.54 Mbits/sec
+[ 89]  0.0-60.7 sec  75.0 MBytes  10.4 Mbits/sec
+[ 10]  0.0-60.7 sec  80.8 MBytes  11.2 Mbits/sec
+[  7]  0.0-60.7 sec  70.0 MBytes  9.67 Mbits/sec
+[ 52]  0.0-60.7 sec  50.2 MBytes  6.94 Mbits/sec
+[ 80]  0.0-60.7 sec  77.5 MBytes  10.7 Mbits/sec
+[ 60]  0.0-60.8 sec  78.2 MBytes  10.8 Mbits/sec
+[ 92]  0.0-60.8 sec  57.1 MBytes  7.89 Mbits/sec
+[ 76]  0.0-60.8 sec  75.0 MBytes  10.3 Mbits/sec
+[ 31]  0.0-60.8 sec  61.8 MBytes  8.52 Mbits/sec
+[ 55]  0.0-60.8 sec  58.4 MBytes  8.05 Mbits/sec
+[ 33]  0.0-60.8 sec  65.5 MBytes  9.03 Mbits/sec
+[ 56]  0.0-60.9 sec  89.2 MBytes  12.3 Mbits/sec
+[ 67]  0.0-60.8 sec  61.6 MBytes  8.50 Mbits/sec
+[ 44]  0.0-60.9 sec  85.5 MBytes  11.8 Mbits/sec
+[100]  0.0-60.9 sec  82.1 MBytes  11.3 Mbits/sec
+[  9]  0.0-61.0 sec  95.1 MBytes  13.1 Mbits/sec
+[ 43]  0.0-61.0 sec  67.5 MBytes  9.28 Mbits/sec
+[ 51]  0.0-61.1 sec  71.2 MBytes  9.79 Mbits/sec
+[ 86]  0.0-61.1 sec  96.5 MBytes  13.3 Mbits/sec
+[ 35]  0.0-61.1 sec  65.4 MBytes  8.98 Mbits/sec
+[ 18]  0.0-61.1 sec  62.6 MBytes  8.60 Mbits/sec
+[ 21]  0.0-61.1 sec  77.0 MBytes  10.6 Mbits/sec
+[ 29]  0.0-61.1 sec  55.5 MBytes  7.62 Mbits/sec
+[ 41]  0.0-61.1 sec  55.1 MBytes  7.57 Mbits/sec
+[ 30]  0.0-61.2 sec  88.4 MBytes  12.1 Mbits/sec
+[ 46]  0.0-61.3 sec   107 MBytes  14.7 Mbits/sec
+[ 74]  0.0-61.3 sec  78.4 MBytes  10.7 Mbits/sec
+[SUM]  0.0-61.3 sec  7.07 GBytes   990 Mbits/sec

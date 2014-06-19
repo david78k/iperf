@@ -1,0 +1,528 @@
+N = 1
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 149.165.148.4 port 54020 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.06 GBytes   152 Mbits/sec
+N = 2
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 149.165.148.4 port 54021 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54022 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec  1.08 GBytes   154 Mbits/sec
+[  3]  0.0-60.0 sec  1.05 GBytes   151 Mbits/sec
+[SUM]  0.0-60.0 sec  2.13 GBytes   305 Mbits/sec
+N = 3
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.148.4 port 54026 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54024 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54025 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec  1.10 GBytes   157 Mbits/sec
+[  4]  0.0-60.0 sec  1.10 GBytes   157 Mbits/sec
+[  3]  0.0-60.1 sec  1.10 GBytes   157 Mbits/sec
+[SUM]  0.0-60.1 sec  3.30 GBytes   471 Mbits/sec
+N = 4
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.148.4 port 54029 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54027 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54028 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54030 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec  1.10 GBytes   157 Mbits/sec
+[  5]  0.0-60.0 sec  1.10 GBytes   157 Mbits/sec
+[  4]  0.0-60.1 sec  1.10 GBytes   157 Mbits/sec
+[  3]  0.0-60.1 sec  1.10 GBytes   157 Mbits/sec
+[SUM]  0.0-60.1 sec  4.40 GBytes   629 Mbits/sec
+N = 5
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.4 port 54036 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54032 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54033 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54034 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54035 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec  1.04 GBytes   150 Mbits/sec
+[  6]  0.0-60.0 sec  1.05 GBytes   150 Mbits/sec
+[  3]  0.0-60.0 sec  1.09 GBytes   156 Mbits/sec
+[  4]  0.0-60.1 sec  1.10 GBytes   157 Mbits/sec
+[  7]  0.0-60.1 sec  1.08 GBytes   155 Mbits/sec
+[SUM]  0.0-60.1 sec  5.37 GBytes   768 Mbits/sec
+N = 6
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.4 port 54041 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54037 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54039 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54038 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54042 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54040 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  1.10 GBytes   157 Mbits/sec
+[  6]  0.0-60.0 sec  1.05 GBytes   151 Mbits/sec
+[  7]  0.0-60.0 sec  1.07 GBytes   153 Mbits/sec
+[  8]  0.0-60.1 sec  1.08 GBytes   154 Mbits/sec
+[  4]  0.0-60.1 sec  1.08 GBytes   155 Mbits/sec
+[  5]  0.0-60.1 sec  1.03 GBytes   148 Mbits/sec
+[SUM]  0.0-60.1 sec  6.41 GBytes   917 Mbits/sec
+N = 7
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.148.4 port 54049 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54044 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54045 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54046 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54048 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54050 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54047 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   948 MBytes   133 Mbits/sec
+[  8]  0.0-60.0 sec   929 MBytes   130 Mbits/sec
+[  9]  0.0-60.0 sec   927 MBytes   130 Mbits/sec
+[  3]  0.0-60.1 sec  1000 MBytes   140 Mbits/sec
+[  7]  0.0-60.1 sec   908 MBytes   127 Mbits/sec
+[  5]  0.0-60.1 sec   872 MBytes   122 Mbits/sec
+[  4]  0.0-60.1 sec   944 MBytes   132 Mbits/sec
+[SUM]  0.0-60.1 sec  6.38 GBytes   911 Mbits/sec
+N = 8
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 10] local 149.165.148.4 port 54058 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54051 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54052 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54054 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54053 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54055 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54057 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54056 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec   882 MBytes   123 Mbits/sec
+[  3]  0.0-60.0 sec   842 MBytes   118 Mbits/sec
+[  4]  0.0-60.0 sec   859 MBytes   120 Mbits/sec
+[  6]  0.0-60.0 sec   819 MBytes   114 Mbits/sec
+[  7]  0.0-60.1 sec   863 MBytes   121 Mbits/sec
+[ 10]  0.0-60.1 sec   926 MBytes   129 Mbits/sec
+[  8]  0.0-60.4 sec   786 MBytes   109 Mbits/sec
+[  9]  0.0-60.5 sec   822 MBytes   114 Mbits/sec
+[SUM]  0.0-60.5 sec  6.64 GBytes   943 Mbits/sec
+N = 9
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 10] local 149.165.148.4 port 54067 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54060 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54063 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54062 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54061 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54065 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54064 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54066 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54068 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   737 MBytes   103 Mbits/sec
+[ 10]  0.0-60.0 sec   747 MBytes   104 Mbits/sec
+[  8]  0.0-60.0 sec   746 MBytes   104 Mbits/sec
+[  5]  0.0-60.0 sec   734 MBytes   103 Mbits/sec
+[  3]  0.0-60.0 sec   812 MBytes   113 Mbits/sec
+[ 11]  0.0-60.1 sec   793 MBytes   111 Mbits/sec
+[  9]  0.0-60.1 sec   773 MBytes   108 Mbits/sec
+[  7]  0.0-60.1 sec   739 MBytes   103 Mbits/sec
+[  4]  0.0-60.1 sec   806 MBytes   112 Mbits/sec
+[SUM]  0.0-60.1 sec  6.72 GBytes   960 Mbits/sec
+N = 10
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 12] local 149.165.148.4 port 54078 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54069 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54070 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54071 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54072 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54075 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54073 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54074 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54076 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54077 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 10]  0.0-60.0 sec   675 MBytes  94.4 Mbits/sec
+[  8]  0.0-60.0 sec   723 MBytes   101 Mbits/sec
+[  9]  0.0-60.0 sec   618 MBytes  86.4 Mbits/sec
+[  4]  0.0-60.1 sec   773 MBytes   108 Mbits/sec
+[  5]  0.0-60.1 sec   606 MBytes  84.6 Mbits/sec
+[  6]  0.0-60.1 sec   703 MBytes  98.2 Mbits/sec
+[ 11]  0.0-60.1 sec   652 MBytes  91.0 Mbits/sec
+[ 12]  0.0-60.1 sec   734 MBytes   102 Mbits/sec
+[  7]  0.0-60.1 sec   631 MBytes  88.0 Mbits/sec
+[  3]  0.0-60.1 sec   706 MBytes  98.4 Mbits/sec
+[SUM]  0.0-60.1 sec  6.66 GBytes   951 Mbits/sec
+N = 12
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 13] local 149.165.148.4 port 54090 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54080 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54081 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54082 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54083 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54084 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54087 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54086 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54085 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54088 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.4 port 54091 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.4 port 54089 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 10]  0.0-60.0 sec   665 MBytes  93.0 Mbits/sec
+[  4]  0.0-60.0 sec   580 MBytes  81.0 Mbits/sec
+[ 11]  0.0-60.0 sec   682 MBytes  95.2 Mbits/sec
+[  8]  0.0-60.1 sec   530 MBytes  74.1 Mbits/sec
+[  3]  0.0-60.1 sec   602 MBytes  84.1 Mbits/sec
+[  5]  0.0-60.1 sec   539 MBytes  75.2 Mbits/sec
+[  6]  0.0-60.1 sec   548 MBytes  76.5 Mbits/sec
+[ 12]  0.0-60.1 sec   526 MBytes  73.5 Mbits/sec
+[  7]  0.0-60.1 sec   518 MBytes  72.4 Mbits/sec
+[  9]  0.0-60.1 sec   633 MBytes  88.3 Mbits/sec
+[ 13]  0.0-60.1 sec   589 MBytes  82.2 Mbits/sec
+[ 14]  0.0-60.2 sec   496 MBytes  69.1 Mbits/sec
+[SUM]  0.0-60.2 sec  6.75 GBytes   963 Mbits/sec
+N = 14
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 12] local 149.165.148.4 port 54101 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54093 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54094 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54095 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54097 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54098 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54099 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54096 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.4 port 54103 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.4 port 54104 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54100 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.4 port 54105 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54092 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.4 port 54102 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec   530 MBytes  74.1 Mbits/sec
+[  9]  0.0-60.0 sec   335 MBytes  46.9 Mbits/sec
+[  4]  0.0-60.0 sec   500 MBytes  69.9 Mbits/sec
+[  6]  0.0-60.1 sec   568 MBytes  79.3 Mbits/sec
+[ 15]  0.0-60.1 sec   528 MBytes  73.7 Mbits/sec
+[  8]  0.0-60.1 sec   572 MBytes  79.8 Mbits/sec
+[  7]  0.0-60.1 sec   586 MBytes  81.8 Mbits/sec
+[ 16]  0.0-60.1 sec   433 MBytes  60.4 Mbits/sec
+[ 12]  0.0-60.1 sec   472 MBytes  65.8 Mbits/sec
+[  3]  0.0-60.2 sec   458 MBytes  63.9 Mbits/sec
+[ 13]  0.0-60.2 sec   562 MBytes  78.4 Mbits/sec
+[ 14]  0.0-60.2 sec   544 MBytes  75.8 Mbits/sec
+[ 11]  0.0-60.4 sec   442 MBytes  61.4 Mbits/sec
+[ 10]  0.0-60.4 sec   427 MBytes  59.3 Mbits/sec
+[SUM]  0.0-60.4 sec  6.79 GBytes   966 Mbits/sec
+N = 16
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 17] local 149.165.148.4 port 54123 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54108 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54111 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54110 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54107 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54112 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54113 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54115 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54114 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.4 port 54117 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.4 port 54118 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.4 port 54119 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54116 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.4 port 54120 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.4 port 54121 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.4 port 54122 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  9]  0.0-60.0 sec   318 MBytes  44.4 Mbits/sec
+[ 11]  0.0-60.0 sec   434 MBytes  60.7 Mbits/sec
+[ 18]  0.0-60.0 sec   455 MBytes  63.7 Mbits/sec
+[ 15]  0.0-60.0 sec   469 MBytes  65.5 Mbits/sec
+[  8]  0.0-60.0 sec   341 MBytes  47.6 Mbits/sec
+[ 13]  0.0-60.0 sec   399 MBytes  55.8 Mbits/sec
+[  7]  0.0-60.1 sec   444 MBytes  62.1 Mbits/sec
+[ 17]  0.0-60.1 sec   467 MBytes  65.3 Mbits/sec
+[ 16]  0.0-60.1 sec   426 MBytes  59.5 Mbits/sec
+[  3]  0.0-60.1 sec   462 MBytes  64.4 Mbits/sec
+[ 14]  0.0-60.1 sec   465 MBytes  64.9 Mbits/sec
+[ 12]  0.0-60.2 sec   324 MBytes  45.1 Mbits/sec
+[  5]  0.0-60.2 sec   423 MBytes  59.0 Mbits/sec
+[  6]  0.0-60.3 sec   470 MBytes  65.4 Mbits/sec
+[  4]  0.0-60.4 sec   502 MBytes  69.7 Mbits/sec
+[ 10]  0.0-60.5 sec   427 MBytes  59.3 Mbits/sec
+[SUM]  0.0-60.5 sec  6.67 GBytes   947 Mbits/sec
+N = 18
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 20] local 149.165.148.4 port 54141 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54125 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54127 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54128 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54132 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.4 port 54136 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54131 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54130 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.4 port 54134 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54126 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.4 port 54135 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54129 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.4 port 54137 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.4 port 54133 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.4 port 54140 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.4 port 54139 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54124 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.4 port 54138 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 20]  0.0-60.0 sec   405 MBytes  56.6 Mbits/sec
+[  7]  0.0-60.0 sec   326 MBytes  45.5 Mbits/sec
+[  6]  0.0-60.0 sec   355 MBytes  49.6 Mbits/sec
+[ 19]  0.0-60.0 sec   394 MBytes  55.0 Mbits/sec
+[  5]  0.0-60.1 sec   390 MBytes  54.5 Mbits/sec
+[  4]  0.0-60.1 sec   374 MBytes  52.2 Mbits/sec
+[ 16]  0.0-60.1 sec   343 MBytes  47.9 Mbits/sec
+[ 17]  0.0-60.1 sec   492 MBytes  68.7 Mbits/sec
+[ 15]  0.0-60.1 sec   286 MBytes  40.0 Mbits/sec
+[  3]  0.0-60.1 sec   341 MBytes  47.7 Mbits/sec
+[ 12]  0.0-60.2 sec   358 MBytes  50.0 Mbits/sec
+[ 13]  0.0-60.2 sec   340 MBytes  47.4 Mbits/sec
+[ 10]  0.0-60.2 sec   448 MBytes  62.4 Mbits/sec
+[  9]  0.0-60.3 sec   462 MBytes  64.3 Mbits/sec
+[  8]  0.0-60.3 sec   320 MBytes  44.5 Mbits/sec
+[ 14]  0.0-60.4 sec   315 MBytes  43.8 Mbits/sec
+[ 18]  0.0-60.8 sec   455 MBytes  62.7 Mbits/sec
+[ 11]  0.0-61.2 sec   438 MBytes  60.0 Mbits/sec
+[SUM]  0.0-61.2 sec  6.68 GBytes   938 Mbits/sec
+N = 20
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.148.4 port 54145 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54144 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54149 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54148 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54147 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54150 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54151 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.4 port 54152 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.4 port 54154 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54146 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.4 port 54162 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.4 port 54153 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.4 port 54155 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.4 port 54156 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.4 port 54157 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.4 port 54159 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.4 port 54158 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.4 port 54160 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.4 port 54161 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54143 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec   314 MBytes  43.9 Mbits/sec
+[ 22]  0.0-60.0 sec   433 MBytes  60.5 Mbits/sec
+[ 14]  0.0-60.0 sec   342 MBytes  47.8 Mbits/sec
+[  4]  0.0-60.1 sec   296 MBytes  41.4 Mbits/sec
+[  6]  0.0-60.1 sec   308 MBytes  43.0 Mbits/sec
+[ 19]  0.0-60.1 sec   366 MBytes  51.1 Mbits/sec
+[ 13]  0.0-60.1 sec   448 MBytes  62.6 Mbits/sec
+[ 21]  0.0-60.1 sec   371 MBytes  51.8 Mbits/sec
+[ 17]  0.0-60.1 sec   349 MBytes  48.7 Mbits/sec
+[ 10]  0.0-60.2 sec   357 MBytes  49.8 Mbits/sec
+[ 12]  0.0-60.2 sec   361 MBytes  50.4 Mbits/sec
+[  8]  0.0-60.2 sec   385 MBytes  53.7 Mbits/sec
+[  5]  0.0-60.2 sec   295 MBytes  41.0 Mbits/sec
+[ 16]  0.0-60.3 sec   288 MBytes  40.0 Mbits/sec
+[ 18]  0.0-60.3 sec   405 MBytes  56.3 Mbits/sec
+[  7]  0.0-60.4 sec   412 MBytes  57.3 Mbits/sec
+[ 15]  0.0-60.4 sec   365 MBytes  50.7 Mbits/sec
+[ 11]  0.0-60.6 sec   354 MBytes  49.1 Mbits/sec
+[ 20]  0.0-60.6 sec   316 MBytes  43.7 Mbits/sec
+[  9]  0.0-60.6 sec   264 MBytes  36.6 Mbits/sec
+[SUM]  0.0-60.6 sec  6.87 GBytes   972 Mbits/sec
+N = 30
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 31] local 149.165.148.4 port 54191 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54163 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54166 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54165 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54167 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54169 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54168 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54171 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54170 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.4 port 54172 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.4 port 54173 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.4 port 54174 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.4 port 54176 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.4 port 54177 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.4 port 54178 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.4 port 54181 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.4 port 54179 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.4 port 54175 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.4 port 54180 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.4 port 54182 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.4 port 54183 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.4 port 54186 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.4 port 54184 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.4 port 54185 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.4 port 54187 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.4 port 54188 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.4 port 54192 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.4 port 54190 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.4 port 54189 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54164 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec   240 MBytes  33.6 Mbits/sec
+[  6]  0.0-60.0 sec   249 MBytes  34.8 Mbits/sec
+[ 13]  0.0-60.0 sec   249 MBytes  34.8 Mbits/sec
+[ 30]  0.0-60.0 sec   192 MBytes  26.8 Mbits/sec
+[ 23]  0.0-60.1 sec   258 MBytes  36.0 Mbits/sec
+[ 10]  0.0-60.1 sec   262 MBytes  36.6 Mbits/sec
+[ 26]  0.0-60.1 sec   188 MBytes  26.2 Mbits/sec
+[ 29]  0.0-60.1 sec   223 MBytes  31.2 Mbits/sec
+[  9]  0.0-60.1 sec   214 MBytes  29.9 Mbits/sec
+[  7]  0.0-60.1 sec   311 MBytes  43.4 Mbits/sec
+[ 22]  0.0-60.2 sec   238 MBytes  33.2 Mbits/sec
+[  3]  0.0-60.2 sec   217 MBytes  30.2 Mbits/sec
+[ 14]  0.0-60.2 sec   228 MBytes  31.8 Mbits/sec
+[ 25]  0.0-60.2 sec   247 MBytes  34.4 Mbits/sec
+[  5]  0.0-60.3 sec   237 MBytes  33.0 Mbits/sec
+[  8]  0.0-60.3 sec   200 MBytes  27.9 Mbits/sec
+[ 17]  0.0-60.3 sec   193 MBytes  26.8 Mbits/sec
+[ 20]  0.0-60.3 sec   244 MBytes  34.0 Mbits/sec
+[ 19]  0.0-60.3 sec   174 MBytes  24.2 Mbits/sec
+[ 18]  0.0-60.3 sec   263 MBytes  36.6 Mbits/sec
+[ 11]  0.0-60.3 sec   324 MBytes  45.1 Mbits/sec
+[ 27]  0.0-60.4 sec   285 MBytes  39.6 Mbits/sec
+[ 31]  0.0-60.4 sec   261 MBytes  36.3 Mbits/sec
+[ 24]  0.0-60.4 sec   244 MBytes  33.8 Mbits/sec
+[ 15]  0.0-60.5 sec   193 MBytes  26.7 Mbits/sec
+[ 32]  0.0-60.5 sec   219 MBytes  30.4 Mbits/sec
+[ 28]  0.0-60.5 sec   251 MBytes  34.7 Mbits/sec
+[ 21]  0.0-60.6 sec   212 MBytes  29.3 Mbits/sec
+[ 16]  0.0-60.7 sec   249 MBytes  34.4 Mbits/sec
+[ 12]  0.0-60.9 sec   249 MBytes  34.3 Mbits/sec
+[SUM]  0.0-60.9 sec  6.95 GBytes   980 Mbits/sec
+N = 40
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 38] local 149.165.148.4 port 54229 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54194 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54195 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54196 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54198 connected with 198.202.120.7 port 5001
+[  8] local 149.165.148.4 port 54199 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54197 connected with 198.202.120.7 port 5001
+[  9] local 149.165.148.4 port 54200 connected with 198.202.120.7 port 5001
+[ 10] local 149.165.148.4 port 54201 connected with 198.202.120.7 port 5001
+[ 11] local 149.165.148.4 port 54202 connected with 198.202.120.7 port 5001
+[ 12] local 149.165.148.4 port 54203 connected with 198.202.120.7 port 5001
+[ 13] local 149.165.148.4 port 54204 connected with 198.202.120.7 port 5001
+[ 18] local 149.165.148.4 port 54209 connected with 198.202.120.7 port 5001
+[ 19] local 149.165.148.4 port 54210 connected with 198.202.120.7 port 5001
+[ 14] local 149.165.148.4 port 54205 connected with 198.202.120.7 port 5001
+[ 16] local 149.165.148.4 port 54207 connected with 198.202.120.7 port 5001
+[ 17] local 149.165.148.4 port 54208 connected with 198.202.120.7 port 5001
+[ 20] local 149.165.148.4 port 54211 connected with 198.202.120.7 port 5001
+[ 21] local 149.165.148.4 port 54212 connected with 198.202.120.7 port 5001
+[ 24] local 149.165.148.4 port 54215 connected with 198.202.120.7 port 5001
+[ 22] local 149.165.148.4 port 54213 connected with 198.202.120.7 port 5001
+[ 23] local 149.165.148.4 port 54214 connected with 198.202.120.7 port 5001
+[ 25] local 149.165.148.4 port 54216 connected with 198.202.120.7 port 5001
+[ 26] local 149.165.148.4 port 54217 connected with 198.202.120.7 port 5001
+[ 27] local 149.165.148.4 port 54218 connected with 198.202.120.7 port 5001
+[ 15] local 149.165.148.4 port 54206 connected with 198.202.120.7 port 5001
+[ 29] local 149.165.148.4 port 54220 connected with 198.202.120.7 port 5001
+[ 32] local 149.165.148.4 port 54223 connected with 198.202.120.7 port 5001
+[ 31] local 149.165.148.4 port 54222 connected with 198.202.120.7 port 5001
+[ 33] local 149.165.148.4 port 54224 connected with 198.202.120.7 port 5001
+[ 35] local 149.165.148.4 port 54226 connected with 198.202.120.7 port 5001
+[ 28] local 149.165.148.4 port 54219 connected with 198.202.120.7 port 5001
+[ 34] local 149.165.148.4 port 54225 connected with 198.202.120.7 port 5001
+[ 30] local 149.165.148.4 port 54221 connected with 198.202.120.7 port 5001
+[ 36] local 149.165.148.4 port 54227 connected with 198.202.120.7 port 5001
+[ 40] local 149.165.148.4 port 54231 connected with 198.202.120.7 port 5001
+[ 39] local 149.165.148.4 port 54230 connected with 198.202.120.7 port 5001
+[ 42] local 149.165.148.4 port 54233 connected with 198.202.120.7 port 5001
+[ 37] local 149.165.148.4 port 54228 connected with 198.202.120.7 port 5001
+[ 41] local 149.165.148.4 port 54232 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec   230 MBytes  32.1 Mbits/sec
+[  7]  0.0-60.0 sec   156 MBytes  21.8 Mbits/sec
+[ 12]  0.0-60.0 sec   192 MBytes  26.8 Mbits/sec
+[ 11]  0.0-60.1 sec   149 MBytes  20.8 Mbits/sec
+[ 34]  0.0-60.1 sec   153 MBytes  21.4 Mbits/sec
+[ 36]  0.0-60.1 sec   136 MBytes  18.9 Mbits/sec
+[ 41]  0.0-60.1 sec   177 MBytes  24.7 Mbits/sec
+[  6]  0.0-60.1 sec   180 MBytes  25.1 Mbits/sec
+[ 14]  0.0-60.1 sec   202 MBytes  28.1 Mbits/sec
+[ 24]  0.0-60.2 sec   185 MBytes  25.8 Mbits/sec
+[ 23]  0.0-60.2 sec   240 MBytes  33.5 Mbits/sec
+[ 39]  0.0-60.2 sec   213 MBytes  29.8 Mbits/sec
+[ 18]  0.0-60.2 sec   171 MBytes  23.8 Mbits/sec
+[ 42]  0.0-60.2 sec   181 MBytes  25.2 Mbits/sec
+[ 38]  0.0-60.2 sec   226 MBytes  31.4 Mbits/sec
+[ 22]  0.0-60.2 sec   225 MBytes  31.4 Mbits/sec
+[ 25]  0.0-60.2 sec   161 MBytes  22.4 Mbits/sec
+[ 21]  0.0-60.3 sec   211 MBytes  29.3 Mbits/sec
+[ 19]  0.0-60.3 sec   166 MBytes  23.0 Mbits/sec
+[ 29]  0.0-60.3 sec   177 MBytes  24.6 Mbits/sec
+[ 28]  0.0-60.3 sec   146 MBytes  20.2 Mbits/sec
+[ 15]  0.0-60.4 sec   145 MBytes  20.2 Mbits/sec
+[ 40]  0.0-60.4 sec   154 MBytes  21.4 Mbits/sec
+[ 13]  0.0-60.4 sec   204 MBytes  28.4 Mbits/sec
+[  9]  0.0-60.4 sec   241 MBytes  33.4 Mbits/sec
+[  5]  0.0-60.4 sec   214 MBytes  29.8 Mbits/sec
+[ 33]  0.0-60.4 sec   112 MBytes  15.5 Mbits/sec
+[  8]  0.0-60.4 sec   193 MBytes  26.8 Mbits/sec
+[ 20]  0.0-60.4 sec   180 MBytes  25.0 Mbits/sec
+[ 27]  0.0-60.4 sec   186 MBytes  25.8 Mbits/sec
+[ 26]  0.0-60.5 sec   158 MBytes  22.0 Mbits/sec
+[ 37]  0.0-60.5 sec   154 MBytes  21.4 Mbits/sec
+[ 30]  0.0-60.5 sec   164 MBytes  22.8 Mbits/sec
+[ 16]  0.0-60.5 sec   208 MBytes  28.8 Mbits/sec
+[ 17]  0.0-60.5 sec   182 MBytes  25.2 Mbits/sec
+[  4]  0.0-60.6 sec   170 MBytes  23.6 Mbits/sec
+[ 31]  0.0-60.6 sec   134 MBytes  18.6 Mbits/sec
+[ 35]  0.0-60.6 sec   130 MBytes  18.0 Mbits/sec
+[ 10]  0.0-60.9 sec   164 MBytes  22.5 Mbits/sec
+[ 32]  0.0-61.1 sec   202 MBytes  27.7 Mbits/sec
+[SUM]  0.0-61.1 sec  7.00 GBytes   984 Mbits/sec

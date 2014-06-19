@@ -1,0 +1,62 @@
+N = 1
+N = 2
+N = 3
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.148.4 port 54456 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54454 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54455 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0- 0.2 sec   128 KBytes  6.82 Mbits/sec
+[  3]  0.0- 0.2 sec   128 KBytes  6.78 Mbits/sec
+[  4]  0.0- 0.2 sec   128 KBytes  6.79 Mbits/sec
+[SUM]  0.0- 0.2 sec   384 KBytes  20.3 Mbits/sec
+N = 4
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  6] local 149.165.148.4 port 54460 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54457 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54459 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54458 connected with 198.202.120.7 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0- 0.2 sec   128 KBytes  6.80 Mbits/sec
+[  3]  0.0- 0.2 sec   128 KBytes  6.80 Mbits/sec
+[  5]  0.0- 0.2 sec   128 KBytes  6.79 Mbits/sec
+[  4]  0.0- 0.2 sec   128 KBytes  6.75 Mbits/sec
+[SUM]  0.0- 0.2 sec   512 KBytes  27.0 Mbits/sec
+N = 5
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.4 port 54465 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54461 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54463 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54462 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54464 connected with 198.202.120.7 port 5001
+N = 6
+------------------------------------------------------------
+Client connecting to sierra.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.148.4 port 54470 connected with 198.202.120.7 port 5001
+[  4] local 149.165.148.4 port 54467 connected with 198.202.120.7 port 5001
+[  6] local 149.165.148.4 port 54469 connected with 198.202.120.7 port 5001
+[  5] local 149.165.148.4 port 54468 connected with 198.202.120.7 port 5001
+[  7] local 149.165.148.4 port 54471 connected with 198.202.120.7 port 5001
+[  3] local 149.165.148.4 port 54466 connected with 198.202.120.7 port 5001
+N = 7
+N = 8
+N = 9
+N = 10
+N = 12
+N = 14
+N = 16
+N = 18
+N = 20
+N = 30
+N = 40
