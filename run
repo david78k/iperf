@@ -1,6 +1,9 @@
 #!/bin/bash
 # iperf testing script
 
+# 6.5ms from hotel.futuregrid.org
+server=india.futuregrid.org 
+
 # 28ms from hotel.futuregrid.org
 server=alamo.futuregrid.org 
 
@@ -53,11 +56,11 @@ do
 	logfile=r${run}.log
 	rm $logfile
 
-	echo -n "N = $N "
+	echo -n "Run = $run "
 	for N in ${Ns[@]}
 	do
 		echo -n "$N "
-		echo N = $N >> $logfile
+		echo -n "N = $N " >> $logfile
 		#iperf3 -c $server -P $N -t 30 -O 45 >> $logfile
 		iperf -c $server -P $N -t $totaltime >> $logfile
 	done
