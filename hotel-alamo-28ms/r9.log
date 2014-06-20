@@ -1,0 +1,1470 @@
+N = 1
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  6] local 149.165.148.5 port 33104 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   553 MBytes  77.3 Mbits/sec
+N = 2
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.5 port 33108 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33107 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   481 MBytes  67.1 Mbits/sec
+[  7]  0.0-60.3 sec   562 MBytes  78.2 Mbits/sec
+[SUM]  0.0-60.3 sec  1.02 GBytes   145 Mbits/sec
+N = 3
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.148.5 port 33121 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33119 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33120 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  8]  0.0-60.2 sec  1.02 GBytes   146 Mbits/sec
+[  7]  0.0-60.3 sec   881 MBytes   123 Mbits/sec
+[  6]  0.0-60.3 sec  1.00 GBytes   143 Mbits/sec
+[SUM]  0.0-60.3 sec  2.89 GBytes   412 Mbits/sec
+N = 4
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.148.5 port 33133 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33131 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33132 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33134 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-60.0 sec   842 MBytes   118 Mbits/sec
+[  6]  0.0-60.1 sec   880 MBytes   123 Mbits/sec
+[  8]  0.0-60.2 sec   780 MBytes   109 Mbits/sec
+[  9]  0.0-60.3 sec   780 MBytes   109 Mbits/sec
+[SUM]  0.0-60.3 sec  3.20 GBytes   457 Mbits/sec
+N = 5
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.5 port 33143 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33144 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33142 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33145 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33146 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   718 MBytes   100 Mbits/sec
+[  8]  0.0-60.0 sec   690 MBytes  96.3 Mbits/sec
+[ 10]  0.0-60.0 sec   758 MBytes   106 Mbits/sec
+[  9]  0.0-60.2 sec   871 MBytes   121 Mbits/sec
+[  7]  0.0-60.2 sec   755 MBytes   105 Mbits/sec
+[SUM]  0.0-60.2 sec  3.70 GBytes   528 Mbits/sec
+N = 6
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.148.5 port 33156 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33154 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33155 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33159 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33158 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33157 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   761 MBytes   106 Mbits/sec
+[  9]  0.0-60.0 sec   576 MBytes  80.5 Mbits/sec
+[  7]  0.0-60.1 sec   850 MBytes   119 Mbits/sec
+[ 10]  0.0-60.1 sec   638 MBytes  89.0 Mbits/sec
+[  8]  0.0-60.3 sec   654 MBytes  91.1 Mbits/sec
+[ 11]  0.0-60.3 sec   729 MBytes   101 Mbits/sec
+[SUM]  0.0-60.3 sec  4.11 GBytes   586 Mbits/sec
+N = 7
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 12] local 149.165.148.5 port 33172 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33167 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33170 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33171 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33169 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33166 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33168 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 12]  0.0-60.0 sec   687 MBytes  96.1 Mbits/sec
+[  7]  0.0-60.0 sec   556 MBytes  77.7 Mbits/sec
+[ 11]  0.0-60.0 sec   550 MBytes  76.9 Mbits/sec
+[  6]  0.0-60.1 sec   661 MBytes  92.3 Mbits/sec
+[  8]  0.0-60.1 sec   589 MBytes  82.2 Mbits/sec
+[  9]  0.0-60.1 sec   660 MBytes  92.1 Mbits/sec
+[ 10]  0.0-60.4 sec   548 MBytes  76.1 Mbits/sec
+[SUM]  0.0-60.4 sec  4.15 GBytes   590 Mbits/sec
+N = 8
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 13] local 149.165.148.5 port 33186 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33179 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33180 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33181 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33183 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33184 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33182 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33185 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  9]  0.0-60.0 sec   527 MBytes  73.6 Mbits/sec
+[  8]  0.0-60.0 sec   534 MBytes  74.6 Mbits/sec
+[ 11]  0.0-60.1 sec   586 MBytes  81.9 Mbits/sec
+[ 10]  0.0-60.1 sec   532 MBytes  74.2 Mbits/sec
+[ 13]  0.0-60.1 sec   559 MBytes  78.0 Mbits/sec
+[  7]  0.0-60.1 sec   576 MBytes  80.4 Mbits/sec
+[ 12]  0.0-60.2 sec   624 MBytes  86.9 Mbits/sec
+[  6]  0.0-60.4 sec   510 MBytes  70.8 Mbits/sec
+[SUM]  0.0-60.4 sec  4.34 GBytes   617 Mbits/sec
+N = 9
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 13] local 149.165.148.5 port 33200 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33193 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33194 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33196 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33195 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33197 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33198 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33199 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33201 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 13]  0.0-60.1 sec   572 MBytes  79.8 Mbits/sec
+[  8]  0.0-60.1 sec   359 MBytes  50.1 Mbits/sec
+[ 12]  0.0-60.2 sec   530 MBytes  73.9 Mbits/sec
+[ 10]  0.0-60.2 sec   472 MBytes  65.8 Mbits/sec
+[  7]  0.0-60.2 sec   485 MBytes  67.6 Mbits/sec
+[ 11]  0.0-60.2 sec   466 MBytes  64.9 Mbits/sec
+[ 14]  0.0-60.2 sec   586 MBytes  81.6 Mbits/sec
+[  9]  0.0-60.3 sec   501 MBytes  69.8 Mbits/sec
+[  6]  0.0-60.3 sec   515 MBytes  71.7 Mbits/sec
+[SUM]  0.0-60.3 sec  4.38 GBytes   624 Mbits/sec
+N = 10
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 14] local 149.165.148.5 port 33217 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33210 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33211 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33209 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33215 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33218 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33212 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33213 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33214 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33216 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 13]  0.0-60.0 sec   512 MBytes  71.6 Mbits/sec
+[  8]  0.0-60.0 sec   462 MBytes  64.5 Mbits/sec
+[ 10]  0.0-60.0 sec   444 MBytes  62.0 Mbits/sec
+[ 11]  0.0-60.0 sec   477 MBytes  66.6 Mbits/sec
+[  9]  0.0-60.1 sec   636 MBytes  88.8 Mbits/sec
+[  7]  0.0-60.2 sec   621 MBytes  86.6 Mbits/sec
+[ 12]  0.0-60.2 sec   560 MBytes  77.9 Mbits/sec
+[  6]  0.0-60.2 sec   510 MBytes  71.0 Mbits/sec
+[ 14]  0.0-60.3 sec   561 MBytes  78.0 Mbits/sec
+[ 15]  0.0-61.0 sec   555 MBytes  76.3 Mbits/sec
+[SUM]  0.0-61.0 sec  5.21 GBytes   734 Mbits/sec
+N = 12
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 17] local 149.165.148.5 port 33236 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33225 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33226 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33227 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33230 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33231 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33228 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33233 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33232 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33235 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33234 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33229 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 12]  0.0-60.0 sec   452 MBytes  63.2 Mbits/sec
+[ 16]  0.0-60.0 sec   502 MBytes  70.2 Mbits/sec
+[  7]  0.0-60.1 sec   488 MBytes  68.1 Mbits/sec
+[ 15]  0.0-60.2 sec   478 MBytes  66.6 Mbits/sec
+[  6]  0.0-60.2 sec   478 MBytes  66.6 Mbits/sec
+[ 11]  0.0-60.2 sec   479 MBytes  66.8 Mbits/sec
+[  9]  0.0-60.2 sec   417 MBytes  58.1 Mbits/sec
+[ 17]  0.0-60.2 sec   466 MBytes  65.0 Mbits/sec
+[ 14]  0.0-60.3 sec   483 MBytes  67.3 Mbits/sec
+[ 13]  0.0-60.3 sec   526 MBytes  73.2 Mbits/sec
+[ 10]  0.0-60.4 sec   426 MBytes  59.2 Mbits/sec
+[  8]  0.0-60.5 sec   374 MBytes  51.8 Mbits/sec
+[SUM]  0.0-60.5 sec  5.44 GBytes   772 Mbits/sec
+N = 14
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 17] local 149.165.148.5 port 33254 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33243 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33244 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33245 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33249 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33247 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33250 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33252 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33246 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33248 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33251 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33255 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33253 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33256 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0-60.0 sec   409 MBytes  57.2 Mbits/sec
+[ 19]  0.0-60.0 sec   417 MBytes  58.2 Mbits/sec
+[ 13]  0.0-60.0 sec   422 MBytes  59.0 Mbits/sec
+[ 14]  0.0-60.1 sec   363 MBytes  50.7 Mbits/sec
+[ 16]  0.0-60.1 sec   480 MBytes  67.0 Mbits/sec
+[ 11]  0.0-60.1 sec   381 MBytes  53.2 Mbits/sec
+[  9]  0.0-60.1 sec   441 MBytes  61.5 Mbits/sec
+[ 10]  0.0-60.1 sec   379 MBytes  52.9 Mbits/sec
+[ 17]  0.0-60.1 sec   380 MBytes  53.1 Mbits/sec
+[ 18]  0.0-60.1 sec   435 MBytes  60.7 Mbits/sec
+[  7]  0.0-60.2 sec   439 MBytes  61.2 Mbits/sec
+[ 12]  0.0-60.3 sec   350 MBytes  48.7 Mbits/sec
+[  8]  0.0-60.3 sec   390 MBytes  54.3 Mbits/sec
+[  6]  0.0-60.5 sec   365 MBytes  50.5 Mbits/sec
+[SUM]  0.0-60.5 sec  5.52 GBytes   783 Mbits/sec
+N = 16
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.5 port 33266 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33267 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33280 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33268 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33269 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33270 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33271 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33272 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33273 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33274 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33276 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33275 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33277 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33278 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33279 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33265 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 11]  0.0-60.0 sec   394 MBytes  55.1 Mbits/sec
+[ 20]  0.0-60.0 sec   422 MBytes  59.0 Mbits/sec
+[ 12]  0.0-60.0 sec   388 MBytes  54.3 Mbits/sec
+[ 19]  0.0-60.0 sec   380 MBytes  53.2 Mbits/sec
+[  7]  0.0-60.0 sec   329 MBytes  46.0 Mbits/sec
+[ 10]  0.0-60.0 sec   371 MBytes  51.9 Mbits/sec
+[ 15]  0.0-60.0 sec   344 MBytes  48.1 Mbits/sec
+[  6]  0.0-60.1 sec   370 MBytes  51.6 Mbits/sec
+[ 13]  0.0-60.1 sec   315 MBytes  44.0 Mbits/sec
+[ 14]  0.0-60.1 sec   420 MBytes  58.6 Mbits/sec
+[  9]  0.0-60.1 sec   362 MBytes  50.6 Mbits/sec
+[  8]  0.0-60.1 sec   322 MBytes  45.0 Mbits/sec
+[ 16]  0.0-60.2 sec   372 MBytes  51.8 Mbits/sec
+[ 17]  0.0-60.3 sec   375 MBytes  52.2 Mbits/sec
+[ 18]  0.0-60.4 sec   342 MBytes  47.5 Mbits/sec
+[ 21]  0.0-61.0 sec   307 MBytes  42.3 Mbits/sec
+[SUM]  0.0-61.0 sec  5.68 GBytes   800 Mbits/sec
+N = 18
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 23] local 149.165.148.5 port 33304 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33287 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33288 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33290 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33289 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33291 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33292 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33294 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33295 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33297 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33298 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33296 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33293 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33302 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33300 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33299 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33301 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33303 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 14]  0.0-60.0 sec   298 MBytes  41.7 Mbits/sec
+[ 23]  0.0-60.1 sec   286 MBytes  39.9 Mbits/sec
+[  9]  0.0-60.1 sec   314 MBytes  43.8 Mbits/sec
+[  8]  0.0-60.1 sec   319 MBytes  44.5 Mbits/sec
+[ 13]  0.0-60.1 sec   323 MBytes  45.1 Mbits/sec
+[ 20]  0.0-60.2 sec   302 MBytes  42.1 Mbits/sec
+[ 16]  0.0-60.2 sec   297 MBytes  41.4 Mbits/sec
+[ 18]  0.0-60.2 sec   268 MBytes  37.3 Mbits/sec
+[ 17]  0.0-60.2 sec   308 MBytes  42.9 Mbits/sec
+[ 15]  0.0-60.2 sec   277 MBytes  38.6 Mbits/sec
+[  7]  0.0-60.2 sec   327 MBytes  45.6 Mbits/sec
+[ 21]  0.0-60.3 sec   303 MBytes  42.2 Mbits/sec
+[  6]  0.0-60.3 sec   298 MBytes  41.5 Mbits/sec
+[ 12]  0.0-60.3 sec   342 MBytes  47.7 Mbits/sec
+[ 22]  0.0-60.3 sec   342 MBytes  47.6 Mbits/sec
+[ 19]  0.0-60.4 sec   278 MBytes  38.6 Mbits/sec
+[ 10]  0.0-60.5 sec   282 MBytes  39.2 Mbits/sec
+[ 11]  0.0-60.7 sec   370 MBytes  51.2 Mbits/sec
+[SUM]  0.0-60.7 sec  5.41 GBytes   765 Mbits/sec
+N = 20
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.5 port 33312 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33315 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33314 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33313 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33316 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33330 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33318 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33317 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33319 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33320 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33321 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33322 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33323 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33324 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33325 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33326 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33328 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33327 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33329 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33311 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 14]  0.0-60.0 sec   257 MBytes  35.9 Mbits/sec
+[  6]  0.0-60.0 sec   373 MBytes  52.1 Mbits/sec
+[  9]  0.0-60.0 sec   296 MBytes  41.4 Mbits/sec
+[ 22]  0.0-60.1 sec   296 MBytes  41.4 Mbits/sec
+[ 12]  0.0-60.1 sec   280 MBytes  39.2 Mbits/sec
+[ 13]  0.0-60.1 sec   294 MBytes  41.0 Mbits/sec
+[ 19]  0.0-60.1 sec   271 MBytes  37.8 Mbits/sec
+[ 20]  0.0-60.1 sec   280 MBytes  39.0 Mbits/sec
+[ 10]  0.0-60.1 sec   285 MBytes  39.8 Mbits/sec
+[ 23]  0.0-60.2 sec   198 MBytes  27.6 Mbits/sec
+[ 11]  0.0-60.2 sec   308 MBytes  42.9 Mbits/sec
+[ 18]  0.0-60.2 sec   315 MBytes  43.9 Mbits/sec
+[ 15]  0.0-60.3 sec   209 MBytes  29.1 Mbits/sec
+[ 25]  0.0-60.3 sec   327 MBytes  45.5 Mbits/sec
+[  8]  0.0-60.3 sec   270 MBytes  37.6 Mbits/sec
+[  7]  0.0-60.3 sec   240 MBytes  33.4 Mbits/sec
+[ 24]  0.0-60.4 sec   332 MBytes  46.1 Mbits/sec
+[ 21]  0.0-60.5 sec   298 MBytes  41.3 Mbits/sec
+[ 16]  0.0-60.6 sec   321 MBytes  44.4 Mbits/sec
+[ 17]  0.0-61.0 sec   355 MBytes  48.8 Mbits/sec
+[SUM]  0.0-61.0 sec  5.67 GBytes   799 Mbits/sec
+N = 30
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 35] local 149.165.148.5 port 33366 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33338 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33339 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33340 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33341 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33344 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33343 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33342 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33346 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33345 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33348 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33347 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33350 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33351 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33349 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33352 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33353 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33355 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33354 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33356 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33357 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33358 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33359 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33360 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33361 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33363 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33362 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33364 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33365 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33337 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 12]  0.0-60.0 sec   218 MBytes  30.4 Mbits/sec
+[ 31]  0.0-60.0 sec   259 MBytes  36.2 Mbits/sec
+[ 30]  0.0-60.0 sec   206 MBytes  28.8 Mbits/sec
+[ 26]  0.0-60.0 sec   194 MBytes  27.2 Mbits/sec
+[ 32]  0.0-60.0 sec   261 MBytes  36.5 Mbits/sec
+[ 35]  0.0-60.1 sec   218 MBytes  30.4 Mbits/sec
+[ 15]  0.0-60.1 sec   223 MBytes  31.1 Mbits/sec
+[ 14]  0.0-60.1 sec   210 MBytes  29.3 Mbits/sec
+[ 13]  0.0-60.1 sec   246 MBytes  34.4 Mbits/sec
+[  8]  0.0-60.1 sec   225 MBytes  31.4 Mbits/sec
+[ 29]  0.0-60.1 sec   212 MBytes  29.6 Mbits/sec
+[ 20]  0.0-60.1 sec   230 MBytes  32.2 Mbits/sec
+[ 22]  0.0-60.1 sec   212 MBytes  29.5 Mbits/sec
+[ 34]  0.0-60.2 sec   193 MBytes  26.9 Mbits/sec
+[ 28]  0.0-60.2 sec   242 MBytes  33.7 Mbits/sec
+[ 11]  0.0-60.2 sec   243 MBytes  33.9 Mbits/sec
+[ 24]  0.0-60.2 sec   160 MBytes  22.2 Mbits/sec
+[ 10]  0.0-60.3 sec   188 MBytes  26.1 Mbits/sec
+[ 21]  0.0-60.3 sec   176 MBytes  24.5 Mbits/sec
+[ 19]  0.0-60.3 sec   208 MBytes  28.9 Mbits/sec
+[ 16]  0.0-60.4 sec   283 MBytes  39.3 Mbits/sec
+[ 27]  0.0-60.4 sec   231 MBytes  32.1 Mbits/sec
+[  9]  0.0-60.4 sec   204 MBytes  28.3 Mbits/sec
+[  7]  0.0-60.4 sec   179 MBytes  24.8 Mbits/sec
+[ 18]  0.0-60.5 sec   247 MBytes  34.3 Mbits/sec
+[ 23]  0.0-60.5 sec   193 MBytes  26.8 Mbits/sec
+[ 17]  0.0-60.6 sec   237 MBytes  32.9 Mbits/sec
+[  6]  0.0-60.6 sec   231 MBytes  32.0 Mbits/sec
+[ 25]  0.0-60.7 sec   222 MBytes  30.6 Mbits/sec
+[ 33]  0.0-60.8 sec   190 MBytes  26.2 Mbits/sec
+[SUM]  0.0-60.8 sec  6.39 GBytes   902 Mbits/sec
+N = 40
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.5 port 33374 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33375 connected with 129.114.32.4 port 5001
+[ 45] local 149.165.148.5 port 33413 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33376 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33377 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33378 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33379 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33380 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33381 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33382 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33385 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33384 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33383 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33387 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33388 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33389 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33390 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33391 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33393 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33392 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33394 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33396 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33397 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33395 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33399 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33401 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33398 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33400 connected with 129.114.32.4 port 5001
+[ 36] local 149.165.148.5 port 33403 connected with 129.114.32.4 port 5001
+[ 37] local 149.165.148.5 port 33404 connected with 129.114.32.4 port 5001
+[ 35] local 149.165.148.5 port 33402 connected with 129.114.32.4 port 5001
+[ 38] local 149.165.148.5 port 33405 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33407 connected with 129.114.32.4 port 5001
+[ 39] local 149.165.148.5 port 33406 connected with 129.114.32.4 port 5001
+[ 43] local 149.165.148.5 port 33410 connected with 129.114.32.4 port 5001
+[ 40] local 149.165.148.5 port 33408 connected with 129.114.32.4 port 5001
+[ 41] local 149.165.148.5 port 33409 connected with 129.114.32.4 port 5001
+[ 42] local 149.165.148.5 port 33411 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33373 connected with 129.114.32.4 port 5001
+[ 44] local 149.165.148.5 port 33412 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 36]  0.0-60.0 sec   153 MBytes  21.4 Mbits/sec
+[ 43]  0.0-60.0 sec   154 MBytes  21.5 Mbits/sec
+[  6]  0.0-60.0 sec   220 MBytes  30.7 Mbits/sec
+[ 13]  0.0-60.1 sec   142 MBytes  19.8 Mbits/sec
+[ 12]  0.0-60.1 sec   150 MBytes  21.0 Mbits/sec
+[ 31]  0.0-60.0 sec   157 MBytes  21.9 Mbits/sec
+[ 34]  0.0-60.1 sec   186 MBytes  26.0 Mbits/sec
+[ 11]  0.0-60.1 sec   181 MBytes  25.2 Mbits/sec
+[ 26]  0.0-60.1 sec   174 MBytes  24.3 Mbits/sec
+[ 39]  0.0-60.1 sec   180 MBytes  25.1 Mbits/sec
+[ 14]  0.0-60.1 sec   190 MBytes  26.5 Mbits/sec
+[ 33]  0.0-60.1 sec   198 MBytes  27.7 Mbits/sec
+[  7]  0.0-60.1 sec   200 MBytes  27.9 Mbits/sec
+[ 15]  0.0-60.1 sec   187 MBytes  26.1 Mbits/sec
+[ 29]  0.0-60.1 sec   159 MBytes  22.1 Mbits/sec
+[ 44]  0.0-60.1 sec   167 MBytes  23.2 Mbits/sec
+[  9]  0.0-60.2 sec   178 MBytes  24.8 Mbits/sec
+[ 18]  0.0-60.2 sec   166 MBytes  23.2 Mbits/sec
+[ 17]  0.0-60.2 sec   173 MBytes  24.1 Mbits/sec
+[ 22]  0.0-60.2 sec   168 MBytes  23.4 Mbits/sec
+[ 25]  0.0-60.2 sec   198 MBytes  27.7 Mbits/sec
+[ 28]  0.0-60.2 sec   146 MBytes  20.4 Mbits/sec
+[ 32]  0.0-60.2 sec   152 MBytes  21.2 Mbits/sec
+[ 38]  0.0-60.2 sec   190 MBytes  26.5 Mbits/sec
+[ 45]  0.0-60.2 sec   168 MBytes  23.4 Mbits/sec
+[ 23]  0.0-60.2 sec   181 MBytes  25.3 Mbits/sec
+[ 30]  0.0-60.2 sec   206 MBytes  28.7 Mbits/sec
+[ 40]  0.0-60.2 sec   145 MBytes  20.2 Mbits/sec
+[ 19]  0.0-60.3 sec   182 MBytes  25.4 Mbits/sec
+[ 21]  0.0-60.3 sec   167 MBytes  23.3 Mbits/sec
+[ 42]  0.0-60.3 sec   205 MBytes  28.6 Mbits/sec
+[ 37]  0.0-60.3 sec   151 MBytes  21.0 Mbits/sec
+[ 20]  0.0-60.3 sec   168 MBytes  23.3 Mbits/sec
+[  8]  0.0-60.4 sec   171 MBytes  23.7 Mbits/sec
+[ 35]  0.0-60.4 sec   133 MBytes  18.5 Mbits/sec
+[ 10]  0.0-60.4 sec   172 MBytes  23.9 Mbits/sec
+[ 24]  0.0-60.4 sec   181 MBytes  25.2 Mbits/sec
+[ 16]  0.0-60.5 sec   155 MBytes  21.5 Mbits/sec
+[ 41]  0.0-60.6 sec   165 MBytes  22.8 Mbits/sec
+[ 27]  0.0-60.7 sec   165 MBytes  22.9 Mbits/sec
+[SUM]  0.0-60.7 sec  6.72 GBytes   952 Mbits/sec
+N = 50
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 55] local 149.165.148.5 port 33469 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33421 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33422 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33423 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33425 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33424 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33426 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33427 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33428 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33429 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33430 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33431 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33433 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33432 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33434 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33435 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33436 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33437 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33440 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33439 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33438 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33443 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33444 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33442 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33445 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33441 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33446 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33447 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33448 connected with 129.114.32.4 port 5001
+[ 36] local 149.165.148.5 port 33450 connected with 129.114.32.4 port 5001
+[ 35] local 149.165.148.5 port 33449 connected with 129.114.32.4 port 5001
+[ 37] local 149.165.148.5 port 33451 connected with 129.114.32.4 port 5001
+[ 38] local 149.165.148.5 port 33452 connected with 129.114.32.4 port 5001
+[ 41] local 149.165.148.5 port 33455 connected with 129.114.32.4 port 5001
+[ 40] local 149.165.148.5 port 33454 connected with 129.114.32.4 port 5001
+[ 39] local 149.165.148.5 port 33453 connected with 129.114.32.4 port 5001
+[ 42] local 149.165.148.5 port 33456 connected with 129.114.32.4 port 5001
+[ 43] local 149.165.148.5 port 33457 connected with 129.114.32.4 port 5001
+[ 44] local 149.165.148.5 port 33458 connected with 129.114.32.4 port 5001
+[ 45] local 149.165.148.5 port 33459 connected with 129.114.32.4 port 5001
+[ 46] local 149.165.148.5 port 33460 connected with 129.114.32.4 port 5001
+[ 47] local 149.165.148.5 port 33461 connected with 129.114.32.4 port 5001
+[ 49] local 149.165.148.5 port 33463 connected with 129.114.32.4 port 5001
+[ 51] local 149.165.148.5 port 33465 connected with 129.114.32.4 port 5001
+[ 48] local 149.165.148.5 port 33462 connected with 129.114.32.4 port 5001
+[ 52] local 149.165.148.5 port 33466 connected with 129.114.32.4 port 5001
+[ 50] local 149.165.148.5 port 33464 connected with 129.114.32.4 port 5001
+[ 53] local 149.165.148.5 port 33467 connected with 129.114.32.4 port 5001
+[ 54] local 149.165.148.5 port 33468 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33420 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 20]  0.0-60.0 sec   151 MBytes  21.1 Mbits/sec
+[ 22]  0.0-60.0 sec   100 MBytes  14.0 Mbits/sec
+[ 17]  0.0-60.0 sec   172 MBytes  24.0 Mbits/sec
+[ 21]  0.0-60.0 sec   163 MBytes  22.8 Mbits/sec
+[  7]  0.0-60.0 sec   131 MBytes  18.3 Mbits/sec
+[ 10]  0.0-60.0 sec   148 MBytes  20.7 Mbits/sec
+[  9]  0.0-60.0 sec   124 MBytes  17.3 Mbits/sec
+[ 25]  0.0-60.0 sec   129 MBytes  18.1 Mbits/sec
+[ 28]  0.0-60.1 sec   132 MBytes  18.4 Mbits/sec
+[  8]  0.0-60.1 sec   134 MBytes  18.7 Mbits/sec
+[ 43]  0.0-60.1 sec   170 MBytes  23.7 Mbits/sec
+[ 37]  0.0-60.1 sec   123 MBytes  17.1 Mbits/sec
+[ 52]  0.0-60.1 sec   143 MBytes  20.0 Mbits/sec
+[ 13]  0.0-60.1 sec   124 MBytes  17.3 Mbits/sec
+[ 16]  0.0-60.1 sec   140 MBytes  19.5 Mbits/sec
+[ 38]  0.0-60.1 sec   124 MBytes  17.3 Mbits/sec
+[ 40]  0.0-60.1 sec   159 MBytes  22.2 Mbits/sec
+[ 27]  0.0-60.2 sec   129 MBytes  18.0 Mbits/sec
+[ 45]  0.0-60.2 sec   148 MBytes  20.7 Mbits/sec
+[ 53]  0.0-60.2 sec   148 MBytes  20.6 Mbits/sec
+[ 12]  0.0-60.2 sec   122 MBytes  17.0 Mbits/sec
+[ 31]  0.0-60.2 sec   124 MBytes  17.2 Mbits/sec
+[ 32]  0.0-60.2 sec   137 MBytes  19.1 Mbits/sec
+[ 35]  0.0-60.2 sec   128 MBytes  17.8 Mbits/sec
+[ 39]  0.0-60.2 sec   147 MBytes  20.5 Mbits/sec
+[ 54]  0.0-60.2 sec  94.4 MBytes  13.1 Mbits/sec
+[ 15]  0.0-60.2 sec   123 MBytes  17.1 Mbits/sec
+[ 36]  0.0-60.2 sec   132 MBytes  18.3 Mbits/sec
+[ 49]  0.0-60.2 sec   132 MBytes  18.4 Mbits/sec
+[ 48]  0.0-60.2 sec   142 MBytes  19.8 Mbits/sec
+[ 55]  0.0-60.3 sec   184 MBytes  25.7 Mbits/sec
+[ 29]  0.0-60.3 sec   128 MBytes  17.9 Mbits/sec
+[ 30]  0.0-60.3 sec   153 MBytes  21.3 Mbits/sec
+[ 34]  0.0-60.3 sec   126 MBytes  17.5 Mbits/sec
+[ 42]  0.0-60.3 sec   162 MBytes  22.5 Mbits/sec
+[ 46]  0.0-60.3 sec   135 MBytes  18.8 Mbits/sec
+[ 47]  0.0-60.3 sec   139 MBytes  19.3 Mbits/sec
+[  6]  0.0-60.3 sec   164 MBytes  22.7 Mbits/sec
+[ 11]  0.0-60.4 sec   131 MBytes  18.2 Mbits/sec
+[ 18]  0.0-60.4 sec   150 MBytes  20.8 Mbits/sec
+[ 33]  0.0-60.4 sec   121 MBytes  16.8 Mbits/sec
+[ 50]  0.0-60.4 sec   140 MBytes  19.4 Mbits/sec
+[ 26]  0.0-60.4 sec   131 MBytes  18.2 Mbits/sec
+[ 41]  0.0-60.4 sec   171 MBytes  23.8 Mbits/sec
+[ 44]  0.0-60.4 sec   118 MBytes  16.4 Mbits/sec
+[ 23]  0.0-60.5 sec   160 MBytes  22.2 Mbits/sec
+[ 51]  0.0-60.5 sec   132 MBytes  18.3 Mbits/sec
+[ 24]  0.0-60.5 sec   150 MBytes  20.8 Mbits/sec
+[ 19]  0.0-60.7 sec   152 MBytes  21.0 Mbits/sec
+[ 14]  0.0-60.7 sec   111 MBytes  15.4 Mbits/sec
+[SUM]  0.0-60.7 sec  6.77 GBytes   957 Mbits/sec
+N = 60
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 62] local 149.165.148.5 port 33532 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33476 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33478 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33480 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33479 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33484 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33483 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33482 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33481 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33485 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33489 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33486 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33487 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33488 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33490 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33491 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33493 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33492 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33495 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33494 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33498 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33497 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33496 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33499 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33500 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33501 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33502 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33503 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33504 connected with 129.114.32.4 port 5001
+[ 35] local 149.165.148.5 port 33505 connected with 129.114.32.4 port 5001
+[ 36] local 149.165.148.5 port 33506 connected with 129.114.32.4 port 5001
+[ 38] local 149.165.148.5 port 33508 connected with 129.114.32.4 port 5001
+[ 37] local 149.165.148.5 port 33507 connected with 129.114.32.4 port 5001
+[ 41] local 149.165.148.5 port 33511 connected with 129.114.32.4 port 5001
+[ 39] local 149.165.148.5 port 33509 connected with 129.114.32.4 port 5001
+[ 40] local 149.165.148.5 port 33510 connected with 129.114.32.4 port 5001
+[ 42] local 149.165.148.5 port 33512 connected with 129.114.32.4 port 5001
+[ 43] local 149.165.148.5 port 33513 connected with 129.114.32.4 port 5001
+[ 46] local 149.165.148.5 port 33516 connected with 129.114.32.4 port 5001
+[ 45] local 149.165.148.5 port 33515 connected with 129.114.32.4 port 5001
+[ 44] local 149.165.148.5 port 33514 connected with 129.114.32.4 port 5001
+[ 47] local 149.165.148.5 port 33517 connected with 129.114.32.4 port 5001
+[ 49] local 149.165.148.5 port 33518 connected with 129.114.32.4 port 5001
+[ 50] local 149.165.148.5 port 33519 connected with 129.114.32.4 port 5001
+[ 55] local 149.165.148.5 port 33526 connected with 129.114.32.4 port 5001
+[ 48] local 149.165.148.5 port 33523 connected with 129.114.32.4 port 5001
+[ 56] local 149.165.148.5 port 33525 connected with 129.114.32.4 port 5001
+[ 52] local 149.165.148.5 port 33521 connected with 129.114.32.4 port 5001
+[ 54] local 149.165.148.5 port 33524 connected with 129.114.32.4 port 5001
+[ 51] local 149.165.148.5 port 33520 connected with 129.114.32.4 port 5001
+[ 53] local 149.165.148.5 port 33522 connected with 129.114.32.4 port 5001
+[ 57] local 149.165.148.5 port 33527 connected with 129.114.32.4 port 5001
+[ 63] local 149.165.148.5 port 33533 connected with 129.114.32.4 port 5001
+[ 59] local 149.165.148.5 port 33528 connected with 129.114.32.4 port 5001
+[ 64] local 149.165.148.5 port 33534 connected with 129.114.32.4 port 5001
+[ 60] local 149.165.148.5 port 33530 connected with 129.114.32.4 port 5001
+[ 61] local 149.165.148.5 port 33531 connected with 129.114.32.4 port 5001
+[ 65] local 149.165.148.5 port 33535 connected with 129.114.32.4 port 5001
+[ 58] local 149.165.148.5 port 33529 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33477 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 11]  0.0-60.0 sec   146 MBytes  20.4 Mbits/sec
+[  8]  0.0-60.0 sec   138 MBytes  19.2 Mbits/sec
+[ 21]  0.0-60.0 sec   108 MBytes  15.2 Mbits/sec
+[ 59]  0.0-60.0 sec   120 MBytes  16.8 Mbits/sec
+[ 42]  0.0-60.0 sec  85.9 MBytes  12.0 Mbits/sec
+[ 55]  0.0-60.0 sec   123 MBytes  17.2 Mbits/sec
+[ 27]  0.0-60.0 sec   132 MBytes  18.4 Mbits/sec
+[ 50]  0.0-60.0 sec   104 MBytes  14.5 Mbits/sec
+[ 15]  0.0-60.1 sec   121 MBytes  16.9 Mbits/sec
+[ 65]  0.0-60.1 sec  78.5 MBytes  11.0 Mbits/sec
+[ 54]  0.0-60.1 sec   120 MBytes  16.8 Mbits/sec
+[ 61]  0.0-60.1 sec   115 MBytes  16.1 Mbits/sec
+[ 62]  0.0-60.1 sec  93.1 MBytes  13.0 Mbits/sec
+[ 23]  0.0-60.1 sec   117 MBytes  16.3 Mbits/sec
+[ 30]  0.0-60.1 sec   106 MBytes  14.8 Mbits/sec
+[ 63]  0.0-60.1 sec   104 MBytes  14.5 Mbits/sec
+[  7]  0.0-60.1 sec   124 MBytes  17.3 Mbits/sec
+[ 20]  0.0-60.1 sec   115 MBytes  16.1 Mbits/sec
+[ 25]  0.0-60.1 sec   117 MBytes  16.3 Mbits/sec
+[ 43]  0.0-60.1 sec   136 MBytes  18.9 Mbits/sec
+[ 47]  0.0-60.1 sec   162 MBytes  22.6 Mbits/sec
+[ 19]  0.0-60.1 sec   135 MBytes  18.9 Mbits/sec
+[ 56]  0.0-60.1 sec   124 MBytes  17.3 Mbits/sec
+[ 17]  0.0-60.1 sec   164 MBytes  22.8 Mbits/sec
+[ 38]  0.0-60.1 sec  95.6 MBytes  13.3 Mbits/sec
+[  6]  0.0-60.2 sec  88.1 MBytes  12.3 Mbits/sec
+[ 10]  0.0-60.2 sec   116 MBytes  16.1 Mbits/sec
+[  9]  0.0-60.2 sec   125 MBytes  17.4 Mbits/sec
+[ 16]  0.0-60.2 sec   127 MBytes  17.7 Mbits/sec
+[ 29]  0.0-60.2 sec   115 MBytes  16.0 Mbits/sec
+[ 53]  0.0-60.2 sec   104 MBytes  14.5 Mbits/sec
+[ 13]  0.0-60.2 sec   125 MBytes  17.4 Mbits/sec
+[ 33]  0.0-60.2 sec  99.2 MBytes  13.8 Mbits/sec
+[ 46]  0.0-60.2 sec   145 MBytes  20.3 Mbits/sec
+[ 64]  0.0-60.2 sec   111 MBytes  15.5 Mbits/sec
+[ 18]  0.0-60.2 sec   126 MBytes  17.5 Mbits/sec
+[ 40]  0.0-60.2 sec   120 MBytes  16.7 Mbits/sec
+[ 28]  0.0-60.2 sec   132 MBytes  18.4 Mbits/sec
+[ 51]  0.0-60.2 sec   101 MBytes  14.0 Mbits/sec
+[ 24]  0.0-60.3 sec   120 MBytes  16.8 Mbits/sec
+[ 37]  0.0-60.3 sec   134 MBytes  18.6 Mbits/sec
+[ 12]  0.0-60.3 sec   131 MBytes  18.2 Mbits/sec
+[ 26]  0.0-60.3 sec  85.9 MBytes  12.0 Mbits/sec
+[ 60]  0.0-60.3 sec   116 MBytes  16.2 Mbits/sec
+[ 58]  0.0-60.3 sec   105 MBytes  14.7 Mbits/sec
+[ 48]  0.0-60.3 sec   117 MBytes  16.2 Mbits/sec
+[ 52]  0.0-60.3 sec   129 MBytes  17.9 Mbits/sec
+[ 32]  0.0-60.3 sec  87.4 MBytes  12.1 Mbits/sec
+[ 41]  0.0-60.3 sec   124 MBytes  17.2 Mbits/sec
+[ 45]  0.0-60.3 sec  94.9 MBytes  13.2 Mbits/sec
+[ 39]  0.0-60.4 sec   142 MBytes  19.8 Mbits/sec
+[ 14]  0.0-60.4 sec   109 MBytes  15.1 Mbits/sec
+[ 36]  0.0-60.4 sec  93.2 MBytes  12.9 Mbits/sec
+[ 22]  0.0-60.5 sec   118 MBytes  16.4 Mbits/sec
+[ 34]  0.0-60.6 sec   117 MBytes  16.2 Mbits/sec
+[ 49]  0.0-60.6 sec  97.2 MBytes  13.5 Mbits/sec
+[ 57]  0.0-60.6 sec   120 MBytes  16.6 Mbits/sec
+[ 31]  0.0-60.6 sec   145 MBytes  20.1 Mbits/sec
+[ 44]  0.0-60.7 sec   109 MBytes  15.0 Mbits/sec
+[ 35]  0.0-60.9 sec   128 MBytes  17.6 Mbits/sec
+[SUM]  0.0-60.9 sec  6.87 GBytes   969 Mbits/sec
+N = 70
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 75] local 149.165.148.5 port 33613 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33543 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33544 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33545 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33546 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33547 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33548 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33552 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33550 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33551 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33554 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33549 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33555 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33553 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33556 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33558 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33557 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33559 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33560 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33561 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33562 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33564 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33563 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33565 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33566 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33567 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33571 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33570 connected with 129.114.32.4 port 5001
+[ 37] local 149.165.148.5 port 33572 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33568 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33569 connected with 129.114.32.4 port 5001
+[ 36] local 149.165.148.5 port 33573 connected with 129.114.32.4 port 5001
+[ 35] local 149.165.148.5 port 33574 connected with 129.114.32.4 port 5001
+[ 38] local 149.165.148.5 port 33575 connected with 129.114.32.4 port 5001
+[ 39] local 149.165.148.5 port 33576 connected with 129.114.32.4 port 5001
+[ 40] local 149.165.148.5 port 33577 connected with 129.114.32.4 port 5001
+[ 41] local 149.165.148.5 port 33578 connected with 129.114.32.4 port 5001
+[ 42] local 149.165.148.5 port 33579 connected with 129.114.32.4 port 5001
+[ 43] local 149.165.148.5 port 33580 connected with 129.114.32.4 port 5001
+[ 44] local 149.165.148.5 port 33581 connected with 129.114.32.4 port 5001
+[ 45] local 149.165.148.5 port 33582 connected with 129.114.32.4 port 5001
+[ 46] local 149.165.148.5 port 33583 connected with 129.114.32.4 port 5001
+[ 47] local 149.165.148.5 port 33584 connected with 129.114.32.4 port 5001
+[ 48] local 149.165.148.5 port 33585 connected with 129.114.32.4 port 5001
+[ 49] local 149.165.148.5 port 33586 connected with 129.114.32.4 port 5001
+[ 50] local 149.165.148.5 port 33587 connected with 129.114.32.4 port 5001
+[ 51] local 149.165.148.5 port 33588 connected with 129.114.32.4 port 5001
+[ 52] local 149.165.148.5 port 33589 connected with 129.114.32.4 port 5001
+[ 53] local 149.165.148.5 port 33590 connected with 129.114.32.4 port 5001
+[ 57] local 149.165.148.5 port 33594 connected with 129.114.32.4 port 5001
+[ 56] local 149.165.148.5 port 33593 connected with 129.114.32.4 port 5001
+[ 54] local 149.165.148.5 port 33591 connected with 129.114.32.4 port 5001
+[ 55] local 149.165.148.5 port 33592 connected with 129.114.32.4 port 5001
+[ 58] local 149.165.148.5 port 33595 connected with 129.114.32.4 port 5001
+[ 59] local 149.165.148.5 port 33596 connected with 129.114.32.4 port 5001
+[ 60] local 149.165.148.5 port 33598 connected with 129.114.32.4 port 5001
+[ 61] local 149.165.148.5 port 33597 connected with 129.114.32.4 port 5001
+[ 62] local 149.165.148.5 port 33599 connected with 129.114.32.4 port 5001
+[ 63] local 149.165.148.5 port 33600 connected with 129.114.32.4 port 5001
+[ 64] local 149.165.148.5 port 33601 connected with 129.114.32.4 port 5001
+[ 65] local 149.165.148.5 port 33602 connected with 129.114.32.4 port 5001
+[ 70] local 149.165.148.5 port 33607 connected with 129.114.32.4 port 5001
+[ 67] local 149.165.148.5 port 33604 connected with 129.114.32.4 port 5001
+[ 66] local 149.165.148.5 port 33603 connected with 129.114.32.4 port 5001
+[ 73] local 149.165.148.5 port 33610 connected with 129.114.32.4 port 5001
+[ 71] local 149.165.148.5 port 33608 connected with 129.114.32.4 port 5001
+[ 72] local 149.165.148.5 port 33609 connected with 129.114.32.4 port 5001
+[ 68] local 149.165.148.5 port 33605 connected with 129.114.32.4 port 5001
+[ 74] local 149.165.148.5 port 33611 connected with 129.114.32.4 port 5001
+[ 69] local 149.165.148.5 port 33606 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 36]  0.0-60.0 sec  86.2 MBytes  12.1 Mbits/sec
+[ 61]  0.0-60.0 sec  92.9 MBytes  13.0 Mbits/sec
+[ 39]  0.0-60.0 sec  98.6 MBytes  13.8 Mbits/sec
+[ 52]  0.0-60.0 sec  99.5 MBytes  13.9 Mbits/sec
+[ 65]  0.0-60.0 sec   100 MBytes  14.0 Mbits/sec
+[ 67]  0.0-60.0 sec   106 MBytes  14.7 Mbits/sec
+[ 75]  0.0-60.0 sec   106 MBytes  14.8 Mbits/sec
+[  6]  0.0-60.7 sec   117 MBytes  16.2 Mbits/sec
+[  7]  0.0-60.4 sec  93.5 MBytes  13.0 Mbits/sec
+[  8]  0.0-60.1 sec  86.9 MBytes  12.1 Mbits/sec
+[  9]  0.0-60.1 sec   101 MBytes  14.1 Mbits/sec
+[ 10]  0.0-60.3 sec   152 MBytes  21.1 Mbits/sec
+[ 11]  0.0-60.5 sec  97.0 MBytes  13.5 Mbits/sec
+[ 15]  0.0-60.9 sec   109 MBytes  15.0 Mbits/sec
+[ 13]  0.0-60.2 sec   100 MBytes  14.0 Mbits/sec
+[ 14]  0.0-60.5 sec  94.1 MBytes  13.0 Mbits/sec
+[ 17]  0.0-60.1 sec   107 MBytes  14.9 Mbits/sec
+[ 12]  0.0-60.2 sec  86.9 MBytes  12.1 Mbits/sec
+[ 18]  0.0-60.2 sec  82.9 MBytes  11.5 Mbits/sec
+[ 16]  0.0-60.1 sec  85.6 MBytes  12.0 Mbits/sec
+[ 19]  0.0-60.2 sec  85.4 MBytes  11.9 Mbits/sec
+[ 21]  0.0-60.2 sec  85.4 MBytes  11.9 Mbits/sec
+[ 20]  0.0-60.5 sec   114 MBytes  15.7 Mbits/sec
+[ 22]  0.0-60.3 sec   113 MBytes  15.8 Mbits/sec
+[ 23]  0.0-60.4 sec  95.9 MBytes  13.3 Mbits/sec
+[ 24]  0.0-60.6 sec   100 MBytes  13.9 Mbits/sec
+[ 27]  0.0-60.0 sec   106 MBytes  14.9 Mbits/sec
+[ 26]  0.0-60.1 sec  99.2 MBytes  13.8 Mbits/sec
+[ 25]  0.0-60.2 sec  96.9 MBytes  13.5 Mbits/sec
+[ 28]  0.0-60.6 sec  87.4 MBytes  12.1 Mbits/sec
+[ 29]  0.0-61.0 sec   105 MBytes  14.4 Mbits/sec
+[ 30]  0.0-60.5 sec  98.9 MBytes  13.7 Mbits/sec
+[ 34]  0.0-60.9 sec  98.4 MBytes  13.5 Mbits/sec
+[ 32]  0.0-60.5 sec   105 MBytes  14.6 Mbits/sec
+[ 37]  0.0-60.6 sec   110 MBytes  15.2 Mbits/sec
+[ 31]  0.0-60.5 sec  92.9 MBytes  12.9 Mbits/sec
+[ 33]  0.0-60.0 sec  92.5 MBytes  12.9 Mbits/sec
+[ 35]  0.0-60.1 sec  96.4 MBytes  13.4 Mbits/sec
+[ 38]  0.0-60.3 sec   112 MBytes  15.6 Mbits/sec
+[ 40]  0.0-61.0 sec   108 MBytes  14.9 Mbits/sec
+[ 41]  0.0-60.2 sec  93.5 MBytes  13.0 Mbits/sec
+[ 42]  0.0-60.5 sec  75.0 MBytes  10.4 Mbits/sec
+[ 43]  0.0-60.3 sec  99.8 MBytes  13.9 Mbits/sec
+[ 44]  0.0-60.6 sec  94.1 MBytes  13.0 Mbits/sec
+[ 45]  0.0-60.5 sec  93.2 MBytes  12.9 Mbits/sec
+[ 46]  0.0-60.7 sec   104 MBytes  14.4 Mbits/sec
+[ 47]  0.0-60.2 sec  98.8 MBytes  13.8 Mbits/sec
+[ 48]  0.0-60.1 sec   129 MBytes  18.0 Mbits/sec
+[ 49]  0.0-60.6 sec   131 MBytes  18.2 Mbits/sec
+[ 50]  0.0-60.6 sec   112 MBytes  15.6 Mbits/sec
+[ 51]  0.0-60.3 sec  86.6 MBytes  12.1 Mbits/sec
+[ 53]  0.0-60.5 sec   114 MBytes  15.8 Mbits/sec
+[ 57]  0.0-60.5 sec   117 MBytes  16.2 Mbits/sec
+[ 56]  0.0-60.6 sec   109 MBytes  15.0 Mbits/sec
+[ 54]  0.0-60.5 sec   109 MBytes  15.1 Mbits/sec
+[ 55]  0.0-60.1 sec  86.6 MBytes  12.1 Mbits/sec
+[ 58]  0.0-60.2 sec   104 MBytes  14.4 Mbits/sec
+[ 59]  0.0-60.0 sec  86.0 MBytes  12.0 Mbits/sec
+[ 60]  0.0-61.0 sec   113 MBytes  15.5 Mbits/sec
+[ 62]  0.0-60.6 sec  89.1 MBytes  12.3 Mbits/sec
+[ 63]  0.0-60.2 sec   112 MBytes  15.5 Mbits/sec
+[ 64]  0.0-60.5 sec   110 MBytes  15.3 Mbits/sec
+[ 70]  0.0-60.5 sec   104 MBytes  14.4 Mbits/sec
+[ 66]  0.0-60.3 sec   103 MBytes  14.3 Mbits/sec
+[ 73]  0.0-60.8 sec   120 MBytes  16.6 Mbits/sec
+[ 71]  0.0-60.5 sec  81.9 MBytes  11.3 Mbits/sec
+[ 72]  0.0-61.1 sec   105 MBytes  14.4 Mbits/sec
+[ 68]  0.0-60.5 sec   112 MBytes  15.6 Mbits/sec
+[ 74]  0.0-60.5 sec  88.4 MBytes  12.3 Mbits/sec
+[ 69]  0.0-60.2 sec  87.4 MBytes  12.2 Mbits/sec
+[SUM]  0.0-61.1 sec  6.91 GBytes   971 Mbits/sec
+N = 80
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  7] local 149.165.148.5 port 33621 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33622 connected with 129.114.32.4 port 5001
+[ 85] local 149.165.148.5 port 33699 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33624 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33623 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33625 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33626 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33627 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33628 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33629 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33630 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33631 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33633 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33632 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33634 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33635 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33637 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33636 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33638 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33639 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33640 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33641 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33644 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33645 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33646 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33643 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33642 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33647 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33648 connected with 129.114.32.4 port 5001
+[ 35] local 149.165.148.5 port 33649 connected with 129.114.32.4 port 5001
+[ 36] local 149.165.148.5 port 33650 connected with 129.114.32.4 port 5001
+[ 38] local 149.165.148.5 port 33651 connected with 129.114.32.4 port 5001
+[ 37] local 149.165.148.5 port 33652 connected with 129.114.32.4 port 5001
+[ 39] local 149.165.148.5 port 33653 connected with 129.114.32.4 port 5001
+[ 41] local 149.165.148.5 port 33654 connected with 129.114.32.4 port 5001
+[ 40] local 149.165.148.5 port 33655 connected with 129.114.32.4 port 5001
+[ 42] local 149.165.148.5 port 33656 connected with 129.114.32.4 port 5001
+[ 44] local 149.165.148.5 port 33657 connected with 129.114.32.4 port 5001
+[ 43] local 149.165.148.5 port 33658 connected with 129.114.32.4 port 5001
+[ 45] local 149.165.148.5 port 33659 connected with 129.114.32.4 port 5001
+[ 47] local 149.165.148.5 port 33661 connected with 129.114.32.4 port 5001
+[ 46] local 149.165.148.5 port 33660 connected with 129.114.32.4 port 5001
+[ 48] local 149.165.148.5 port 33662 connected with 129.114.32.4 port 5001
+[ 51] local 149.165.148.5 port 33665 connected with 129.114.32.4 port 5001
+[ 52] local 149.165.148.5 port 33666 connected with 129.114.32.4 port 5001
+[ 49] local 149.165.148.5 port 33663 connected with 129.114.32.4 port 5001
+[ 50] local 149.165.148.5 port 33664 connected with 129.114.32.4 port 5001
+[ 53] local 149.165.148.5 port 33667 connected with 129.114.32.4 port 5001
+[ 54] local 149.165.148.5 port 33668 connected with 129.114.32.4 port 5001
+[ 55] local 149.165.148.5 port 33669 connected with 129.114.32.4 port 5001
+[ 57] local 149.165.148.5 port 33671 connected with 129.114.32.4 port 5001
+[ 56] local 149.165.148.5 port 33670 connected with 129.114.32.4 port 5001
+[ 58] local 149.165.148.5 port 33672 connected with 129.114.32.4 port 5001
+[ 59] local 149.165.148.5 port 33673 connected with 129.114.32.4 port 5001
+[ 60] local 149.165.148.5 port 33674 connected with 129.114.32.4 port 5001
+[ 61] local 149.165.148.5 port 33675 connected with 129.114.32.4 port 5001
+[ 62] local 149.165.148.5 port 33676 connected with 129.114.32.4 port 5001
+[ 63] local 149.165.148.5 port 33677 connected with 129.114.32.4 port 5001
+[ 65] local 149.165.148.5 port 33679 connected with 129.114.32.4 port 5001
+[ 64] local 149.165.148.5 port 33678 connected with 129.114.32.4 port 5001
+[ 66] local 149.165.148.5 port 33680 connected with 129.114.32.4 port 5001
+[ 68] local 149.165.148.5 port 33682 connected with 129.114.32.4 port 5001
+[ 67] local 149.165.148.5 port 33681 connected with 129.114.32.4 port 5001
+[ 69] local 149.165.148.5 port 33683 connected with 129.114.32.4 port 5001
+[ 75] local 149.165.148.5 port 33689 connected with 129.114.32.4 port 5001
+[ 73] local 149.165.148.5 port 33687 connected with 129.114.32.4 port 5001
+[ 71] local 149.165.148.5 port 33685 connected with 129.114.32.4 port 5001
+[ 72] local 149.165.148.5 port 33686 connected with 129.114.32.4 port 5001
+[ 76] local 149.165.148.5 port 33690 connected with 129.114.32.4 port 5001
+[ 70] local 149.165.148.5 port 33684 connected with 129.114.32.4 port 5001
+[ 74] local 149.165.148.5 port 33688 connected with 129.114.32.4 port 5001
+[ 77] local 149.165.148.5 port 33691 connected with 129.114.32.4 port 5001
+[ 78] local 149.165.148.5 port 33692 connected with 129.114.32.4 port 5001
+[ 79] local 149.165.148.5 port 33693 connected with 129.114.32.4 port 5001
+[ 81] local 149.165.148.5 port 33695 connected with 129.114.32.4 port 5001
+[ 83] local 149.165.148.5 port 33697 connected with 129.114.32.4 port 5001
+[ 80] local 149.165.148.5 port 33694 connected with 129.114.32.4 port 5001
+[ 84] local 149.165.148.5 port 33698 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33620 connected with 129.114.32.4 port 5001
+[ 82] local 149.165.148.5 port 33696 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 36]  0.0-60.0 sec  85.1 MBytes  11.9 Mbits/sec
+[ 39]  0.0-60.0 sec  79.9 MBytes  11.2 Mbits/sec
+[ 24]  0.0-60.0 sec  85.6 MBytes  12.0 Mbits/sec
+[ 51]  0.0-60.0 sec  59.6 MBytes  8.33 Mbits/sec
+[ 49]  0.0-60.0 sec   104 MBytes  14.6 Mbits/sec
+[ 14]  0.0-60.0 sec  98.0 MBytes  13.7 Mbits/sec
+[ 60]  0.0-60.0 sec  80.4 MBytes  11.2 Mbits/sec
+[ 41]  0.0-60.1 sec  81.0 MBytes  11.3 Mbits/sec
+[ 15]  0.0-60.1 sec  91.5 MBytes  12.8 Mbits/sec
+[ 33]  0.0-60.1 sec  86.2 MBytes  12.0 Mbits/sec
+[ 58]  0.0-60.1 sec  78.8 MBytes  11.0 Mbits/sec
+[ 76]  0.0-60.1 sec  62.6 MBytes  8.74 Mbits/sec
+[ 75]  0.0-60.1 sec  86.5 MBytes  12.1 Mbits/sec
+[ 17]  0.0-60.1 sec  92.9 MBytes  13.0 Mbits/sec
+[ 71]  0.0-60.1 sec  88.4 MBytes  12.3 Mbits/sec
+[  7]  0.0-60.1 sec  77.2 MBytes  10.8 Mbits/sec
+[ 27]  0.0-60.1 sec  83.4 MBytes  11.6 Mbits/sec
+[ 47]  0.0-60.1 sec  89.6 MBytes  12.5 Mbits/sec
+[ 59]  0.0-60.1 sec  68.4 MBytes  9.54 Mbits/sec
+[ 64]  0.0-60.1 sec   104 MBytes  14.5 Mbits/sec
+[ 34]  0.0-60.2 sec  76.2 MBytes  10.6 Mbits/sec
+[ 37]  0.0-60.2 sec  71.8 MBytes  10.0 Mbits/sec
+[ 82]  0.0-60.2 sec   109 MBytes  15.1 Mbits/sec
+[ 44]  0.0-60.2 sec  97.2 MBytes  13.6 Mbits/sec
+[ 83]  0.0-60.2 sec  54.5 MBytes  7.60 Mbits/sec
+[ 10]  0.0-60.2 sec  94.6 MBytes  13.2 Mbits/sec
+[ 16]  0.0-60.2 sec  87.5 MBytes  12.2 Mbits/sec
+[ 46]  0.0-60.2 sec  58.8 MBytes  8.19 Mbits/sec
+[ 63]  0.0-60.2 sec  77.6 MBytes  10.8 Mbits/sec
+[ 85]  0.0-60.2 sec  78.6 MBytes  11.0 Mbits/sec
+[ 28]  0.0-60.2 sec  68.8 MBytes  9.57 Mbits/sec
+[ 35]  0.0-60.2 sec  81.8 MBytes  11.4 Mbits/sec
+[ 53]  0.0-60.2 sec  82.1 MBytes  11.4 Mbits/sec
+[ 72]  0.0-60.2 sec  71.4 MBytes  9.95 Mbits/sec
+[ 80]  0.0-60.2 sec  73.1 MBytes  10.2 Mbits/sec
+[ 84]  0.0-60.2 sec  92.0 MBytes  12.8 Mbits/sec
+[ 25]  0.0-60.2 sec   105 MBytes  14.7 Mbits/sec
+[ 78]  0.0-60.2 sec  63.8 MBytes  8.88 Mbits/sec
+[  6]  0.0-60.2 sec  70.8 MBytes  9.85 Mbits/sec
+[ 20]  0.0-60.3 sec  96.6 MBytes  13.5 Mbits/sec
+[ 42]  0.0-60.3 sec  83.4 MBytes  11.6 Mbits/sec
+[ 77]  0.0-60.3 sec  96.5 MBytes  13.4 Mbits/sec
+[ 81]  0.0-60.3 sec  69.1 MBytes  9.62 Mbits/sec
+[ 22]  0.0-60.3 sec  77.0 MBytes  10.7 Mbits/sec
+[ 67]  0.0-60.3 sec  81.4 MBytes  11.3 Mbits/sec
+[ 69]  0.0-60.3 sec  57.1 MBytes  7.95 Mbits/sec
+[ 32]  0.0-60.3 sec  80.8 MBytes  11.2 Mbits/sec
+[ 61]  0.0-60.3 sec  82.0 MBytes  11.4 Mbits/sec
+[ 11]  0.0-60.3 sec  73.8 MBytes  10.3 Mbits/sec
+[ 66]  0.0-60.3 sec  68.4 MBytes  9.51 Mbits/sec
+[ 73]  0.0-60.3 sec  89.0 MBytes  12.4 Mbits/sec
+[ 79]  0.0-60.3 sec  74.5 MBytes  10.4 Mbits/sec
+[  8]  0.0-60.3 sec   102 MBytes  14.2 Mbits/sec
+[ 52]  0.0-60.3 sec   115 MBytes  16.0 Mbits/sec
+[ 26]  0.0-60.4 sec  71.8 MBytes  9.97 Mbits/sec
+[ 30]  0.0-60.4 sec  94.0 MBytes  13.1 Mbits/sec
+[ 31]  0.0-60.4 sec  79.0 MBytes  11.0 Mbits/sec
+[ 19]  0.0-60.4 sec  82.2 MBytes  11.4 Mbits/sec
+[ 45]  0.0-60.4 sec  85.0 MBytes  11.8 Mbits/sec
+[ 29]  0.0-60.4 sec  81.6 MBytes  11.3 Mbits/sec
+[ 55]  0.0-60.4 sec  95.6 MBytes  13.3 Mbits/sec
+[ 57]  0.0-60.5 sec  72.0 MBytes  9.99 Mbits/sec
+[  9]  0.0-60.5 sec   106 MBytes  14.7 Mbits/sec
+[ 65]  0.0-60.5 sec  90.4 MBytes  12.5 Mbits/sec
+[ 68]  0.0-60.5 sec  78.0 MBytes  10.8 Mbits/sec
+[ 12]  0.0-60.5 sec  90.8 MBytes  12.6 Mbits/sec
+[ 50]  0.0-60.5 sec  74.6 MBytes  10.3 Mbits/sec
+[ 56]  0.0-60.6 sec  88.4 MBytes  12.2 Mbits/sec
+[ 62]  0.0-60.6 sec  71.4 MBytes  9.88 Mbits/sec
+[ 43]  0.0-60.6 sec  87.5 MBytes  12.1 Mbits/sec
+[ 38]  0.0-60.6 sec  77.4 MBytes  10.7 Mbits/sec
+[ 48]  0.0-60.6 sec  83.8 MBytes  11.6 Mbits/sec
+[ 70]  0.0-60.6 sec  95.6 MBytes  13.2 Mbits/sec
+[ 18]  0.0-60.6 sec  85.1 MBytes  11.8 Mbits/sec
+[ 54]  0.0-60.7 sec  73.1 MBytes  10.1 Mbits/sec
+[ 74]  0.0-60.7 sec  88.1 MBytes  12.2 Mbits/sec
+[ 13]  0.0-60.7 sec  69.9 MBytes  9.66 Mbits/sec
+[ 40]  0.0-60.7 sec  83.0 MBytes  11.5 Mbits/sec
+[ 21]  0.0-60.8 sec  80.8 MBytes  11.1 Mbits/sec
+[ 23]  0.0-61.0 sec   101 MBytes  13.9 Mbits/sec
+[SUM]  0.0-61.0 sec  6.47 GBytes   912 Mbits/sec
+N = 90
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[ 94] local 149.165.148.5 port 33794 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33706 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33708 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33710 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33707 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33709 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33712 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33713 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33711 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33716 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33714 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33717 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33715 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33718 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33720 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33723 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33719 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33725 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33724 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33726 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33721 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33722 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33727 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33728 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33729 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33733 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33731 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33732 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33734 connected with 129.114.32.4 port 5001
+[ 35] local 149.165.148.5 port 33735 connected with 129.114.32.4 port 5001
+[ 36] local 149.165.148.5 port 33736 connected with 129.114.32.4 port 5001
+[ 39] local 149.165.148.5 port 33739 connected with 129.114.32.4 port 5001
+[ 37] local 149.165.148.5 port 33737 connected with 129.114.32.4 port 5001
+[ 38] local 149.165.148.5 port 33738 connected with 129.114.32.4 port 5001
+[ 41] local 149.165.148.5 port 33741 connected with 129.114.32.4 port 5001
+[ 40] local 149.165.148.5 port 33740 connected with 129.114.32.4 port 5001
+[ 42] local 149.165.148.5 port 33742 connected with 129.114.32.4 port 5001
+[ 43] local 149.165.148.5 port 33743 connected with 129.114.32.4 port 5001
+[ 45] local 149.165.148.5 port 33745 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33730 connected with 129.114.32.4 port 5001
+[ 46] local 149.165.148.5 port 33746 connected with 129.114.32.4 port 5001
+[ 47] local 149.165.148.5 port 33747 connected with 129.114.32.4 port 5001
+[ 44] local 149.165.148.5 port 33744 connected with 129.114.32.4 port 5001
+[ 55] local 149.165.148.5 port 33755 connected with 129.114.32.4 port 5001
+[ 53] local 149.165.148.5 port 33753 connected with 129.114.32.4 port 5001
+[ 48] local 149.165.148.5 port 33748 connected with 129.114.32.4 port 5001
+[ 50] local 149.165.148.5 port 33749 connected with 129.114.32.4 port 5001
+[ 54] local 149.165.148.5 port 33752 connected with 129.114.32.4 port 5001
+[ 56] local 149.165.148.5 port 33756 connected with 129.114.32.4 port 5001
+[ 52] local 149.165.148.5 port 33751 connected with 129.114.32.4 port 5001
+[ 51] local 149.165.148.5 port 33750 connected with 129.114.32.4 port 5001
+[ 59] local 149.165.148.5 port 33759 connected with 129.114.32.4 port 5001
+[ 61] local 149.165.148.5 port 33761 connected with 129.114.32.4 port 5001
+[ 58] local 149.165.148.5 port 33758 connected with 129.114.32.4 port 5001
+[ 49] local 149.165.148.5 port 33754 connected with 129.114.32.4 port 5001
+[ 57] local 149.165.148.5 port 33757 connected with 129.114.32.4 port 5001
+[ 64] local 149.165.148.5 port 33764 connected with 129.114.32.4 port 5001
+[ 63] local 149.165.148.5 port 33763 connected with 129.114.32.4 port 5001
+[ 60] local 149.165.148.5 port 33760 connected with 129.114.32.4 port 5001
+[ 67] local 149.165.148.5 port 33767 connected with 129.114.32.4 port 5001
+[ 62] local 149.165.148.5 port 33762 connected with 129.114.32.4 port 5001
+[ 66] local 149.165.148.5 port 33766 connected with 129.114.32.4 port 5001
+[ 65] local 149.165.148.5 port 33765 connected with 129.114.32.4 port 5001
+[ 71] local 149.165.148.5 port 33771 connected with 129.114.32.4 port 5001
+[ 68] local 149.165.148.5 port 33768 connected with 129.114.32.4 port 5001
+[ 69] local 149.165.148.5 port 33769 connected with 129.114.32.4 port 5001
+[ 70] local 149.165.148.5 port 33770 connected with 129.114.32.4 port 5001
+[ 75] local 149.165.148.5 port 33775 connected with 129.114.32.4 port 5001
+[ 73] local 149.165.148.5 port 33773 connected with 129.114.32.4 port 5001
+[ 72] local 149.165.148.5 port 33772 connected with 129.114.32.4 port 5001
+[ 76] local 149.165.148.5 port 33776 connected with 129.114.32.4 port 5001
+[ 74] local 149.165.148.5 port 33774 connected with 129.114.32.4 port 5001
+[ 78] local 149.165.148.5 port 33778 connected with 129.114.32.4 port 5001
+[ 77] local 149.165.148.5 port 33777 connected with 129.114.32.4 port 5001
+[ 89] local 149.165.148.5 port 33789 connected with 129.114.32.4 port 5001
+[ 79] local 149.165.148.5 port 33779 connected with 129.114.32.4 port 5001
+[ 82] local 149.165.148.5 port 33780 connected with 129.114.32.4 port 5001
+[ 87] local 149.165.148.5 port 33785 connected with 129.114.32.4 port 5001
+[ 80] local 149.165.148.5 port 33787 connected with 129.114.32.4 port 5001
+[ 91] local 149.165.148.5 port 33790 connected with 129.114.32.4 port 5001
+[ 92] local 149.165.148.5 port 33792 connected with 129.114.32.4 port 5001
+[ 84] local 149.165.148.5 port 33782 connected with 129.114.32.4 port 5001
+[ 83] local 149.165.148.5 port 33781 connected with 129.114.32.4 port 5001
+[ 88] local 149.165.148.5 port 33786 connected with 129.114.32.4 port 5001
+[ 85] local 149.165.148.5 port 33783 connected with 129.114.32.4 port 5001
+[ 90] local 149.165.148.5 port 33791 connected with 129.114.32.4 port 5001
+[ 86] local 149.165.148.5 port 33784 connected with 129.114.32.4 port 5001
+[ 93] local 149.165.148.5 port 33793 connected with 129.114.32.4 port 5001
+[ 81] local 149.165.148.5 port 33788 connected with 129.114.32.4 port 5001
+[ 95] local 149.165.148.5 port 33795 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 21]  0.0-60.0 sec  82.4 MBytes  11.5 Mbits/sec
+[ 19]  0.0-60.0 sec  76.6 MBytes  10.7 Mbits/sec
+[ 20]  0.0-60.0 sec  65.1 MBytes  9.10 Mbits/sec
+[ 32]  0.0-60.0 sec  57.9 MBytes  8.09 Mbits/sec
+[ 76]  0.0-60.0 sec  88.0 MBytes  12.3 Mbits/sec
+[ 49]  0.0-60.0 sec  76.4 MBytes  10.7 Mbits/sec
+[ 81]  0.0-60.0 sec  94.8 MBytes  13.2 Mbits/sec
+[ 37]  0.0-60.0 sec  84.4 MBytes  11.8 Mbits/sec
+[ 52]  0.0-60.0 sec  83.5 MBytes  11.7 Mbits/sec
+[ 59]  0.0-60.1 sec  77.1 MBytes  10.8 Mbits/sec
+[ 36]  0.0-60.1 sec  74.9 MBytes  10.5 Mbits/sec
+[ 94]  0.0-60.1 sec  85.0 MBytes  11.9 Mbits/sec
+[ 47]  0.0-60.1 sec  78.4 MBytes  10.9 Mbits/sec
+[ 80]  0.0-60.1 sec  75.6 MBytes  10.6 Mbits/sec
+[ 14]  0.0-60.1 sec  73.2 MBytes  10.2 Mbits/sec
+[ 40]  0.0-60.1 sec  61.5 MBytes  8.59 Mbits/sec
+[ 65]  0.0-60.1 sec  80.1 MBytes  11.2 Mbits/sec
+[  8]  0.0-60.1 sec  75.9 MBytes  10.6 Mbits/sec
+[ 82]  0.0-60.1 sec  73.9 MBytes  10.3 Mbits/sec
+[ 16]  0.0-60.1 sec  68.1 MBytes  9.51 Mbits/sec
+[ 24]  0.0-60.1 sec  94.9 MBytes  13.2 Mbits/sec
+[ 74]  0.0-60.1 sec  68.0 MBytes  9.49 Mbits/sec
+[ 27]  0.0-60.1 sec  81.1 MBytes  11.3 Mbits/sec
+[ 75]  0.0-60.1 sec  86.4 MBytes  12.0 Mbits/sec
+[ 25]  0.0-60.1 sec  87.8 MBytes  12.2 Mbits/sec
+[ 87]  0.0-60.1 sec  87.8 MBytes  12.2 Mbits/sec
+[  9]  0.0-60.2 sec  73.1 MBytes  10.2 Mbits/sec
+[ 77]  0.0-60.2 sec  82.5 MBytes  11.5 Mbits/sec
+[ 17]  0.0-60.2 sec  80.8 MBytes  11.3 Mbits/sec
+[ 61]  0.0-60.2 sec  87.1 MBytes  12.1 Mbits/sec
+[ 93]  0.0-60.2 sec  70.6 MBytes  9.85 Mbits/sec
+[ 35]  0.0-60.2 sec  74.4 MBytes  10.4 Mbits/sec
+[ 42]  0.0-60.2 sec  87.9 MBytes  12.2 Mbits/sec
+[ 51]  0.0-60.2 sec  87.9 MBytes  12.2 Mbits/sec
+[ 64]  0.0-60.2 sec  74.2 MBytes  10.3 Mbits/sec
+[ 62]  0.0-60.2 sec  68.9 MBytes  9.60 Mbits/sec
+[ 43]  0.0-60.2 sec  70.4 MBytes  9.81 Mbits/sec
+[ 44]  0.0-60.2 sec  81.5 MBytes  11.4 Mbits/sec
+[ 53]  0.0-60.2 sec  79.1 MBytes  11.0 Mbits/sec
+[ 54]  0.0-60.2 sec  76.9 MBytes  10.7 Mbits/sec
+[ 41]  0.0-60.2 sec  93.2 MBytes  13.0 Mbits/sec
+[ 45]  0.0-60.2 sec  67.5 MBytes  9.40 Mbits/sec
+[ 79]  0.0-60.2 sec  85.0 MBytes  11.8 Mbits/sec
+[ 95]  0.0-60.2 sec  66.2 MBytes  9.23 Mbits/sec
+[ 50]  0.0-60.2 sec  69.0 MBytes  9.61 Mbits/sec
+[ 60]  0.0-60.2 sec  85.1 MBytes  11.9 Mbits/sec
+[ 71]  0.0-60.2 sec  91.9 MBytes  12.8 Mbits/sec
+[ 83]  0.0-60.2 sec  93.8 MBytes  13.1 Mbits/sec
+[ 10]  0.0-60.3 sec  85.8 MBytes  11.9 Mbits/sec
+[ 56]  0.0-60.3 sec  68.1 MBytes  9.48 Mbits/sec
+[ 66]  0.0-60.3 sec  87.0 MBytes  12.1 Mbits/sec
+[ 69]  0.0-60.3 sec  91.5 MBytes  12.7 Mbits/sec
+[ 22]  0.0-60.3 sec  73.2 MBytes  10.2 Mbits/sec
+[ 46]  0.0-60.3 sec  75.2 MBytes  10.5 Mbits/sec
+[ 70]  0.0-60.3 sec  72.2 MBytes  10.1 Mbits/sec
+[ 73]  0.0-60.9 sec  99.5 MBytes  13.7 Mbits/sec
+[ 72]  0.0-60.3 sec  72.6 MBytes  10.1 Mbits/sec
+[ 78]  0.0-60.3 sec  81.2 MBytes  11.3 Mbits/sec
+[ 89]  0.0-60.8 sec  85.5 MBytes  11.8 Mbits/sec
+[ 91]  0.0-60.6 sec  67.0 MBytes  9.28 Mbits/sec
+[ 92]  0.0-60.8 sec  91.6 MBytes  12.6 Mbits/sec
+[ 84]  0.0-60.4 sec  65.9 MBytes  9.15 Mbits/sec
+[ 88]  0.0-60.6 sec  61.8 MBytes  8.55 Mbits/sec
+[ 85]  0.0-60.8 sec  72.5 MBytes  10.0 Mbits/sec
+[ 90]  0.0-60.6 sec  76.6 MBytes  10.6 Mbits/sec
+[ 86]  0.0-60.3 sec  75.2 MBytes  10.5 Mbits/sec
+[  6]  0.0-60.6 sec  72.2 MBytes  10.0 Mbits/sec
+[  7]  0.0-60.4 sec  75.1 MBytes  10.4 Mbits/sec
+[ 12]  0.0-61.0 sec  71.8 MBytes  9.87 Mbits/sec
+[ 13]  0.0-60.8 sec  92.0 MBytes  12.7 Mbits/sec
+[ 11]  0.0-60.7 sec  74.2 MBytes  10.3 Mbits/sec
+[ 15]  0.0-60.5 sec  91.9 MBytes  12.7 Mbits/sec
+[ 18]  0.0-60.5 sec  83.1 MBytes  11.5 Mbits/sec
+[ 23]  0.0-60.4 sec  82.9 MBytes  11.5 Mbits/sec
+[ 26]  0.0-60.4 sec  74.5 MBytes  10.3 Mbits/sec
+[ 28]  0.0-60.7 sec  70.1 MBytes  9.68 Mbits/sec
+[ 29]  0.0-60.5 sec  70.8 MBytes  9.80 Mbits/sec
+[ 33]  0.0-60.5 sec  97.0 MBytes  13.4 Mbits/sec
+[ 31]  0.0-60.9 sec  64.1 MBytes  8.84 Mbits/sec
+[ 34]  0.0-60.4 sec  74.6 MBytes  10.4 Mbits/sec
+[ 39]  0.0-60.3 sec  70.8 MBytes  9.84 Mbits/sec
+[ 38]  0.0-60.4 sec  96.2 MBytes  13.4 Mbits/sec
+[ 30]  0.0-60.4 sec  81.4 MBytes  11.3 Mbits/sec
+[ 55]  0.0-60.9 sec  88.0 MBytes  12.1 Mbits/sec
+[ 48]  0.0-60.4 sec  86.0 MBytes  11.9 Mbits/sec
+[ 58]  0.0-61.1 sec  72.1 MBytes  9.89 Mbits/sec
+[ 57]  0.0-60.6 sec  86.6 MBytes  12.0 Mbits/sec
+[ 63]  0.0-60.6 sec  75.0 MBytes  10.4 Mbits/sec
+[ 67]  0.0-60.9 sec  69.9 MBytes  9.63 Mbits/sec
+[ 68]  0.0-60.5 sec  73.0 MBytes  10.1 Mbits/sec
+[SUM]  0.0-61.1 sec  6.92 GBytes   972 Mbits/sec
+N = 100
+------------------------------------------------------------
+Client connecting to alamo.futuregrid.org, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[105] local 149.165.148.5 port 33901 connected with 129.114.32.4 port 5001
+[  7] local 149.165.148.5 port 33803 connected with 129.114.32.4 port 5001
+[  8] local 149.165.148.5 port 33804 connected with 129.114.32.4 port 5001
+[ 10] local 149.165.148.5 port 33806 connected with 129.114.32.4 port 5001
+[ 12] local 149.165.148.5 port 33808 connected with 129.114.32.4 port 5001
+[  9] local 149.165.148.5 port 33805 connected with 129.114.32.4 port 5001
+[ 13] local 149.165.148.5 port 33809 connected with 129.114.32.4 port 5001
+[ 14] local 149.165.148.5 port 33810 connected with 129.114.32.4 port 5001
+[ 11] local 149.165.148.5 port 33807 connected with 129.114.32.4 port 5001
+[ 15] local 149.165.148.5 port 33811 connected with 129.114.32.4 port 5001
+[ 16] local 149.165.148.5 port 33812 connected with 129.114.32.4 port 5001
+[ 17] local 149.165.148.5 port 33813 connected with 129.114.32.4 port 5001
+[ 18] local 149.165.148.5 port 33815 connected with 129.114.32.4 port 5001
+[ 20] local 149.165.148.5 port 33816 connected with 129.114.32.4 port 5001
+[ 21] local 149.165.148.5 port 33817 connected with 129.114.32.4 port 5001
+[ 19] local 149.165.148.5 port 33814 connected with 129.114.32.4 port 5001
+[ 22] local 149.165.148.5 port 33818 connected with 129.114.32.4 port 5001
+[ 25] local 149.165.148.5 port 33821 connected with 129.114.32.4 port 5001
+[ 24] local 149.165.148.5 port 33820 connected with 129.114.32.4 port 5001
+[ 27] local 149.165.148.5 port 33823 connected with 129.114.32.4 port 5001
+[ 23] local 149.165.148.5 port 33819 connected with 129.114.32.4 port 5001
+[ 26] local 149.165.148.5 port 33822 connected with 129.114.32.4 port 5001
+[ 28] local 149.165.148.5 port 33824 connected with 129.114.32.4 port 5001
+[ 29] local 149.165.148.5 port 33825 connected with 129.114.32.4 port 5001
+[ 30] local 149.165.148.5 port 33826 connected with 129.114.32.4 port 5001
+[ 31] local 149.165.148.5 port 33827 connected with 129.114.32.4 port 5001
+[ 32] local 149.165.148.5 port 33828 connected with 129.114.32.4 port 5001
+[ 33] local 149.165.148.5 port 33829 connected with 129.114.32.4 port 5001
+[ 34] local 149.165.148.5 port 33830 connected with 129.114.32.4 port 5001
+[ 37] local 149.165.148.5 port 33833 connected with 129.114.32.4 port 5001
+[ 38] local 149.165.148.5 port 33834 connected with 129.114.32.4 port 5001
+[ 36] local 149.165.148.5 port 33832 connected with 129.114.32.4 port 5001
+[ 39] local 149.165.148.5 port 33835 connected with 129.114.32.4 port 5001
+[ 41] local 149.165.148.5 port 33836 connected with 129.114.32.4 port 5001
+[ 40] local 149.165.148.5 port 33837 connected with 129.114.32.4 port 5001
+[ 42] local 149.165.148.5 port 33838 connected with 129.114.32.4 port 5001
+[ 43] local 149.165.148.5 port 33839 connected with 129.114.32.4 port 5001
+[ 44] local 149.165.148.5 port 33840 connected with 129.114.32.4 port 5001
+[ 46] local 149.165.148.5 port 33841 connected with 129.114.32.4 port 5001
+[ 45] local 149.165.148.5 port 33842 connected with 129.114.32.4 port 5001
+[ 47] local 149.165.148.5 port 33843 connected with 129.114.32.4 port 5001
+[ 48] local 149.165.148.5 port 33844 connected with 129.114.32.4 port 5001
+[ 49] local 149.165.148.5 port 33845 connected with 129.114.32.4 port 5001
+[ 51] local 149.165.148.5 port 33847 connected with 129.114.32.4 port 5001
+[ 52] local 149.165.148.5 port 33846 connected with 129.114.32.4 port 5001
+[ 50] local 149.165.148.5 port 33848 connected with 129.114.32.4 port 5001
+[ 53] local 149.165.148.5 port 33849 connected with 129.114.32.4 port 5001
+[ 54] local 149.165.148.5 port 33850 connected with 129.114.32.4 port 5001
+[ 35] local 149.165.148.5 port 33831 connected with 129.114.32.4 port 5001
+[ 56] local 149.165.148.5 port 33852 connected with 129.114.32.4 port 5001
+[ 55] local 149.165.148.5 port 33851 connected with 129.114.32.4 port 5001
+[ 57] local 149.165.148.5 port 33853 connected with 129.114.32.4 port 5001
+[ 61] local 149.165.148.5 port 33857 connected with 129.114.32.4 port 5001
+[ 59] local 149.165.148.5 port 33855 connected with 129.114.32.4 port 5001
+[ 60] local 149.165.148.5 port 33856 connected with 129.114.32.4 port 5001
+[ 62] local 149.165.148.5 port 33858 connected with 129.114.32.4 port 5001
+[ 58] local 149.165.148.5 port 33854 connected with 129.114.32.4 port 5001
+[ 63] local 149.165.148.5 port 33859 connected with 129.114.32.4 port 5001
+[ 64] local 149.165.148.5 port 33860 connected with 129.114.32.4 port 5001
+[ 65] local 149.165.148.5 port 33861 connected with 129.114.32.4 port 5001
+[ 67] local 149.165.148.5 port 33863 connected with 129.114.32.4 port 5001
+[ 68] local 149.165.148.5 port 33864 connected with 129.114.32.4 port 5001
+[ 66] local 149.165.148.5 port 33862 connected with 129.114.32.4 port 5001
+[ 69] local 149.165.148.5 port 33865 connected with 129.114.32.4 port 5001
+[ 70] local 149.165.148.5 port 33866 connected with 129.114.32.4 port 5001
+[ 71] local 149.165.148.5 port 33867 connected with 129.114.32.4 port 5001
+[ 72] local 149.165.148.5 port 33868 connected with 129.114.32.4 port 5001
+[ 75] local 149.165.148.5 port 33871 connected with 129.114.32.4 port 5001
+[ 73] local 149.165.148.5 port 33869 connected with 129.114.32.4 port 5001
+[ 74] local 149.165.148.5 port 33870 connected with 129.114.32.4 port 5001
+[ 76] local 149.165.148.5 port 33872 connected with 129.114.32.4 port 5001
+[ 77] local 149.165.148.5 port 33873 connected with 129.114.32.4 port 5001
+[ 79] local 149.165.148.5 port 33875 connected with 129.114.32.4 port 5001
+[ 78] local 149.165.148.5 port 33874 connected with 129.114.32.4 port 5001
+[ 80] local 149.165.148.5 port 33876 connected with 129.114.32.4 port 5001
+[ 81] local 149.165.148.5 port 33877 connected with 129.114.32.4 port 5001
+[ 82] local 149.165.148.5 port 33878 connected with 129.114.32.4 port 5001
+[ 83] local 149.165.148.5 port 33879 connected with 129.114.32.4 port 5001
+[ 84] local 149.165.148.5 port 33880 connected with 129.114.32.4 port 5001
+[ 85] local 149.165.148.5 port 33881 connected with 129.114.32.4 port 5001
+[ 86] local 149.165.148.5 port 33882 connected with 129.114.32.4 port 5001
+[ 88] local 149.165.148.5 port 33883 connected with 129.114.32.4 port 5001
+[ 87] local 149.165.148.5 port 33884 connected with 129.114.32.4 port 5001
+[ 90] local 149.165.148.5 port 33886 connected with 129.114.32.4 port 5001
+[ 89] local 149.165.148.5 port 33885 connected with 129.114.32.4 port 5001
+[ 91] local 149.165.148.5 port 33887 connected with 129.114.32.4 port 5001
+[ 92] local 149.165.148.5 port 33888 connected with 129.114.32.4 port 5001
+[ 93] local 149.165.148.5 port 33889 connected with 129.114.32.4 port 5001
+[ 95] local 149.165.148.5 port 33891 connected with 129.114.32.4 port 5001
+[ 96] local 149.165.148.5 port 33892 connected with 129.114.32.4 port 5001
+[ 94] local 149.165.148.5 port 33890 connected with 129.114.32.4 port 5001
+[ 99] local 149.165.148.5 port 33895 connected with 129.114.32.4 port 5001
+[ 97] local 149.165.148.5 port 33894 connected with 129.114.32.4 port 5001
+[ 98] local 149.165.148.5 port 33893 connected with 129.114.32.4 port 5001
+[100] local 149.165.148.5 port 33896 connected with 129.114.32.4 port 5001
+[101] local 149.165.148.5 port 33897 connected with 129.114.32.4 port 5001
+[104] local 149.165.148.5 port 33900 connected with 129.114.32.4 port 5001
+[103] local 149.165.148.5 port 33899 connected with 129.114.32.4 port 5001
+[102] local 149.165.148.5 port 33898 connected with 129.114.32.4 port 5001
+[  6] local 149.165.148.5 port 33802 connected with 129.114.32.4 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 39]  0.0-60.0 sec  65.0 MBytes  9.09 Mbits/sec
+[ 65]  0.0-60.0 sec  62.1 MBytes  8.69 Mbits/sec
+[ 15]  0.0-60.0 sec  77.2 MBytes  10.8 Mbits/sec
+[ 24]  0.0-60.0 sec  62.6 MBytes  8.76 Mbits/sec
+[ 28]  0.0-60.0 sec  66.2 MBytes  9.26 Mbits/sec
+[ 69]  0.0-60.0 sec  86.9 MBytes  12.1 Mbits/sec
+[ 71]  0.0-60.0 sec  81.8 MBytes  11.4 Mbits/sec
+[ 75]  0.0-60.0 sec  67.6 MBytes  9.45 Mbits/sec
+[ 82]  0.0-60.0 sec  66.4 MBytes  9.28 Mbits/sec
+[  7]  0.0-60.1 sec  84.4 MBytes  11.8 Mbits/sec
+[ 12]  0.0-60.0 sec  71.5 MBytes  9.99 Mbits/sec
+[ 23]  0.0-60.1 sec  71.0 MBytes  9.92 Mbits/sec
+[ 29]  0.0-60.0 sec  83.6 MBytes  11.7 Mbits/sec
+[ 31]  0.0-60.0 sec  75.9 MBytes  10.6 Mbits/sec
+[ 33]  0.0-60.1 sec  81.9 MBytes  11.4 Mbits/sec
+[ 47]  0.0-60.0 sec  74.2 MBytes  10.4 Mbits/sec
+[ 56]  0.0-60.0 sec  81.6 MBytes  11.4 Mbits/sec
+[ 10]  0.0-60.1 sec  62.5 MBytes  8.72 Mbits/sec
+[  9]  0.0-60.1 sec  74.5 MBytes  10.4 Mbits/sec
+[ 18]  0.0-60.1 sec  78.0 MBytes  10.9 Mbits/sec
+[ 52]  0.0-60.1 sec  60.9 MBytes  8.50 Mbits/sec
+[ 74]  0.0-60.1 sec  49.9 MBytes  6.96 Mbits/sec
+[ 22]  0.0-60.1 sec  84.8 MBytes  11.8 Mbits/sec
+[ 34]  0.0-60.1 sec  60.6 MBytes  8.46 Mbits/sec
+[ 66]  0.0-60.1 sec  80.6 MBytes  11.3 Mbits/sec
+[ 13]  0.0-60.1 sec  58.6 MBytes  8.18 Mbits/sec
+[ 58]  0.0-60.1 sec  63.4 MBytes  8.84 Mbits/sec
+[101]  0.0-60.1 sec  90.6 MBytes  12.6 Mbits/sec
+[ 41]  0.0-60.1 sec  57.5 MBytes  8.02 Mbits/sec
+[ 68]  0.0-60.1 sec  83.6 MBytes  11.7 Mbits/sec
+[ 77]  0.0-60.1 sec  72.5 MBytes  10.1 Mbits/sec
+[ 38]  0.0-60.1 sec  80.8 MBytes  11.3 Mbits/sec
+[ 50]  0.0-60.1 sec  74.1 MBytes  10.3 Mbits/sec
+[ 86]  0.0-60.1 sec  76.8 MBytes  10.7 Mbits/sec
+[ 73]  0.0-60.2 sec  69.5 MBytes  9.69 Mbits/sec
+[ 89]  0.0-60.2 sec  77.1 MBytes  10.8 Mbits/sec
+[ 96]  0.0-60.2 sec  55.5 MBytes  7.74 Mbits/sec
+[ 42]  0.0-60.2 sec  55.0 MBytes  7.67 Mbits/sec
+[ 51]  0.0-60.2 sec  81.0 MBytes  11.3 Mbits/sec
+[ 61]  0.0-60.2 sec  61.6 MBytes  8.59 Mbits/sec
+[ 59]  0.0-60.2 sec  54.0 MBytes  7.53 Mbits/sec
+[ 79]  0.0-60.2 sec  56.1 MBytes  7.82 Mbits/sec
+[  8]  0.0-60.2 sec  64.8 MBytes  9.03 Mbits/sec
+[ 80]  0.0-60.2 sec  76.1 MBytes  10.6 Mbits/sec
+[ 92]  0.0-60.2 sec  63.4 MBytes  8.83 Mbits/sec
+[ 11]  0.0-60.2 sec  65.0 MBytes  9.06 Mbits/sec
+[ 94]  0.0-60.2 sec  74.4 MBytes  10.4 Mbits/sec
+[ 44]  0.0-60.2 sec  78.9 MBytes  11.0 Mbits/sec
+[ 93]  0.0-60.2 sec  61.9 MBytes  8.62 Mbits/sec
+[ 26]  0.0-60.2 sec  62.8 MBytes  8.74 Mbits/sec
+[ 36]  0.0-60.2 sec  77.9 MBytes  10.8 Mbits/sec
+[ 35]  0.0-60.2 sec  62.2 MBytes  8.67 Mbits/sec
+[100]  0.0-60.2 sec  79.9 MBytes  11.1 Mbits/sec
+[ 46]  0.0-60.2 sec  62.4 MBytes  8.69 Mbits/sec
+[ 95]  0.0-60.2 sec  55.2 MBytes  7.70 Mbits/sec
+[ 16]  0.0-60.2 sec  76.5 MBytes  10.7 Mbits/sec
+[ 40]  0.0-60.2 sec  85.2 MBytes  11.9 Mbits/sec
+[ 57]  0.0-60.2 sec  64.0 MBytes  8.91 Mbits/sec
+[ 87]  0.0-60.2 sec  65.4 MBytes  9.10 Mbits/sec
+[ 14]  0.0-60.3 sec  84.6 MBytes  11.8 Mbits/sec
+[ 17]  0.0-60.3 sec  89.5 MBytes  12.5 Mbits/sec
+[ 54]  0.0-60.3 sec  78.8 MBytes  11.0 Mbits/sec
+[ 27]  0.0-60.3 sec  93.2 MBytes  13.0 Mbits/sec
+[ 45]  0.0-60.3 sec  67.6 MBytes  9.41 Mbits/sec
+[ 85]  0.0-60.3 sec  60.9 MBytes  8.47 Mbits/sec
+[ 70]  0.0-60.3 sec  64.6 MBytes  8.99 Mbits/sec
+[ 83]  0.0-60.3 sec  65.4 MBytes  9.10 Mbits/sec
+[  6]  0.0-60.3 sec  78.9 MBytes  11.0 Mbits/sec
+[ 25]  0.0-60.3 sec  73.8 MBytes  10.3 Mbits/sec
+[ 32]  0.0-60.3 sec  69.2 MBytes  9.63 Mbits/sec
+[ 97]  0.0-60.3 sec  54.1 MBytes  7.53 Mbits/sec
+[103]  0.0-60.3 sec  70.8 MBytes  9.84 Mbits/sec
+[105]  0.0-60.3 sec  85.0 MBytes  11.8 Mbits/sec
+[ 88]  0.0-60.4 sec  56.8 MBytes  7.89 Mbits/sec
+[ 62]  0.0-60.4 sec  60.5 MBytes  8.41 Mbits/sec
+[104]  0.0-60.4 sec  67.8 MBytes  9.41 Mbits/sec
+[ 72]  0.0-60.4 sec  81.9 MBytes  11.4 Mbits/sec
+[ 91]  0.0-60.4 sec  64.4 MBytes  8.94 Mbits/sec
+[ 55]  0.0-60.4 sec  88.9 MBytes  12.3 Mbits/sec
+[ 90]  0.0-60.4 sec  76.8 MBytes  10.7 Mbits/sec
+[102]  0.0-60.4 sec  68.2 MBytes  9.47 Mbits/sec
+[ 84]  0.0-60.4 sec  58.9 MBytes  8.17 Mbits/sec
+[ 20]  0.0-60.5 sec  65.6 MBytes  9.10 Mbits/sec
+[ 48]  0.0-60.5 sec  64.5 MBytes  8.94 Mbits/sec
+[ 98]  0.0-60.5 sec  66.9 MBytes  9.27 Mbits/sec
+[ 53]  0.0-60.5 sec  66.2 MBytes  9.18 Mbits/sec
+[ 60]  0.0-60.5 sec  45.6 MBytes  6.32 Mbits/sec
+[ 81]  0.0-60.6 sec  84.0 MBytes  11.6 Mbits/sec
+[ 21]  0.0-60.6 sec  82.0 MBytes  11.4 Mbits/sec
+[ 19]  0.0-60.6 sec  64.8 MBytes  8.96 Mbits/sec
+[ 43]  0.0-60.6 sec  79.9 MBytes  11.1 Mbits/sec
+[ 30]  0.0-60.6 sec  76.2 MBytes  10.6 Mbits/sec
+[ 63]  0.0-60.7 sec  70.8 MBytes  9.79 Mbits/sec
+[ 49]  0.0-60.7 sec  76.0 MBytes  10.5 Mbits/sec
+[ 37]  0.0-60.7 sec  80.9 MBytes  11.2 Mbits/sec
+[ 76]  0.0-60.7 sec  75.0 MBytes  10.4 Mbits/sec
+[ 67]  0.0-60.8 sec  75.2 MBytes  10.4 Mbits/sec
+[ 78]  0.0-60.8 sec  82.0 MBytes  11.3 Mbits/sec
+[ 99]  0.0-60.9 sec  66.1 MBytes  9.11 Mbits/sec
+[ 64]  0.0-60.9 sec  83.6 MBytes  11.5 Mbits/sec
+[SUM]  0.0-60.9 sec  6.95 GBytes   980 Mbits/sec

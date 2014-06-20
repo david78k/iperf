@@ -1,9 +1,11 @@
 #!/bin/bash
 # iperf testing script
 
+# 28ms from hotel.futuregrid.org
+server=alamo.futuregrid.org 
+
 # 76ms from hotel.futuregrid.org
-server=sierra.futuregrid.org 
-router=c11node28
+#server=sierra.futuregrid.org 
 
 # RTT (ms), LAN=0.3-0.5ms
 # IMPORTANT: RTT should be halved later
@@ -13,8 +15,9 @@ RTT=76
 #RTTs=( 76 )
 #RTTs=( LAN 2 5 10 20 80 180 )
 
+runs=( 1 2 3 4 5 6 7 8 9 10 )
 #runs=( 21 22 23 24 25 26 27 28 29 30 )
-runs=( 24 25 26 27 28 29 30 )
+#runs=( 24 25 26 27 28 29 30 )
 # failed
 #runs=( 23 ) 
 #run=12
