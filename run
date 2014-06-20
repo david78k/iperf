@@ -5,7 +5,7 @@
 server=india.futuregrid.org 
 
 # 28ms from hotel.futuregrid.org
-server=alamo.futuregrid.org 
+#server=alamo.futuregrid.org 
 
 # 76ms from hotel.futuregrid.org
 #server=sierra.futuregrid.org 
@@ -56,11 +56,11 @@ do
 	logfile=r${run}.log
 	rm $logfile
 
-	echo -n "Run = $run "
+	echo -n "Run = $run: "
 	for N in ${Ns[@]}
 	do
 		echo -n "$N "
-		echo -n "N = $N " >> $logfile
+		echo N = $N >> $logfile
 		#iperf3 -c $server -P $N -t 30 -O 45 >> $logfile
 		iperf -c $server -P $N -t $totaltime >> $logfile
 	done
