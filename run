@@ -36,11 +36,12 @@ runs=( 2 3 4 5 6 7 8 9 10 )
 
 # number of parallel TCP connections
 #Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 )
-Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 30 40 50 60 70 80 90 100 )
-#Ns=( 1 2 )
-#Ns=( 30 40 )
+#Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 30 40 50 60 70 80 90 100 )
+#Ns=( 1 2 3 4 5 )
+Ns=( 6 7 8 )
 
 # total run time in seconds
+#totaltime=30
 totaltime=60
 #totaltime=120
 
@@ -49,6 +50,7 @@ totaltime=60
 if $LOCALHOST; then
 	echo localhost is server
 	pkill iperf  
+	#logsave server.log iperf -s -p $port &
 	iperf -s -p $port > server.log &
 else
 	ssh $server pkill iperf  

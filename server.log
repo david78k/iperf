@@ -2,4 +2,310 @@
 Server listening on TCP port 5002
 TCP window size: 85.3 KByte (default)
 ------------------------------------------------------------
-[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 57617
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59611
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec  6.88 GBytes   985 Mbits/sec
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59633
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59634
+[  5]  0.0-60.0 sec  3.47 GBytes   496 Mbits/sec
+[  4]  0.0-60.0 sec  3.43 GBytes   491 Mbits/sec
+[SUM]  0.0-60.0 sec  6.90 GBytes   987 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59655
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59656
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59657
+[  6]  0.0-60.1 sec  2.33 GBytes   333 Mbits/sec
+[  4]  0.0-60.1 sec  2.29 GBytes   327 Mbits/sec
+[  5]  0.0-60.1 sec  2.31 GBytes   330 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59669
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59670
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59671
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59672
+[  7]  0.0-60.1 sec  2.09 GBytes   299 Mbits/sec
+[  4]  0.0-60.1 sec  1.70 GBytes   243 Mbits/sec
+[  5]  0.0-60.1 sec  1.40 GBytes   200 Mbits/sec
+[  6]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[SUM]  0.0-60.1 sec  6.92 GBytes   990 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59686
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59687
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59688
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59689
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59690
+[  7]  0.0-60.1 sec  1.56 GBytes   222 Mbits/sec
+[  8]  0.0-60.1 sec  1.35 GBytes   193 Mbits/sec
+[  4]  0.0-60.1 sec  1.40 GBytes   200 Mbits/sec
+[  5]  0.0-60.1 sec  1.22 GBytes   175 Mbits/sec
+[  6]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   990 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59703
+[  9]  0.0-60.0 sec  6.81 GBytes   974 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59715
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59716
+[  4]  0.0-60.0 sec  3.10 GBytes   443 Mbits/sec
+[  5]  0.0-60.0 sec  3.21 GBytes   459 Mbits/sec
+[SUM]  0.0-60.0 sec  6.30 GBytes   902 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59728
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59729
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59730
+[  4]  0.0-60.0 sec  2.43 GBytes   347 Mbits/sec
+[  5]  0.0-60.0 sec  2.27 GBytes   325 Mbits/sec
+[  6]  0.0-60.2 sec  2.21 GBytes   316 Mbits/sec
+[SUM]  0.0-60.2 sec  6.91 GBytes   985 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59742
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59743
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59744
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59745
+[  5]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  6]  0.0-60.1 sec  1.74 GBytes   249 Mbits/sec
+[  7]  0.0-60.1 sec  1.72 GBytes   245 Mbits/sec
+[  4]  0.0-60.1 sec  1.74 GBytes   249 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   990 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59764
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59765
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59766
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59767
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59768
+[  8]  0.0-60.1 sec  1.36 GBytes   194 Mbits/sec
+[  4]  0.0-60.1 sec  1.40 GBytes   200 Mbits/sec
+[  5]  0.0-60.1 sec  1.40 GBytes   200 Mbits/sec
+[  6]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  7]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   991 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59779
+[  9]  0.0-60.0 sec  6.87 GBytes   983 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59796
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59797
+[  4]  0.0-60.0 sec  3.43 GBytes   491 Mbits/sec
+[  5]  0.0-60.1 sec  3.47 GBytes   497 Mbits/sec
+[SUM]  0.0-60.1 sec  6.90 GBytes   988 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59809
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59810
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59811
+[  6]  0.0-60.1 sec  2.31 GBytes   330 Mbits/sec
+[  4]  0.0-60.1 sec  2.30 GBytes   329 Mbits/sec
+[  5]  0.0-60.1 sec  2.31 GBytes   330 Mbits/sec
+[SUM]  0.0-60.1 sec  6.92 GBytes   989 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59824
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59825
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59826
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59827
+[  7]  0.0-60.1 sec  1.75 GBytes   250 Mbits/sec
+[  4]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  5]  0.0-60.1 sec  1.72 GBytes   246 Mbits/sec
+[  6]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59842
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59843
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59844
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59845
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59846
+[  8]  0.0-60.1 sec  1.38 GBytes   198 Mbits/sec
+[  4]  0.0-60.1 sec  1.38 GBytes   197 Mbits/sec
+[  5]  0.0-60.1 sec  1.40 GBytes   200 Mbits/sec
+[  6]  0.0-60.1 sec  1.38 GBytes   197 Mbits/sec
+[  7]  0.0-60.2 sec  1.39 GBytes   199 Mbits/sec
+[SUM]  0.0-60.2 sec  6.94 GBytes   990 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59867
+[  9]  0.0-60.0 sec  6.88 GBytes   985 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59896
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59897
+[  4]  0.0-60.0 sec  3.46 GBytes   495 Mbits/sec
+[  5]  0.0-60.0 sec  3.46 GBytes   496 Mbits/sec
+[SUM]  0.0-60.0 sec  6.92 GBytes   991 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59922
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59923
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59924
+[  4]  0.0-60.1 sec  2.32 GBytes   331 Mbits/sec
+[  5]  0.0-60.1 sec  2.31 GBytes   330 Mbits/sec
+[  6]  0.0-60.1 sec  2.31 GBytes   330 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59949
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59950
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59951
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59952
+[  7]  0.0-60.1 sec  1.74 GBytes   249 Mbits/sec
+[  4]  0.0-60.1 sec  1.74 GBytes   249 Mbits/sec
+[  5]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  6]  0.0-60.1 sec  1.72 GBytes   246 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59977
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59978
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59979
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59980
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 59981
+[  8]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  4]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  6]  0.0-60.1 sec  1.38 GBytes   197 Mbits/sec
+[  7]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  5]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   991 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60021
+[  9]  0.0-60.0 sec  6.88 GBytes   985 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60076
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60077
+[  4]  0.0-60.0 sec  3.47 GBytes   496 Mbits/sec
+[  5]  0.0-60.0 sec  3.46 GBytes   495 Mbits/sec
+[SUM]  0.0-60.0 sec  6.92 GBytes   991 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60096
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60097
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60098
+[  6]  0.0-60.1 sec  2.29 GBytes   327 Mbits/sec
+[  4]  0.0-60.1 sec  2.30 GBytes   330 Mbits/sec
+[  5]  0.0-60.1 sec  2.33 GBytes   334 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60119
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60120
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60121
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60122
+[  7]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[  4]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[  5]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[  6]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60130
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60131
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60132
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60133
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60134
+[  8]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  4]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  5]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  6]  0.0-60.1 sec  1.38 GBytes   198 Mbits/sec
+[  7]  0.0-60.1 sec  1.38 GBytes   198 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   990 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60146
+[  9]  0.0-60.0 sec  6.79 GBytes   972 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60158
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60159
+[  4]  0.0-60.0 sec  3.56 GBytes   509 Mbits/sec
+[  5]  0.0-60.0 sec  3.30 GBytes   472 Mbits/sec
+[SUM]  0.0-60.0 sec  6.86 GBytes   982 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60171
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60172
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60173
+[  4]  0.0-60.1 sec  2.31 GBytes   331 Mbits/sec
+[  6]  0.0-60.1 sec  2.30 GBytes   329 Mbits/sec
+[  5]  0.0-60.1 sec  2.31 GBytes   331 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60187
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60188
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60189
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60190
+[  6]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  7]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  4]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  5]  0.0-60.1 sec  1.74 GBytes   249 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60203
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60204
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60205
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60206
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60207
+[  8]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  4]  0.0-60.1 sec  1.38 GBytes   198 Mbits/sec
+[  6]  0.0-60.1 sec  1.38 GBytes   198 Mbits/sec
+[  7]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  5]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   991 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60219
+[  9]  0.0-60.0 sec  6.88 GBytes   985 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60241
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60242
+[  4]  0.0-60.0 sec  3.48 GBytes   498 Mbits/sec
+[  5]  0.0-60.0 sec  3.42 GBytes   490 Mbits/sec
+[SUM]  0.0-60.0 sec  6.90 GBytes   987 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60254
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60255
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60256
+[  6]  0.0-60.1 sec  2.42 GBytes   345 Mbits/sec
+[  4]  0.0-60.1 sec  2.28 GBytes   326 Mbits/sec
+[  5]  0.0-60.1 sec  2.23 GBytes   318 Mbits/sec
+[SUM]  0.0-60.1 sec  6.92 GBytes   990 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60268
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60269
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60270
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60271
+[  5]  0.0-60.1 sec  1.70 GBytes   243 Mbits/sec
+[  7]  0.0-60.1 sec  1.88 GBytes   268 Mbits/sec
+[  4]  0.0-60.1 sec  1.66 GBytes   237 Mbits/sec
+[  6]  0.0-60.1 sec  1.69 GBytes   242 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   990 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60280
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60281
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60282
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60283
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60284
+[  8]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  4]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  5]  0.0-60.1 sec  1.38 GBytes   197 Mbits/sec
+[  6]  0.0-60.1 sec  1.38 GBytes   197 Mbits/sec
+[  7]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60303
+[  9]  0.0-60.0 sec  6.87 GBytes   983 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60319
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60320
+[  4]  0.0-60.1 sec  3.40 GBytes   487 Mbits/sec
+[  5]  0.0-60.0 sec  3.46 GBytes   495 Mbits/sec
+[SUM]  0.0-60.1 sec  6.86 GBytes   981 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60332
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60333
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60334
+[  6]  0.0-60.1 sec  2.29 GBytes   328 Mbits/sec
+[  4]  0.0-60.1 sec  2.34 GBytes   335 Mbits/sec
+[  5]  0.0-60.1 sec  2.29 GBytes   327 Mbits/sec
+[SUM]  0.0-60.1 sec  6.92 GBytes   989 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60349
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60350
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60351
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60352
+[  7]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[  4]  0.0-60.1 sec  1.74 GBytes   249 Mbits/sec
+[  5]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  6]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60365
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60366
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60367
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60368
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60369
+[  8]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  4]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  5]  0.0-60.1 sec  1.38 GBytes   198 Mbits/sec
+[  6]  0.0-60.1 sec  1.38 GBytes   198 Mbits/sec
+[  7]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   991 Mbits/sec
+[  9] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60381
+[  9]  0.0-60.0 sec  6.89 GBytes   987 Mbits/sec
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60400
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60401
+[  4]  0.0-60.0 sec  3.46 GBytes   495 Mbits/sec
+[  5]  0.0-60.0 sec  3.47 GBytes   496 Mbits/sec
+[SUM]  0.0-60.0 sec  6.92 GBytes   991 Mbits/sec
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60413
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60414
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60415
+[  4]  0.0-60.1 sec  2.31 GBytes   330 Mbits/sec
+[  5]  0.0-60.1 sec  2.31 GBytes   331 Mbits/sec
+[  6]  0.0-60.1 sec  2.31 GBytes   330 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60439
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60440
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60441
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60442
+[  6]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  7]  0.0-60.1 sec  1.74 GBytes   249 Mbits/sec
+[  4]  0.0-60.1 sec  1.73 GBytes   247 Mbits/sec
+[  5]  0.0-60.1 sec  1.73 GBytes   248 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+[  8] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60473
+[  4] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60474
+[  5] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60475
+[  6] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60476
+[  7] local 149.165.148.5 port 5002 connected with 149.165.146.136 port 60477
+[  8]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  6]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  7]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  4]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[  5]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   991 Mbits/sec

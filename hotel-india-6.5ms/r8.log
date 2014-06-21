@@ -1,0 +1,64 @@
+N = 1
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  3] local 149.165.146.136 port 60219 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  6.88 GBytes   985 Mbits/sec
+N = 2
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  3] local 149.165.146.136 port 60242 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 60241 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  3.42 GBytes   490 Mbits/sec
+[  4]  0.0-60.0 sec  3.48 GBytes   498 Mbits/sec
+[SUM]  0.0-60.0 sec  6.90 GBytes   988 Mbits/sec
+N = 3
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  3] local 149.165.146.136 port 60256 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 60254 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 60255 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec  2.42 GBytes   346 Mbits/sec
+[  3]  0.0-60.0 sec  2.23 GBytes   319 Mbits/sec
+[  5]  0.0-60.0 sec  2.28 GBytes   326 Mbits/sec
+[SUM]  0.0-60.0 sec  6.92 GBytes   991 Mbits/sec
+N = 4
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.146.136 port 60269 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 60270 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 60268 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 60271 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec  1.70 GBytes   243 Mbits/sec
+[  4]  0.0-60.0 sec  1.69 GBytes   242 Mbits/sec
+[  5]  0.0-60.0 sec  1.66 GBytes   237 Mbits/sec
+[  3]  0.0-60.1 sec  1.88 GBytes   269 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+N = 5
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.146.136 port 60284 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 60281 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 60280 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 60283 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 60282 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  1.39 GBytes   199 Mbits/sec
+[  7]  0.0-60.0 sec  1.38 GBytes   197 Mbits/sec
+[  4]  0.0-60.0 sec  1.38 GBytes   197 Mbits/sec
+[  5]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[  6]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
+[SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
