@@ -62,3 +62,1409 @@ TCP window size: 27.7 KByte (default)
 [  5]  0.0-60.1 sec  1.39 GBytes   199 Mbits/sec
 [  6]  0.0-60.1 sec  1.39 GBytes   198 Mbits/sec
 [SUM]  0.0-60.1 sec  6.93 GBytes   991 Mbits/sec
+N = 6
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.146.136 port 37560 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37555 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37556 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37558 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37557 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37559 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec  1.01 GBytes   145 Mbits/sec
+[  3]  0.0-60.0 sec  1.24 GBytes   178 Mbits/sec
+[  6]  0.0-60.0 sec  1.28 GBytes   183 Mbits/sec
+[  4]  0.0-60.1 sec  1.12 GBytes   160 Mbits/sec
+[  7]  0.0-60.1 sec  1.05 GBytes   150 Mbits/sec
+[  8]  0.0-60.1 sec  1.24 GBytes   177 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   992 Mbits/sec
+N = 7
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.146.136 port 37581 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37575 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37576 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37577 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37578 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37579 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37580 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  1.09 GBytes   156 Mbits/sec
+[  5]  0.0-60.0 sec   968 MBytes   135 Mbits/sec
+[  8]  0.0-60.0 sec  1016 MBytes   142 Mbits/sec
+[  4]  0.0-60.0 sec  1015 MBytes   142 Mbits/sec
+[  7]  0.0-60.1 sec   943 MBytes   132 Mbits/sec
+[  9]  0.0-60.1 sec   984 MBytes   137 Mbits/sec
+[  6]  0.0-60.1 sec  1.04 GBytes   148 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   991 Mbits/sec
+N = 8
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  5] local 149.165.146.136 port 37595 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37597 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37594 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37600 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37596 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37598 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37599 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37593 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec   897 MBytes   125 Mbits/sec
+[  4]  0.0-60.0 sec   909 MBytes   127 Mbits/sec
+[  3]  0.0-60.0 sec   876 MBytes   122 Mbits/sec
+[  8]  0.0-60.1 sec   890 MBytes   124 Mbits/sec
+[  9]  0.0-60.1 sec   907 MBytes   127 Mbits/sec
+[  6]  0.0-60.1 sec   944 MBytes   132 Mbits/sec
+[  7]  0.0-60.1 sec   902 MBytes   126 Mbits/sec
+[ 10]  0.0-60.2 sec   786 MBytes   110 Mbits/sec
+[SUM]  0.0-60.2 sec  6.94 GBytes   991 Mbits/sec
+N = 9
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[  8] local 149.165.146.136 port 37628 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37620 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37621 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37622 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37623 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37624 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37625 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37626 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37627 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   837 MBytes   117 Mbits/sec
+[  4]  0.0-60.0 sec   843 MBytes   118 Mbits/sec
+[ 10]  0.0-60.0 sec   683 MBytes  95.5 Mbits/sec
+[  9]  0.0-60.1 sec   861 MBytes   120 Mbits/sec
+[  5]  0.0-60.1 sec   718 MBytes   100 Mbits/sec
+[  7]  0.0-60.1 sec   684 MBytes  95.4 Mbits/sec
+[  3]  0.0-60.1 sec   838 MBytes   117 Mbits/sec
+[ 11]  0.0-60.2 sec   824 MBytes   115 Mbits/sec
+[  8]  0.0-60.2 sec   827 MBytes   115 Mbits/sec
+[SUM]  0.0-60.2 sec  6.95 GBytes   992 Mbits/sec
+N = 10
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 12] local 149.165.146.136 port 37649 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37640 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37641 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37642 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37644 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37643 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37645 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37646 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37647 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37648 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[ 12]  0.0-60.0 sec   586 MBytes  82.0 Mbits/sec
+[  7]  0.0-60.0 sec   682 MBytes  95.4 Mbits/sec
+[  4]  0.0-60.0 sec   840 MBytes   117 Mbits/sec
+[ 11]  0.0-60.1 sec   853 MBytes   119 Mbits/sec
+[ 10]  0.0-60.1 sec   702 MBytes  98.1 Mbits/sec
+[  3]  0.0-60.1 sec   567 MBytes  79.2 Mbits/sec
+[  9]  0.0-60.1 sec   836 MBytes   117 Mbits/sec
+[  6]  0.0-60.1 sec   680 MBytes  94.8 Mbits/sec
+[  5]  0.0-60.1 sec   698 MBytes  97.3 Mbits/sec
+[  8]  0.0-60.1 sec   666 MBytes  92.8 Mbits/sec
+[SUM]  0.0-60.1 sec  6.94 GBytes   992 Mbits/sec
+N = 12
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 12] local 149.165.146.136 port 37672 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37661 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37662 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37663 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37664 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37665 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37666 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37667 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37668 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37669 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37670 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37671 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   617 MBytes  86.3 Mbits/sec
+[ 11]  0.0-60.0 sec   512 MBytes  71.5 Mbits/sec
+[  5]  0.0-60.0 sec   500 MBytes  69.9 Mbits/sec
+[  7]  0.0-60.0 sec   547 MBytes  76.4 Mbits/sec
+[ 14]  0.0-60.1 sec   611 MBytes  85.4 Mbits/sec
+[ 10]  0.0-60.1 sec   517 MBytes  72.2 Mbits/sec
+[  8]  0.0-60.1 sec   554 MBytes  77.4 Mbits/sec
+[  3]  0.0-60.1 sec   613 MBytes  85.5 Mbits/sec
+[ 13]  0.0-60.1 sec   649 MBytes  90.6 Mbits/sec
+[ 12]  0.0-60.2 sec   698 MBytes  97.3 Mbits/sec
+[  4]  0.0-60.2 sec   700 MBytes  97.5 Mbits/sec
+[  9]  0.0-60.2 sec   603 MBytes  84.0 Mbits/sec
+[SUM]  0.0-60.2 sec  6.96 GBytes   992 Mbits/sec
+N = 14
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 15] local 149.165.146.136 port 37707 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37695 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37696 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37697 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37698 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37699 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37700 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37701 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37702 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 37703 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37704 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 37705 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37706 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37694 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec   597 MBytes  83.5 Mbits/sec
+[  8]  0.0-60.0 sec   506 MBytes  70.7 Mbits/sec
+[ 11]  0.0-60.0 sec   450 MBytes  62.9 Mbits/sec
+[  9]  0.0-60.0 sec   623 MBytes  87.0 Mbits/sec
+[ 16]  0.0-60.1 sec   518 MBytes  72.4 Mbits/sec
+[  6]  0.0-60.1 sec   493 MBytes  68.8 Mbits/sec
+[ 14]  0.0-60.1 sec   484 MBytes  67.5 Mbits/sec
+[  7]  0.0-60.1 sec   465 MBytes  64.8 Mbits/sec
+[ 15]  0.0-60.2 sec   482 MBytes  67.2 Mbits/sec
+[ 12]  0.0-60.2 sec   495 MBytes  69.0 Mbits/sec
+[  4]  0.0-60.2 sec   496 MBytes  69.1 Mbits/sec
+[  5]  0.0-60.2 sec   499 MBytes  69.6 Mbits/sec
+[ 10]  0.0-60.3 sec   495 MBytes  68.9 Mbits/sec
+[ 13]  0.0-60.3 sec   521 MBytes  72.5 Mbits/sec
+[SUM]  0.0-60.3 sec  6.96 GBytes   991 Mbits/sec
+N = 16
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 17] local 149.165.146.136 port 37734 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37720 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37721 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37722 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37723 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37724 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37725 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 37726 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37727 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37728 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37729 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 37730 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 37731 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37732 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 37733 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37719 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[ 13]  0.0-60.0 sec   541 MBytes  75.6 Mbits/sec
+[  4]  0.0-60.0 sec   423 MBytes  59.1 Mbits/sec
+[  7]  0.0-60.1 sec   435 MBytes  60.8 Mbits/sec
+[  6]  0.0-60.1 sec   497 MBytes  69.5 Mbits/sec
+[ 10]  0.0-60.1 sec   458 MBytes  63.9 Mbits/sec
+[ 16]  0.0-60.1 sec   401 MBytes  55.9 Mbits/sec
+[ 11]  0.0-60.1 sec   463 MBytes  64.6 Mbits/sec
+[  3]  0.0-60.2 sec   418 MBytes  58.2 Mbits/sec
+[ 18]  0.0-60.2 sec   420 MBytes  58.6 Mbits/sec
+[ 12]  0.0-60.2 sec   416 MBytes  58.0 Mbits/sec
+[ 14]  0.0-60.2 sec   512 MBytes  71.4 Mbits/sec
+[ 17]  0.0-60.2 sec   395 MBytes  55.1 Mbits/sec
+[  5]  0.0-60.2 sec   442 MBytes  61.6 Mbits/sec
+[  8]  0.0-60.2 sec   449 MBytes  62.6 Mbits/sec
+[  9]  0.0-60.4 sec   414 MBytes  57.5 Mbits/sec
+[ 15]  0.0-60.4 sec   441 MBytes  61.3 Mbits/sec
+[SUM]  0.0-60.4 sec  6.96 GBytes   990 Mbits/sec
+N = 18
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 18] local 149.165.146.136 port 37765 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37748 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37749 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37750 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37751 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37752 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37753 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37754 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37755 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37756 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37757 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37758 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 37759 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 37760 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 37761 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 37762 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 37763 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 37764 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec   376 MBytes  52.5 Mbits/sec
+[ 13]  0.0-60.0 sec   403 MBytes  56.4 Mbits/sec
+[ 20]  0.0-60.0 sec   497 MBytes  69.4 Mbits/sec
+[ 18]  0.0-60.0 sec   341 MBytes  47.7 Mbits/sec
+[  4]  0.0-60.1 sec   352 MBytes  49.1 Mbits/sec
+[ 11]  0.0-60.1 sec   358 MBytes  49.9 Mbits/sec
+[ 16]  0.0-60.1 sec   447 MBytes  62.4 Mbits/sec
+[  6]  0.0-60.1 sec   314 MBytes  43.8 Mbits/sec
+[ 15]  0.0-60.1 sec   376 MBytes  52.5 Mbits/sec
+[ 19]  0.0-60.2 sec   344 MBytes  47.9 Mbits/sec
+[ 10]  0.0-60.2 sec   378 MBytes  52.6 Mbits/sec
+[ 14]  0.0-60.2 sec   486 MBytes  67.8 Mbits/sec
+[ 17]  0.0-60.2 sec   394 MBytes  54.8 Mbits/sec
+[  3]  0.0-60.3 sec   384 MBytes  53.5 Mbits/sec
+[  7]  0.0-60.3 sec   264 MBytes  36.8 Mbits/sec
+[  8]  0.0-60.3 sec   474 MBytes  65.9 Mbits/sec
+[ 12]  0.0-60.4 sec   447 MBytes  62.1 Mbits/sec
+[  9]  0.0-60.4 sec   489 MBytes  68.0 Mbits/sec
+[SUM]  0.0-60.4 sec  6.96 GBytes   990 Mbits/sec
+N = 20
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 19] local 149.165.146.136 port 37804 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37786 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37787 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37788 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37789 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37790 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37791 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37792 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 37793 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37794 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37795 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37796 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 37797 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 37798 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 37799 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 37800 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 37801 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 37802 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 37803 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37785 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[ 14]  0.0-60.0 sec   455 MBytes  63.6 Mbits/sec
+[ 19]  0.0-60.0 sec   431 MBytes  60.2 Mbits/sec
+[  4]  0.0-60.1 sec   420 MBytes  58.6 Mbits/sec
+[ 12]  0.0-60.1 sec   463 MBytes  64.6 Mbits/sec
+[  8]  0.0-60.1 sec   276 MBytes  38.6 Mbits/sec
+[  6]  0.0-60.1 sec   308 MBytes  42.9 Mbits/sec
+[ 16]  0.0-60.1 sec   404 MBytes  56.4 Mbits/sec
+[ 20]  0.0-60.1 sec   342 MBytes  47.7 Mbits/sec
+[ 11]  0.0-60.1 sec   425 MBytes  59.3 Mbits/sec
+[  3]  0.0-60.1 sec   366 MBytes  51.0 Mbits/sec
+[  5]  0.0-60.2 sec   217 MBytes  30.3 Mbits/sec
+[ 10]  0.0-60.2 sec   230 MBytes  32.1 Mbits/sec
+[ 18]  0.0-60.2 sec   363 MBytes  50.6 Mbits/sec
+[ 22]  0.0-60.2 sec   376 MBytes  52.4 Mbits/sec
+[ 15]  0.0-60.2 sec   411 MBytes  57.3 Mbits/sec
+[ 21]  0.0-60.3 sec   396 MBytes  55.1 Mbits/sec
+[  9]  0.0-60.3 sec   261 MBytes  36.3 Mbits/sec
+[  7]  0.0-60.5 sec   302 MBytes  42.0 Mbits/sec
+[ 17]  0.0-60.4 sec   348 MBytes  48.3 Mbits/sec
+[ 13]  0.0-60.5 sec   354 MBytes  49.2 Mbits/sec
+[SUM]  0.0-60.5 sec  6.98 GBytes   992 Mbits/sec
+N = 30
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 20] local 149.165.146.136 port 37853 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37824 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37825 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37826 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37827 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37828 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37829 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37830 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37831 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 37832 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37833 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37834 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37835 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 37836 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 37837 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 37838 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 37839 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 37840 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 37841 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 37842 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 37843 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 37844 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 37845 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 37846 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 37847 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 37848 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 37849 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 37850 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 37851 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 37852 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-60.0 sec   248 MBytes  34.6 Mbits/sec
+[ 16]  0.0-60.0 sec   224 MBytes  31.2 Mbits/sec
+[  4]  0.0-60.0 sec   131 MBytes  18.3 Mbits/sec
+[  5]  0.0-60.0 sec   160 MBytes  22.4 Mbits/sec
+[ 19]  0.0-60.0 sec   312 MBytes  43.7 Mbits/sec
+[  3]  0.0-60.0 sec   194 MBytes  27.1 Mbits/sec
+[ 10]  0.0-60.0 sec   200 MBytes  28.0 Mbits/sec
+[  8]  0.0-60.1 sec   316 MBytes  44.1 Mbits/sec
+[ 25]  0.0-60.0 sec   278 MBytes  38.8 Mbits/sec
+[ 26]  0.0-60.1 sec   312 MBytes  43.5 Mbits/sec
+[ 20]  0.0-60.1 sec   221 MBytes  30.9 Mbits/sec
+[ 27]  0.0-60.1 sec   319 MBytes  44.5 Mbits/sec
+[ 21]  0.0-60.2 sec   408 MBytes  56.9 Mbits/sec
+[ 28]  0.0-60.2 sec   261 MBytes  36.4 Mbits/sec
+[ 29]  0.0-60.2 sec   224 MBytes  31.2 Mbits/sec
+[ 22]  0.0-60.2 sec   368 MBytes  51.2 Mbits/sec
+[ 12]  0.0-60.2 sec   288 MBytes  40.2 Mbits/sec
+[ 23]  0.0-60.2 sec   260 MBytes  36.2 Mbits/sec
+[ 13]  0.0-60.3 sec   344 MBytes  47.9 Mbits/sec
+[ 17]  0.0-60.3 sec   224 MBytes  31.1 Mbits/sec
+[  7]  0.0-60.4 sec   198 MBytes  27.5 Mbits/sec
+[ 30]  0.0-60.4 sec   217 MBytes  30.2 Mbits/sec
+[ 32]  0.0-60.4 sec   139 MBytes  19.4 Mbits/sec
+[ 11]  0.0-60.4 sec   120 MBytes  16.7 Mbits/sec
+[ 31]  0.0-60.4 sec   283 MBytes  39.4 Mbits/sec
+[  9]  0.0-60.4 sec  77.8 MBytes  10.8 Mbits/sec
+[ 14]  0.0-60.5 sec   259 MBytes  35.9 Mbits/sec
+[ 24]  0.0-60.5 sec   158 MBytes  21.9 Mbits/sec
+[ 18]  0.0-60.5 sec   177 MBytes  24.5 Mbits/sec
+[ 15]  0.0-60.6 sec   238 MBytes  32.9 Mbits/sec
+[SUM]  0.0-60.6 sec  6.99 GBytes   990 Mbits/sec
+N = 40
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 42] local 149.165.146.136 port 37912 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37873 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37874 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37875 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37876 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37877 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37878 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37879 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37880 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 37881 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37882 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37883 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37884 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 37885 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 37886 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 37887 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 37888 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 37889 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 37890 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 37891 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 37892 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 37893 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 37894 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 37895 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 37896 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 37897 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 37898 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 37899 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 37900 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 37901 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 37902 connected with 149.165.148.5 port 5002
+[ 34] local 149.165.146.136 port 37903 connected with 149.165.148.5 port 5002
+[ 35] local 149.165.146.136 port 37904 connected with 149.165.148.5 port 5002
+[ 36] local 149.165.146.136 port 37905 connected with 149.165.148.5 port 5002
+[ 37] local 149.165.146.136 port 37906 connected with 149.165.148.5 port 5002
+[ 38] local 149.165.146.136 port 37907 connected with 149.165.148.5 port 5002
+[ 39] local 149.165.146.136 port 37908 connected with 149.165.148.5 port 5002
+[ 33] local 149.165.146.136 port 37909 connected with 149.165.148.5 port 5002
+[ 41] local 149.165.146.136 port 37910 connected with 149.165.148.5 port 5002
+[ 40] local 149.165.146.136 port 37911 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-60.0 sec   100 MBytes  14.0 Mbits/sec
+[ 18]  0.0-60.0 sec   122 MBytes  17.1 Mbits/sec
+[ 24]  0.0-60.0 sec   118 MBytes  16.5 Mbits/sec
+[ 31]  0.0-60.0 sec   463 MBytes  64.8 Mbits/sec
+[ 42]  0.0-60.0 sec   100 MBytes  14.0 Mbits/sec
+[  9]  0.0-60.0 sec  99.2 MBytes  13.9 Mbits/sec
+[ 13]  0.0-60.0 sec  92.6 MBytes  12.9 Mbits/sec
+[ 38]  0.0-60.0 sec   118 MBytes  16.5 Mbits/sec
+[ 41]  0.0-60.0 sec   114 MBytes  15.9 Mbits/sec
+[ 29]  0.0-60.0 sec   454 MBytes  63.4 Mbits/sec
+[ 11]  0.0-60.1 sec   105 MBytes  14.6 Mbits/sec
+[ 21]  0.0-60.1 sec  89.4 MBytes  12.5 Mbits/sec
+[ 40]  0.0-60.1 sec   135 MBytes  18.9 Mbits/sec
+[ 25]  0.0-60.1 sec   278 MBytes  38.8 Mbits/sec
+[ 34]  0.0-60.1 sec   222 MBytes  31.0 Mbits/sec
+[ 35]  0.0-60.1 sec   159 MBytes  22.1 Mbits/sec
+[ 19]  0.0-60.1 sec   117 MBytes  16.3 Mbits/sec
+[ 36]  0.0-60.2 sec   464 MBytes  64.7 Mbits/sec
+[ 37]  0.0-60.2 sec   460 MBytes  64.0 Mbits/sec
+[ 26]  0.0-60.2 sec   260 MBytes  36.2 Mbits/sec
+[ 10]  0.0-60.2 sec   108 MBytes  15.0 Mbits/sec
+[ 20]  0.0-60.2 sec   222 MBytes  30.9 Mbits/sec
+[ 33]  0.0-60.2 sec   458 MBytes  63.8 Mbits/sec
+[  7]  0.0-60.3 sec   104 MBytes  14.4 Mbits/sec
+[ 30]  0.0-60.3 sec   127 MBytes  17.7 Mbits/sec
+[  6]  0.0-60.3 sec   112 MBytes  15.5 Mbits/sec
+[  3]  0.0-60.3 sec   116 MBytes  16.2 Mbits/sec
+[  8]  0.0-60.3 sec   104 MBytes  14.4 Mbits/sec
+[ 12]  0.0-60.3 sec   102 MBytes  14.3 Mbits/sec
+[ 27]  0.0-60.3 sec   281 MBytes  39.0 Mbits/sec
+[ 16]  0.0-60.3 sec   110 MBytes  15.2 Mbits/sec
+[ 23]  0.0-60.4 sec   101 MBytes  14.0 Mbits/sec
+[ 39]  0.0-60.3 sec   112 MBytes  15.6 Mbits/sec
+[ 15]  0.0-60.4 sec   405 MBytes  56.2 Mbits/sec
+[ 14]  0.0-60.4 sec   106 MBytes  14.7 Mbits/sec
+[ 17]  0.0-60.4 sec   120 MBytes  16.7 Mbits/sec
+[  4]  0.0-60.4 sec  98.6 MBytes  13.7 Mbits/sec
+[ 22]  0.0-60.4 sec   107 MBytes  14.9 Mbits/sec
+[ 32]  0.0-60.4 sec   115 MBytes  16.0 Mbits/sec
+[ 28]  0.0-60.5 sec   110 MBytes  15.3 Mbits/sec
+[SUM]  0.0-60.5 sec  7.02 GBytes   997 Mbits/sec
+N = 50
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 51] local 149.165.146.136 port 37982 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 37933 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 37934 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 37935 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 37936 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 37937 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 37938 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 37939 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 37940 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 37941 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 37942 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 37943 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 37944 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 37945 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 37946 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 37947 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 37948 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 37949 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 37950 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 37951 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 37952 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 37953 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 37954 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 37955 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 37956 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 37957 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 37958 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 37959 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 37960 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 37961 connected with 149.165.148.5 port 5002
+[ 33] local 149.165.146.136 port 37962 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 37963 connected with 149.165.148.5 port 5002
+[ 34] local 149.165.146.136 port 37964 connected with 149.165.148.5 port 5002
+[ 36] local 149.165.146.136 port 37965 connected with 149.165.148.5 port 5002
+[ 35] local 149.165.146.136 port 37966 connected with 149.165.148.5 port 5002
+[ 38] local 149.165.146.136 port 37967 connected with 149.165.148.5 port 5002
+[ 39] local 149.165.146.136 port 37968 connected with 149.165.148.5 port 5002
+[ 40] local 149.165.146.136 port 37969 connected with 149.165.148.5 port 5002
+[ 37] local 149.165.146.136 port 37970 connected with 149.165.148.5 port 5002
+[ 41] local 149.165.146.136 port 37971 connected with 149.165.148.5 port 5002
+[ 42] local 149.165.146.136 port 37972 connected with 149.165.148.5 port 5002
+[ 43] local 149.165.146.136 port 37973 connected with 149.165.148.5 port 5002
+[ 44] local 149.165.146.136 port 37974 connected with 149.165.148.5 port 5002
+[ 45] local 149.165.146.136 port 37975 connected with 149.165.148.5 port 5002
+[ 47] local 149.165.146.136 port 37976 connected with 149.165.148.5 port 5002
+[ 48] local 149.165.146.136 port 37977 connected with 149.165.148.5 port 5002
+[ 49] local 149.165.146.136 port 37978 connected with 149.165.148.5 port 5002
+[ 46] local 149.165.146.136 port 37979 connected with 149.165.148.5 port 5002
+[ 50] local 149.165.146.136 port 37980 connected with 149.165.148.5 port 5002
+[ 52] local 149.165.146.136 port 37981 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[ 50]  0.0-60.0 sec   130 MBytes  18.2 Mbits/sec
+[ 46]  0.0-60.0 sec   109 MBytes  15.3 Mbits/sec
+[ 20]  0.0-60.0 sec   103 MBytes  14.4 Mbits/sec
+[  5]  0.0-60.0 sec  86.0 MBytes  12.0 Mbits/sec
+[  9]  0.0-60.1 sec   118 MBytes  16.6 Mbits/sec
+[ 49]  0.0-60.1 sec   124 MBytes  17.4 Mbits/sec
+[ 12]  0.0-60.1 sec   124 MBytes  17.4 Mbits/sec
+[ 36]  0.0-60.1 sec   428 MBytes  59.7 Mbits/sec
+[ 32]  0.0-60.1 sec   107 MBytes  14.9 Mbits/sec
+[ 18]  0.0-60.1 sec   111 MBytes  15.5 Mbits/sec
+[ 28]  0.0-60.1 sec   175 MBytes  24.4 Mbits/sec
+[  4]  0.0-60.1 sec   103 MBytes  14.4 Mbits/sec
+[ 19]  0.0-60.1 sec   242 MBytes  33.8 Mbits/sec
+[ 21]  0.0-60.1 sec   112 MBytes  15.6 Mbits/sec
+[ 51]  0.0-60.1 sec   113 MBytes  15.7 Mbits/sec
+[ 24]  0.0-60.1 sec   114 MBytes  16.0 Mbits/sec
+[ 35]  0.0-60.1 sec   108 MBytes  15.1 Mbits/sec
+[ 31]  0.0-60.2 sec   115 MBytes  16.1 Mbits/sec
+[ 45]  0.0-60.1 sec   129 MBytes  18.0 Mbits/sec
+[ 48]  0.0-60.1 sec   138 MBytes  19.2 Mbits/sec
+[ 52]  0.0-60.1 sec   120 MBytes  16.7 Mbits/sec
+[ 40]  0.0-60.2 sec   129 MBytes  18.0 Mbits/sec
+[ 26]  0.0-60.2 sec   122 MBytes  17.0 Mbits/sec
+[ 14]  0.0-60.2 sec  88.5 MBytes  12.3 Mbits/sec
+[ 29]  0.0-60.2 sec   116 MBytes  16.2 Mbits/sec
+[ 30]  0.0-60.2 sec  94.0 MBytes  13.1 Mbits/sec
+[ 33]  0.0-60.2 sec   373 MBytes  52.0 Mbits/sec
+[  6]  0.0-60.2 sec  90.1 MBytes  12.6 Mbits/sec
+[ 10]  0.0-60.2 sec   129 MBytes  18.0 Mbits/sec
+[ 38]  0.0-60.2 sec   136 MBytes  18.9 Mbits/sec
+[ 16]  0.0-60.2 sec   426 MBytes  59.4 Mbits/sec
+[ 39]  0.0-60.2 sec   137 MBytes  19.1 Mbits/sec
+[ 13]  0.0-60.2 sec   116 MBytes  16.2 Mbits/sec
+[ 34]  0.0-60.3 sec   173 MBytes  24.1 Mbits/sec
+[ 37]  0.0-60.3 sec   133 MBytes  18.5 Mbits/sec
+[ 42]  0.0-60.3 sec   136 MBytes  18.9 Mbits/sec
+[ 11]  0.0-60.3 sec  89.6 MBytes  12.5 Mbits/sec
+[ 41]  0.0-60.3 sec   135 MBytes  18.8 Mbits/sec
+[ 43]  0.0-60.3 sec   138 MBytes  19.2 Mbits/sec
+[  7]  0.0-60.3 sec   125 MBytes  17.4 Mbits/sec
+[ 23]  0.0-60.3 sec   110 MBytes  15.4 Mbits/sec
+[ 27]  0.0-60.3 sec   432 MBytes  60.1 Mbits/sec
+[ 44]  0.0-60.4 sec   130 MBytes  18.1 Mbits/sec
+[ 17]  0.0-60.4 sec  94.4 MBytes  13.1 Mbits/sec
+[  8]  0.0-60.4 sec   111 MBytes  15.4 Mbits/sec
+[ 25]  0.0-60.4 sec   110 MBytes  15.2 Mbits/sec
+[ 47]  0.0-60.4 sec   120 MBytes  16.7 Mbits/sec
+[ 22]  0.0-60.5 sec  92.5 MBytes  12.8 Mbits/sec
+[  3]  0.0-60.6 sec   109 MBytes  15.0 Mbits/sec
+[ 15]  0.0-60.9 sec  96.1 MBytes  13.2 Mbits/sec
+[SUM]  0.0-60.9 sec  7.03 GBytes   992 Mbits/sec
+N = 60
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 59] local 149.165.146.136 port 38065 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 38007 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 38008 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 38009 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 38010 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 38011 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 38012 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 38013 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 38014 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 38015 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 38016 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 38017 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 38018 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 38019 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 38020 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 38021 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 38022 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 38023 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 38024 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 38025 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 38026 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 38027 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 38028 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 38029 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 38030 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 38031 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 38032 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 38033 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 38034 connected with 149.165.148.5 port 5002
+[ 33] local 149.165.146.136 port 38035 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 38036 connected with 149.165.148.5 port 5002
+[ 34] local 149.165.146.136 port 38037 connected with 149.165.148.5 port 5002
+[ 35] local 149.165.146.136 port 38038 connected with 149.165.148.5 port 5002
+[ 37] local 149.165.146.136 port 38039 connected with 149.165.148.5 port 5002
+[ 38] local 149.165.146.136 port 38040 connected with 149.165.148.5 port 5002
+[ 39] local 149.165.146.136 port 38041 connected with 149.165.148.5 port 5002
+[ 40] local 149.165.146.136 port 38042 connected with 149.165.148.5 port 5002
+[ 41] local 149.165.146.136 port 38043 connected with 149.165.148.5 port 5002
+[ 42] local 149.165.146.136 port 38044 connected with 149.165.148.5 port 5002
+[ 43] local 149.165.146.136 port 38045 connected with 149.165.148.5 port 5002
+[ 36] local 149.165.146.136 port 38046 connected with 149.165.148.5 port 5002
+[ 44] local 149.165.146.136 port 38047 connected with 149.165.148.5 port 5002
+[ 46] local 149.165.146.136 port 38048 connected with 149.165.148.5 port 5002
+[ 45] local 149.165.146.136 port 38049 connected with 149.165.148.5 port 5002
+[ 48] local 149.165.146.136 port 38050 connected with 149.165.148.5 port 5002
+[ 47] local 149.165.146.136 port 38051 connected with 149.165.148.5 port 5002
+[ 50] local 149.165.146.136 port 38052 connected with 149.165.148.5 port 5002
+[ 49] local 149.165.146.136 port 38053 connected with 149.165.148.5 port 5002
+[ 52] local 149.165.146.136 port 38054 connected with 149.165.148.5 port 5002
+[ 53] local 149.165.146.136 port 38055 connected with 149.165.148.5 port 5002
+[ 54] local 149.165.146.136 port 38056 connected with 149.165.148.5 port 5002
+[ 51] local 149.165.146.136 port 38057 connected with 149.165.148.5 port 5002
+[ 56] local 149.165.146.136 port 38058 connected with 149.165.148.5 port 5002
+[ 55] local 149.165.146.136 port 38059 connected with 149.165.148.5 port 5002
+[ 58] local 149.165.146.136 port 38060 connected with 149.165.148.5 port 5002
+[ 57] local 149.165.146.136 port 38061 connected with 149.165.148.5 port 5002
+[ 60] local 149.165.146.136 port 38062 connected with 149.165.148.5 port 5002
+[ 61] local 149.165.146.136 port 38063 connected with 149.165.148.5 port 5002
+[ 62] local 149.165.146.136 port 38064 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 38006 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[ 13]  0.0-60.0 sec  92.9 MBytes  13.0 Mbits/sec
+[ 23]  0.0-60.0 sec   162 MBytes  22.7 Mbits/sec
+[ 51]  0.0-60.0 sec   159 MBytes  22.3 Mbits/sec
+[ 47]  0.0-60.0 sec   130 MBytes  18.2 Mbits/sec
+[ 54]  0.0-60.1 sec  89.1 MBytes  12.4 Mbits/sec
+[ 12]  0.0-60.1 sec  95.2 MBytes  13.3 Mbits/sec
+[ 48]  0.0-60.1 sec   133 MBytes  18.6 Mbits/sec
+[ 25]  0.0-60.1 sec  99.5 MBytes  13.9 Mbits/sec
+[ 53]  0.0-60.1 sec  93.5 MBytes  13.1 Mbits/sec
+[ 11]  0.0-60.1 sec  75.9 MBytes  10.6 Mbits/sec
+[ 38]  0.0-60.1 sec   101 MBytes  14.1 Mbits/sec
+[ 62]  0.0-60.1 sec   102 MBytes  14.2 Mbits/sec
+[ 15]  0.0-60.1 sec   417 MBytes  58.2 Mbits/sec
+[ 14]  0.0-60.1 sec   102 MBytes  14.2 Mbits/sec
+[ 31]  0.0-60.1 sec   307 MBytes  42.8 Mbits/sec
+[ 30]  0.0-60.2 sec  86.0 MBytes  12.0 Mbits/sec
+[ 55]  0.0-60.2 sec  90.1 MBytes  12.6 Mbits/sec
+[ 33]  0.0-60.2 sec  98.4 MBytes  13.7 Mbits/sec
+[ 34]  0.0-60.2 sec   110 MBytes  15.3 Mbits/sec
+[ 56]  0.0-60.2 sec   100 MBytes  14.0 Mbits/sec
+[ 27]  0.0-60.2 sec   130 MBytes  18.1 Mbits/sec
+[ 46]  0.0-60.2 sec   135 MBytes  18.9 Mbits/sec
+[ 58]  0.0-60.2 sec  94.1 MBytes  13.1 Mbits/sec
+[ 35]  0.0-60.2 sec  80.1 MBytes  11.2 Mbits/sec
+[ 61]  0.0-60.2 sec   174 MBytes  24.3 Mbits/sec
+[  4]  0.0-60.3 sec   104 MBytes  14.5 Mbits/sec
+[ 24]  0.0-60.3 sec   109 MBytes  15.2 Mbits/sec
+[ 57]  0.0-60.3 sec  89.0 MBytes  12.4 Mbits/sec
+[  7]  0.0-60.3 sec  86.9 MBytes  12.1 Mbits/sec
+[ 17]  0.0-60.3 sec  95.6 MBytes  13.3 Mbits/sec
+[ 50]  0.0-60.3 sec   315 MBytes  43.9 Mbits/sec
+[ 60]  0.0-60.3 sec  97.0 MBytes  13.5 Mbits/sec
+[ 10]  0.0-60.3 sec  95.8 MBytes  13.3 Mbits/sec
+[ 22]  0.0-60.3 sec  84.9 MBytes  11.8 Mbits/sec
+[ 41]  0.0-60.4 sec  59.4 MBytes  8.25 Mbits/sec
+[ 52]  0.0-60.4 sec  99.2 MBytes  13.8 Mbits/sec
+[ 42]  0.0-60.4 sec  96.8 MBytes  13.4 Mbits/sec
+[ 16]  0.0-60.4 sec   102 MBytes  14.2 Mbits/sec
+[ 44]  0.0-60.4 sec   127 MBytes  17.6 Mbits/sec
+[ 19]  0.0-60.4 sec  82.5 MBytes  11.5 Mbits/sec
+[ 45]  0.0-60.4 sec   422 MBytes  58.6 Mbits/sec
+[ 20]  0.0-60.4 sec   101 MBytes  14.0 Mbits/sec
+[ 36]  0.0-60.4 sec   103 MBytes  14.3 Mbits/sec
+[ 26]  0.0-60.5 sec  99.9 MBytes  13.9 Mbits/sec
+[  3]  0.0-60.5 sec  86.0 MBytes  11.9 Mbits/sec
+[ 49]  0.0-60.5 sec  93.4 MBytes  12.9 Mbits/sec
+[ 37]  0.0-60.5 sec  55.2 MBytes  7.65 Mbits/sec
+[  9]  0.0-60.6 sec  90.0 MBytes  12.5 Mbits/sec
+[ 43]  0.0-60.7 sec   137 MBytes  18.9 Mbits/sec
+[ 59]  0.0-60.7 sec  83.2 MBytes  11.5 Mbits/sec
+[ 39]  0.0-60.8 sec  79.2 MBytes  10.9 Mbits/sec
+[  5]  0.0-60.9 sec  89.1 MBytes  12.3 Mbits/sec
+[ 40]  0.0-60.9 sec  83.0 MBytes  11.4 Mbits/sec
+[ 21]  0.0-61.0 sec   116 MBytes  15.9 Mbits/sec
+[ 28]  0.0-61.0 sec   204 MBytes  28.1 Mbits/sec
+[  6]  0.0-61.1 sec  86.9 MBytes  11.9 Mbits/sec
+[  8]  0.0-61.1 sec  85.8 MBytes  11.8 Mbits/sec
+[ 18]  0.0-61.1 sec  96.0 MBytes  13.2 Mbits/sec
+[ 29]  0.0-61.1 sec  96.0 MBytes  13.2 Mbits/sec
+[ 32]  0.0-61.1 sec   132 MBytes  18.2 Mbits/sec
+[SUM]  0.0-61.1 sec  7.07 GBytes   995 Mbits/sec
+N = 70
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 71] local 149.165.146.136 port 38154 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 38086 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 38087 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 38088 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 38089 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 38090 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 38091 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 38092 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 38093 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 38094 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 38095 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 38096 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 38097 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 38098 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 38099 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 38100 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 38101 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 38102 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 38103 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 38104 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 38105 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 38106 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 38107 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 38108 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 38109 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 38110 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 38111 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 38112 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 38113 connected with 149.165.148.5 port 5002
+[ 33] local 149.165.146.136 port 38114 connected with 149.165.148.5 port 5002
+[ 34] local 149.165.146.136 port 38115 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 38116 connected with 149.165.148.5 port 5002
+[ 36] local 149.165.146.136 port 38117 connected with 149.165.148.5 port 5002
+[ 37] local 149.165.146.136 port 38118 connected with 149.165.148.5 port 5002
+[ 38] local 149.165.146.136 port 38119 connected with 149.165.148.5 port 5002
+[ 35] local 149.165.146.136 port 38120 connected with 149.165.148.5 port 5002
+[ 40] local 149.165.146.136 port 38121 connected with 149.165.148.5 port 5002
+[ 41] local 149.165.146.136 port 38122 connected with 149.165.148.5 port 5002
+[ 42] local 149.165.146.136 port 38123 connected with 149.165.148.5 port 5002
+[ 39] local 149.165.146.136 port 38124 connected with 149.165.148.5 port 5002
+[ 44] local 149.165.146.136 port 38125 connected with 149.165.148.5 port 5002
+[ 45] local 149.165.146.136 port 38126 connected with 149.165.148.5 port 5002
+[ 46] local 149.165.146.136 port 38127 connected with 149.165.148.5 port 5002
+[ 43] local 149.165.146.136 port 38128 connected with 149.165.148.5 port 5002
+[ 48] local 149.165.146.136 port 38129 connected with 149.165.148.5 port 5002
+[ 49] local 149.165.146.136 port 38130 connected with 149.165.148.5 port 5002
+[ 50] local 149.165.146.136 port 38131 connected with 149.165.148.5 port 5002
+[ 51] local 149.165.146.136 port 38132 connected with 149.165.148.5 port 5002
+[ 47] local 149.165.146.136 port 38133 connected with 149.165.148.5 port 5002
+[ 53] local 149.165.146.136 port 38134 connected with 149.165.148.5 port 5002
+[ 52] local 149.165.146.136 port 38135 connected with 149.165.148.5 port 5002
+[ 55] local 149.165.146.136 port 38136 connected with 149.165.148.5 port 5002
+[ 56] local 149.165.146.136 port 38137 connected with 149.165.148.5 port 5002
+[ 57] local 149.165.146.136 port 38138 connected with 149.165.148.5 port 5002
+[ 58] local 149.165.146.136 port 38139 connected with 149.165.148.5 port 5002
+[ 59] local 149.165.146.136 port 38140 connected with 149.165.148.5 port 5002
+[ 60] local 149.165.146.136 port 38141 connected with 149.165.148.5 port 5002
+[ 61] local 149.165.146.136 port 38142 connected with 149.165.148.5 port 5002
+[ 62] local 149.165.146.136 port 38143 connected with 149.165.148.5 port 5002
+[ 54] local 149.165.146.136 port 38144 connected with 149.165.148.5 port 5002
+[ 64] local 149.165.146.136 port 38145 connected with 149.165.148.5 port 5002
+[ 65] local 149.165.146.136 port 38146 connected with 149.165.148.5 port 5002
+[ 66] local 149.165.146.136 port 38147 connected with 149.165.148.5 port 5002
+[ 67] local 149.165.146.136 port 38148 connected with 149.165.148.5 port 5002
+[ 63] local 149.165.146.136 port 38149 connected with 149.165.148.5 port 5002
+[ 68] local 149.165.146.136 port 38150 connected with 149.165.148.5 port 5002
+[ 70] local 149.165.146.136 port 38151 connected with 149.165.148.5 port 5002
+[ 69] local 149.165.146.136 port 38152 connected with 149.165.148.5 port 5002
+[ 72] local 149.165.146.136 port 38153 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 38085 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[ 11]  0.0-60.0 sec  66.8 MBytes  9.34 Mbits/sec
+[ 12]  0.0-60.0 sec   332 MBytes  46.5 Mbits/sec
+[ 21]  0.0-60.0 sec  54.2 MBytes  7.58 Mbits/sec
+[ 51]  0.0-60.0 sec   188 MBytes  26.3 Mbits/sec
+[ 70]  0.0-60.0 sec  47.5 MBytes  6.64 Mbits/sec
+[ 40]  0.0-60.0 sec  51.9 MBytes  7.25 Mbits/sec
+[ 43]  0.0-60.0 sec  62.8 MBytes  8.77 Mbits/sec
+[ 67]  0.0-60.0 sec  65.8 MBytes  9.19 Mbits/sec
+[ 72]  0.0-60.0 sec  95.9 MBytes  13.4 Mbits/sec
+[ 15]  0.0-60.1 sec  61.8 MBytes  8.63 Mbits/sec
+[ 28]  0.0-60.1 sec  85.2 MBytes  11.9 Mbits/sec
+[  3]  0.0-60.1 sec  51.9 MBytes  7.25 Mbits/sec
+[ 34]  0.0-60.1 sec   342 MBytes  47.7 Mbits/sec
+[ 55]  0.0-60.1 sec  43.2 MBytes  6.04 Mbits/sec
+[ 49]  0.0-60.1 sec  83.4 MBytes  11.6 Mbits/sec
+[ 62]  0.0-60.1 sec   221 MBytes  30.8 Mbits/sec
+[ 19]  0.0-60.1 sec   345 MBytes  48.1 Mbits/sec
+[ 24]  0.0-60.1 sec  62.6 MBytes  8.74 Mbits/sec
+[  8]  0.0-60.1 sec   150 MBytes  21.0 Mbits/sec
+[ 59]  0.0-60.1 sec   287 MBytes  40.1 Mbits/sec
+[ 48]  0.0-60.1 sec  51.8 MBytes  7.22 Mbits/sec
+[ 22]  0.0-60.1 sec   158 MBytes  22.0 Mbits/sec
+[ 30]  0.0-60.1 sec   441 MBytes  61.5 Mbits/sec
+[ 45]  0.0-60.2 sec  40.9 MBytes  5.70 Mbits/sec
+[ 61]  0.0-60.2 sec   212 MBytes  29.6 Mbits/sec
+[ 36]  0.0-60.2 sec  95.9 MBytes  13.4 Mbits/sec
+[ 66]  0.0-60.2 sec  78.4 MBytes  10.9 Mbits/sec
+[ 69]  0.0-60.2 sec  50.9 MBytes  7.09 Mbits/sec
+[ 47]  0.0-60.2 sec   439 MBytes  61.2 Mbits/sec
+[ 32]  0.0-60.2 sec  55.1 MBytes  7.68 Mbits/sec
+[ 37]  0.0-60.2 sec  28.1 MBytes  3.92 Mbits/sec
+[ 56]  0.0-60.2 sec  44.9 MBytes  6.25 Mbits/sec
+[ 26]  0.0-60.2 sec  67.6 MBytes  9.42 Mbits/sec
+[ 63]  0.0-60.3 sec   134 MBytes  18.6 Mbits/sec
+[ 46]  0.0-60.3 sec  38.2 MBytes  5.32 Mbits/sec
+[ 44]  0.0-60.3 sec   172 MBytes  23.9 Mbits/sec
+[ 13]  0.0-60.3 sec  27.1 MBytes  3.77 Mbits/sec
+[ 31]  0.0-60.3 sec   173 MBytes  24.1 Mbits/sec
+[ 53]  0.0-60.3 sec   189 MBytes  26.3 Mbits/sec
+[ 38]  0.0-60.3 sec   238 MBytes  33.1 Mbits/sec
+[ 39]  0.0-60.3 sec  64.2 MBytes  8.93 Mbits/sec
+[  5]  0.0-60.4 sec  47.5 MBytes  6.60 Mbits/sec
+[ 10]  0.0-60.3 sec  40.6 MBytes  5.65 Mbits/sec
+[ 42]  0.0-60.3 sec  70.9 MBytes  9.85 Mbits/sec
+[  7]  0.0-60.4 sec  61.6 MBytes  8.56 Mbits/sec
+[ 58]  0.0-60.4 sec  69.0 MBytes  9.59 Mbits/sec
+[ 20]  0.0-60.4 sec  73.4 MBytes  10.2 Mbits/sec
+[ 29]  0.0-60.4 sec  39.2 MBytes  5.45 Mbits/sec
+[ 57]  0.0-60.4 sec  46.0 MBytes  6.39 Mbits/sec
+[ 17]  0.0-60.4 sec  57.5 MBytes  7.98 Mbits/sec
+[  4]  0.0-60.5 sec  49.2 MBytes  6.83 Mbits/sec
+[ 23]  0.0-60.5 sec  44.1 MBytes  6.12 Mbits/sec
+[ 41]  0.0-60.5 sec  50.6 MBytes  7.02 Mbits/sec
+[ 52]  0.0-60.7 sec  37.6 MBytes  5.20 Mbits/sec
+[ 50]  0.0-60.7 sec  39.1 MBytes  5.41 Mbits/sec
+[ 60]  0.0-60.7 sec  42.5 MBytes  5.87 Mbits/sec
+[ 65]  0.0-60.7 sec  55.6 MBytes  7.68 Mbits/sec
+[ 25]  0.0-60.7 sec  53.2 MBytes  7.35 Mbits/sec
+[ 68]  0.0-60.8 sec  49.9 MBytes  6.89 Mbits/sec
+[  6]  0.0-60.8 sec  34.9 MBytes  4.81 Mbits/sec
+[ 27]  0.0-60.8 sec   259 MBytes  35.7 Mbits/sec
+[ 71]  0.0-60.8 sec   114 MBytes  15.7 Mbits/sec
+[ 18]  0.0-60.9 sec  54.9 MBytes  7.56 Mbits/sec
+[ 35]  0.0-61.0 sec  38.2 MBytes  5.26 Mbits/sec
+[ 64]  0.0-61.0 sec  53.4 MBytes  7.34 Mbits/sec
+[ 54]  0.0-61.0 sec   124 MBytes  17.1 Mbits/sec
+[ 16]  0.0-61.0 sec  64.8 MBytes  8.90 Mbits/sec
+[  9]  0.0-61.1 sec  33.0 MBytes  4.53 Mbits/sec
+[ 14]  0.0-61.1 sec  35.0 MBytes  4.81 Mbits/sec
+[ 33]  0.0-61.1 sec  26.4 MBytes  3.62 Mbits/sec
+[SUM]  0.0-61.1 sec  7.09 GBytes   997 Mbits/sec
+N = 80
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 81] local 149.165.146.136 port 38275 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 38195 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 38194 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 38196 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 38197 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 38198 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 38199 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 38200 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 38201 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 38202 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 38203 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 38193 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 38204 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 38206 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 38207 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 38208 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 38209 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 38210 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 38211 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 38212 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 38213 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 38214 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 38215 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 38216 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 38217 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 38218 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 38220 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 38221 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 38222 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 38223 connected with 149.165.148.5 port 5002
+[ 33] local 149.165.146.136 port 38224 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 38225 connected with 149.165.148.5 port 5002
+[ 35] local 149.165.146.136 port 38226 connected with 149.165.148.5 port 5002
+[ 34] local 149.165.146.136 port 38227 connected with 149.165.148.5 port 5002
+[ 37] local 149.165.146.136 port 38228 connected with 149.165.148.5 port 5002
+[ 38] local 149.165.146.136 port 38229 connected with 149.165.148.5 port 5002
+[ 39] local 149.165.146.136 port 38231 connected with 149.165.148.5 port 5002
+[ 40] local 149.165.146.136 port 38232 connected with 149.165.148.5 port 5002
+[ 36] local 149.165.146.136 port 38233 connected with 149.165.148.5 port 5002
+[ 41] local 149.165.146.136 port 38234 connected with 149.165.148.5 port 5002
+[ 42] local 149.165.146.136 port 38235 connected with 149.165.148.5 port 5002
+[ 43] local 149.165.146.136 port 38236 connected with 149.165.148.5 port 5002
+[ 44] local 149.165.146.136 port 38237 connected with 149.165.148.5 port 5002
+[ 47] local 149.165.146.136 port 38238 connected with 149.165.148.5 port 5002
+[ 46] local 149.165.146.136 port 38239 connected with 149.165.148.5 port 5002
+[ 48] local 149.165.146.136 port 38240 connected with 149.165.148.5 port 5002
+[ 45] local 149.165.146.136 port 38241 connected with 149.165.148.5 port 5002
+[ 49] local 149.165.146.136 port 38242 connected with 149.165.148.5 port 5002
+[ 50] local 149.165.146.136 port 38243 connected with 149.165.148.5 port 5002
+[ 51] local 149.165.146.136 port 38244 connected with 149.165.148.5 port 5002
+[ 52] local 149.165.146.136 port 38245 connected with 149.165.148.5 port 5002
+[ 53] local 149.165.146.136 port 38246 connected with 149.165.148.5 port 5002
+[ 55] local 149.165.146.136 port 38247 connected with 149.165.148.5 port 5002
+[ 54] local 149.165.146.136 port 38248 connected with 149.165.148.5 port 5002
+[ 56] local 149.165.146.136 port 38249 connected with 149.165.148.5 port 5002
+[ 57] local 149.165.146.136 port 38250 connected with 149.165.148.5 port 5002
+[ 59] local 149.165.146.136 port 38251 connected with 149.165.148.5 port 5002
+[ 58] local 149.165.146.136 port 38252 connected with 149.165.148.5 port 5002
+[ 60] local 149.165.146.136 port 38253 connected with 149.165.148.5 port 5002
+[ 61] local 149.165.146.136 port 38254 connected with 149.165.148.5 port 5002
+[ 63] local 149.165.146.136 port 38255 connected with 149.165.148.5 port 5002
+[ 64] local 149.165.146.136 port 38256 connected with 149.165.148.5 port 5002
+[ 62] local 149.165.146.136 port 38257 connected with 149.165.148.5 port 5002
+[ 66] local 149.165.146.136 port 38258 connected with 149.165.148.5 port 5002
+[ 65] local 149.165.146.136 port 38259 connected with 149.165.148.5 port 5002
+[ 67] local 149.165.146.136 port 38260 connected with 149.165.148.5 port 5002
+[ 68] local 149.165.146.136 port 38261 connected with 149.165.148.5 port 5002
+[ 69] local 149.165.146.136 port 38262 connected with 149.165.148.5 port 5002
+[ 71] local 149.165.146.136 port 38263 connected with 149.165.148.5 port 5002
+[ 72] local 149.165.146.136 port 38264 connected with 149.165.148.5 port 5002
+[ 73] local 149.165.146.136 port 38265 connected with 149.165.148.5 port 5002
+[ 74] local 149.165.146.136 port 38266 connected with 149.165.148.5 port 5002
+[ 70] local 149.165.146.136 port 38267 connected with 149.165.148.5 port 5002
+[ 76] local 149.165.146.136 port 38268 connected with 149.165.148.5 port 5002
+[ 77] local 149.165.146.136 port 38269 connected with 149.165.148.5 port 5002
+[ 78] local 149.165.146.136 port 38270 connected with 149.165.148.5 port 5002
+[ 75] local 149.165.146.136 port 38271 connected with 149.165.148.5 port 5002
+[ 80] local 149.165.146.136 port 38272 connected with 149.165.148.5 port 5002
+[ 79] local 149.165.146.136 port 38273 connected with 149.165.148.5 port 5002
+[ 82] local 149.165.146.136 port 38274 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  80.9 MBytes  11.3 Mbits/sec
+[ 25]  0.0-60.0 sec  92.6 MBytes  13.0 Mbits/sec
+[ 33]  0.0-60.0 sec  52.2 MBytes  7.31 Mbits/sec
+[ 18]  0.0-60.0 sec  57.5 MBytes  8.04 Mbits/sec
+[ 79]  0.0-60.0 sec  96.8 MBytes  13.5 Mbits/sec
+[ 75]  0.0-60.0 sec   140 MBytes  19.6 Mbits/sec
+[ 64]  0.0-60.0 sec   218 MBytes  30.5 Mbits/sec
+[ 55]  0.0-60.1 sec  68.4 MBytes  9.55 Mbits/sec
+[ 77]  0.0-60.0 sec  68.1 MBytes  9.52 Mbits/sec
+[ 49]  0.0-60.1 sec   128 MBytes  17.9 Mbits/sec
+[ 12]  0.0-60.1 sec   107 MBytes  15.0 Mbits/sec
+[ 10]  0.0-60.1 sec  54.1 MBytes  7.56 Mbits/sec
+[ 62]  0.0-60.1 sec   138 MBytes  19.2 Mbits/sec
+[ 19]  0.0-60.1 sec  96.2 MBytes  13.4 Mbits/sec
+[ 78]  0.0-60.1 sec  79.8 MBytes  11.1 Mbits/sec
+[ 22]  0.0-60.2 sec  76.0 MBytes  10.6 Mbits/sec
+[ 38]  0.0-60.2 sec  91.9 MBytes  12.8 Mbits/sec
+[ 51]  0.0-60.2 sec   140 MBytes  19.5 Mbits/sec
+[ 36]  0.0-60.2 sec  86.9 MBytes  12.1 Mbits/sec
+[ 71]  0.0-60.2 sec  77.8 MBytes  10.8 Mbits/sec
+[ 14]  0.0-60.2 sec   119 MBytes  16.5 Mbits/sec
+[ 56]  0.0-60.2 sec  70.1 MBytes  9.78 Mbits/sec
+[ 52]  0.0-60.2 sec   123 MBytes  17.1 Mbits/sec
+[ 20]  0.0-60.2 sec  76.0 MBytes  10.6 Mbits/sec
+[ 45]  0.0-60.2 sec   148 MBytes  20.6 Mbits/sec
+[ 67]  0.0-60.2 sec   142 MBytes  19.8 Mbits/sec
+[ 73]  0.0-60.2 sec   156 MBytes  21.7 Mbits/sec
+[ 66]  0.0-60.2 sec   245 MBytes  34.2 Mbits/sec
+[ 24]  0.0-60.2 sec  59.4 MBytes  8.27 Mbits/sec
+[ 81]  0.0-60.2 sec  58.4 MBytes  8.13 Mbits/sec
+[ 34]  0.0-60.3 sec   107 MBytes  14.9 Mbits/sec
+[  9]  0.0-60.3 sec  97.0 MBytes  13.5 Mbits/sec
+[ 31]  0.0-60.3 sec  57.4 MBytes  7.98 Mbits/sec
+[  7]  0.0-60.3 sec  76.9 MBytes  10.7 Mbits/sec
+[ 17]  0.0-60.3 sec  76.8 MBytes  10.7 Mbits/sec
+[ 68]  0.0-60.3 sec  99.9 MBytes  13.9 Mbits/sec
+[ 39]  0.0-60.3 sec  92.5 MBytes  12.9 Mbits/sec
+[ 42]  0.0-60.3 sec  79.2 MBytes  11.0 Mbits/sec
+[ 30]  0.0-60.3 sec  54.9 MBytes  7.63 Mbits/sec
+[ 48]  0.0-60.3 sec  73.6 MBytes  10.2 Mbits/sec
+[  4]  0.0-60.4 sec  55.0 MBytes  7.64 Mbits/sec
+[ 54]  0.0-60.4 sec  63.4 MBytes  8.81 Mbits/sec
+[ 47]  0.0-60.4 sec  79.5 MBytes  11.0 Mbits/sec
+[ 58]  0.0-60.4 sec  99.9 MBytes  13.9 Mbits/sec
+[ 26]  0.0-60.4 sec  56.0 MBytes  7.78 Mbits/sec
+[ 72]  0.0-60.4 sec  79.1 MBytes  11.0 Mbits/sec
+[ 29]  0.0-60.4 sec  88.2 MBytes  12.2 Mbits/sec
+[ 82]  0.0-60.4 sec  68.5 MBytes  9.51 Mbits/sec
+[ 28]  0.0-60.4 sec  64.4 MBytes  8.94 Mbits/sec
+[ 69]  0.0-60.4 sec   136 MBytes  18.9 Mbits/sec
+[ 57]  0.0-60.5 sec  57.6 MBytes  8.00 Mbits/sec
+[  6]  0.0-60.5 sec  75.2 MBytes  10.4 Mbits/sec
+[ 11]  0.0-60.5 sec  49.9 MBytes  6.92 Mbits/sec
+[ 27]  0.0-60.5 sec  57.6 MBytes  7.99 Mbits/sec
+[ 41]  0.0-60.5 sec  71.0 MBytes  9.84 Mbits/sec
+[ 35]  0.0-60.6 sec  62.9 MBytes  8.70 Mbits/sec
+[ 59]  0.0-60.6 sec  57.5 MBytes  7.96 Mbits/sec
+[ 43]  0.0-60.6 sec  64.1 MBytes  8.88 Mbits/sec
+[ 13]  0.0-60.6 sec  54.2 MBytes  7.51 Mbits/sec
+[ 15]  0.0-60.6 sec  60.0 MBytes  8.30 Mbits/sec
+[ 76]  0.0-60.6 sec  66.8 MBytes  9.24 Mbits/sec
+[  5]  0.0-60.6 sec  72.6 MBytes  10.0 Mbits/sec
+[ 16]  0.0-60.7 sec   367 MBytes  50.8 Mbits/sec
+[ 40]  0.0-60.7 sec   123 MBytes  17.0 Mbits/sec
+[ 60]  0.0-60.7 sec  70.1 MBytes  9.70 Mbits/sec
+[ 61]  0.0-60.7 sec  56.6 MBytes  7.83 Mbits/sec
+[ 44]  0.0-60.7 sec  49.2 MBytes  6.81 Mbits/sec
+[ 80]  0.0-60.7 sec  65.0 MBytes  8.98 Mbits/sec
+[ 37]  0.0-60.8 sec  60.6 MBytes  8.37 Mbits/sec
+[ 74]  0.0-60.8 sec  71.6 MBytes  9.88 Mbits/sec
+[ 63]  0.0-60.8 sec   110 MBytes  15.2 Mbits/sec
+[  8]  0.0-60.8 sec  60.0 MBytes  8.27 Mbits/sec
+[ 23]  0.0-60.9 sec  57.2 MBytes  7.89 Mbits/sec
+[ 53]  0.0-60.9 sec  54.4 MBytes  7.49 Mbits/sec
+[ 46]  0.0-61.3 sec  79.2 MBytes  10.8 Mbits/sec
+[ 65]  0.0-61.3 sec   259 MBytes  35.4 Mbits/sec
+[ 70]  0.0-61.4 sec  59.6 MBytes  8.15 Mbits/sec
+[ 32]  0.0-61.4 sec  86.8 MBytes  11.8 Mbits/sec
+[ 50]  0.0-61.4 sec  98.6 MBytes  13.5 Mbits/sec
+[ 21]  0.0-61.5 sec  48.2 MBytes  6.58 Mbits/sec
+[SUM]  0.0-61.5 sec  7.11 GBytes   993 Mbits/sec
+N = 90
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 91] local 149.165.146.136 port 38410 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 38323 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 38322 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 38324 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 38325 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 38326 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 38327 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 38328 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 38329 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 38330 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 38331 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 38332 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 38333 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 38334 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 38335 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 38336 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 38337 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 38338 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 38339 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 38340 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 38341 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 38342 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 38343 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 38344 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 38345 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 38346 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 38347 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 38348 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 38349 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 38350 connected with 149.165.148.5 port 5002
+[ 33] local 149.165.146.136 port 38351 connected with 149.165.148.5 port 5002
+[ 35] local 149.165.146.136 port 38352 connected with 149.165.148.5 port 5002
+[ 36] local 149.165.146.136 port 38353 connected with 149.165.148.5 port 5002
+[ 34] local 149.165.146.136 port 38354 connected with 149.165.148.5 port 5002
+[ 38] local 149.165.146.136 port 38355 connected with 149.165.148.5 port 5002
+[ 39] local 149.165.146.136 port 38356 connected with 149.165.148.5 port 5002
+[ 40] local 149.165.146.136 port 38357 connected with 149.165.148.5 port 5002
+[ 41] local 149.165.146.136 port 38358 connected with 149.165.148.5 port 5002
+[ 42] local 149.165.146.136 port 38359 connected with 149.165.148.5 port 5002
+[ 37] local 149.165.146.136 port 38360 connected with 149.165.148.5 port 5002
+[ 43] local 149.165.146.136 port 38361 connected with 149.165.148.5 port 5002
+[ 44] local 149.165.146.136 port 38362 connected with 149.165.148.5 port 5002
+[ 46] local 149.165.146.136 port 38363 connected with 149.165.148.5 port 5002
+[ 47] local 149.165.146.136 port 38364 connected with 149.165.148.5 port 5002
+[ 45] local 149.165.146.136 port 38365 connected with 149.165.148.5 port 5002
+[ 49] local 149.165.146.136 port 38366 connected with 149.165.148.5 port 5002
+[ 50] local 149.165.146.136 port 38367 connected with 149.165.148.5 port 5002
+[ 51] local 149.165.146.136 port 38368 connected with 149.165.148.5 port 5002
+[ 48] local 149.165.146.136 port 38369 connected with 149.165.148.5 port 5002
+[ 53] local 149.165.146.136 port 38370 connected with 149.165.148.5 port 5002
+[ 54] local 149.165.146.136 port 38371 connected with 149.165.148.5 port 5002
+[ 55] local 149.165.146.136 port 38372 connected with 149.165.148.5 port 5002
+[ 52] local 149.165.146.136 port 38373 connected with 149.165.148.5 port 5002
+[ 56] local 149.165.146.136 port 38374 connected with 149.165.148.5 port 5002
+[ 58] local 149.165.146.136 port 38375 connected with 149.165.148.5 port 5002
+[ 59] local 149.165.146.136 port 38376 connected with 149.165.148.5 port 5002
+[ 60] local 149.165.146.136 port 38377 connected with 149.165.148.5 port 5002
+[ 61] local 149.165.146.136 port 38378 connected with 149.165.148.5 port 5002
+[ 62] local 149.165.146.136 port 38379 connected with 149.165.148.5 port 5002
+[ 63] local 149.165.146.136 port 38380 connected with 149.165.148.5 port 5002
+[ 64] local 149.165.146.136 port 38381 connected with 149.165.148.5 port 5002
+[ 57] local 149.165.146.136 port 38382 connected with 149.165.148.5 port 5002
+[ 66] local 149.165.146.136 port 38383 connected with 149.165.148.5 port 5002
+[ 65] local 149.165.146.136 port 38384 connected with 149.165.148.5 port 5002
+[ 67] local 149.165.146.136 port 38385 connected with 149.165.148.5 port 5002
+[ 68] local 149.165.146.136 port 38386 connected with 149.165.148.5 port 5002
+[ 70] local 149.165.146.136 port 38387 connected with 149.165.148.5 port 5002
+[ 71] local 149.165.146.136 port 38388 connected with 149.165.148.5 port 5002
+[ 72] local 149.165.146.136 port 38389 connected with 149.165.148.5 port 5002
+[ 73] local 149.165.146.136 port 38390 connected with 149.165.148.5 port 5002
+[ 74] local 149.165.146.136 port 38391 connected with 149.165.148.5 port 5002
+[ 69] local 149.165.146.136 port 38392 connected with 149.165.148.5 port 5002
+[ 76] local 149.165.146.136 port 38393 connected with 149.165.148.5 port 5002
+[ 75] local 149.165.146.136 port 38394 connected with 149.165.148.5 port 5002
+[ 78] local 149.165.146.136 port 38395 connected with 149.165.148.5 port 5002
+[ 79] local 149.165.146.136 port 38396 connected with 149.165.148.5 port 5002
+[ 77] local 149.165.146.136 port 38397 connected with 149.165.148.5 port 5002
+[ 81] local 149.165.146.136 port 38398 connected with 149.165.148.5 port 5002
+[ 82] local 149.165.146.136 port 38399 connected with 149.165.148.5 port 5002
+[ 83] local 149.165.146.136 port 38400 connected with 149.165.148.5 port 5002
+[ 84] local 149.165.146.136 port 38401 connected with 149.165.148.5 port 5002
+[ 85] local 149.165.146.136 port 38402 connected with 149.165.148.5 port 5002
+[ 86] local 149.165.146.136 port 38403 connected with 149.165.148.5 port 5002
+[ 87] local 149.165.146.136 port 38404 connected with 149.165.148.5 port 5002
+[ 88] local 149.165.146.136 port 38405 connected with 149.165.148.5 port 5002
+[ 89] local 149.165.146.136 port 38406 connected with 149.165.148.5 port 5002
+[ 90] local 149.165.146.136 port 38407 connected with 149.165.148.5 port 5002
+[ 80] local 149.165.146.136 port 38408 connected with 149.165.148.5 port 5002
+[ 92] local 149.165.146.136 port 38409 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 38321 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-60.0 sec   141 MBytes  19.8 Mbits/sec
+[ 22]  0.0-60.0 sec  68.2 MBytes  9.55 Mbits/sec
+[ 50]  0.0-60.0 sec  94.2 MBytes  13.2 Mbits/sec
+[ 45]  0.0-60.0 sec  90.6 MBytes  12.7 Mbits/sec
+[ 72]  0.0-60.0 sec  22.2 MBytes  3.11 Mbits/sec
+[ 84]  0.0-60.0 sec  77.1 MBytes  10.8 Mbits/sec
+[ 32]  0.0-60.0 sec  49.0 MBytes  6.85 Mbits/sec
+[ 16]  0.0-60.1 sec  49.8 MBytes  6.95 Mbits/sec
+[ 78]  0.0-60.1 sec  34.0 MBytes  4.75 Mbits/sec
+[ 87]  0.0-60.1 sec  37.6 MBytes  5.25 Mbits/sec
+[ 70]  0.0-60.1 sec  33.8 MBytes  4.71 Mbits/sec
+[ 65]  0.0-60.1 sec   128 MBytes  17.9 Mbits/sec
+[ 74]  0.0-60.1 sec   128 MBytes  17.9 Mbits/sec
+[ 33]  0.0-60.1 sec   189 MBytes  26.4 Mbits/sec
+[ 26]  0.0-60.1 sec   116 MBytes  16.2 Mbits/sec
+[ 46]  0.0-60.1 sec  41.6 MBytes  5.81 Mbits/sec
+[ 52]  0.0-60.1 sec   162 MBytes  22.5 Mbits/sec
+[ 20]  0.0-60.1 sec  62.6 MBytes  8.73 Mbits/sec
+[ 38]  0.0-60.2 sec  94.9 MBytes  13.2 Mbits/sec
+[ 90]  0.0-60.2 sec  73.1 MBytes  10.2 Mbits/sec
+[ 15]  0.0-60.2 sec  82.5 MBytes  11.5 Mbits/sec
+[ 73]  0.0-60.2 sec   176 MBytes  24.5 Mbits/sec
+[  4]  0.0-60.2 sec  62.8 MBytes  8.74 Mbits/sec
+[ 42]  0.0-60.2 sec  32.2 MBytes  4.49 Mbits/sec
+[ 92]  0.0-60.2 sec  45.4 MBytes  6.32 Mbits/sec
+[ 37]  0.0-60.2 sec   154 MBytes  21.5 Mbits/sec
+[ 47]  0.0-60.2 sec   197 MBytes  27.5 Mbits/sec
+[ 69]  0.0-60.2 sec   173 MBytes  24.1 Mbits/sec
+[ 53]  0.0-60.2 sec  92.1 MBytes  12.8 Mbits/sec
+[ 80]  0.0-60.2 sec   123 MBytes  17.2 Mbits/sec
+[ 67]  0.0-60.2 sec   133 MBytes  18.6 Mbits/sec
+[ 30]  0.0-60.3 sec  63.1 MBytes  8.78 Mbits/sec
+[ 48]  0.0-60.3 sec  24.0 MBytes  3.34 Mbits/sec
+[ 68]  0.0-60.3 sec   143 MBytes  19.9 Mbits/sec
+[ 79]  0.0-60.3 sec   110 MBytes  15.2 Mbits/sec
+[ 29]  0.0-60.3 sec  55.1 MBytes  7.67 Mbits/sec
+[ 41]  0.0-60.3 sec  77.5 MBytes  10.8 Mbits/sec
+[ 58]  0.0-60.3 sec  88.2 MBytes  12.3 Mbits/sec
+[ 88]  0.0-60.3 sec  47.0 MBytes  6.54 Mbits/sec
+[ 49]  0.0-60.3 sec  39.1 MBytes  5.44 Mbits/sec
+[ 77]  0.0-60.4 sec  23.2 MBytes  3.23 Mbits/sec
+[ 81]  0.0-60.4 sec  98.2 MBytes  13.7 Mbits/sec
+[ 44]  0.0-60.4 sec   113 MBytes  15.6 Mbits/sec
+[ 14]  0.0-60.4 sec  45.6 MBytes  6.33 Mbits/sec
+[ 25]  0.0-60.4 sec   114 MBytes  15.8 Mbits/sec
+[ 51]  0.0-60.4 sec   120 MBytes  16.6 Mbits/sec
+[ 66]  0.0-60.5 sec   138 MBytes  19.2 Mbits/sec
+[ 61]  0.0-60.5 sec   146 MBytes  20.3 Mbits/sec
+[ 43]  0.0-60.5 sec   112 MBytes  15.5 Mbits/sec
+[ 55]  0.0-60.5 sec   131 MBytes  18.1 Mbits/sec
+[ 11]  0.0-60.5 sec  42.4 MBytes  5.87 Mbits/sec
+[ 57]  0.0-60.6 sec  53.5 MBytes  7.41 Mbits/sec
+[  9]  0.0-60.6 sec  52.6 MBytes  7.29 Mbits/sec
+[ 10]  0.0-60.6 sec  36.2 MBytes  5.02 Mbits/sec
+[ 76]  0.0-60.6 sec   100 MBytes  13.9 Mbits/sec
+[ 63]  0.0-60.6 sec  61.8 MBytes  8.54 Mbits/sec
+[ 17]  0.0-60.7 sec  31.2 MBytes  4.32 Mbits/sec
+[ 12]  0.0-60.7 sec  59.5 MBytes  8.22 Mbits/sec
+[ 54]  0.0-60.7 sec   140 MBytes  19.4 Mbits/sec
+[ 36]  0.0-60.7 sec   186 MBytes  25.7 Mbits/sec
+[  6]  0.0-60.7 sec  28.9 MBytes  3.99 Mbits/sec
+[ 13]  0.0-60.7 sec  72.6 MBytes  10.0 Mbits/sec
+[ 82]  0.0-60.8 sec  57.6 MBytes  7.95 Mbits/sec
+[ 71]  0.0-60.8 sec  69.6 MBytes  9.60 Mbits/sec
+[ 24]  0.0-60.9 sec  31.5 MBytes  4.34 Mbits/sec
+[ 27]  0.0-60.9 sec  68.0 MBytes  9.37 Mbits/sec
+[  3]  0.0-60.9 sec  62.4 MBytes  8.59 Mbits/sec
+[ 62]  0.0-61.0 sec   102 MBytes  14.0 Mbits/sec
+[ 85]  0.0-61.0 sec  91.9 MBytes  12.6 Mbits/sec
+[ 89]  0.0-61.0 sec   110 MBytes  15.2 Mbits/sec
+[ 86]  0.0-61.0 sec  32.1 MBytes  4.42 Mbits/sec
+[ 75]  0.0-61.0 sec  38.8 MBytes  5.33 Mbits/sec
+[ 23]  0.0-61.1 sec  92.8 MBytes  12.7 Mbits/sec
+[ 35]  0.0-61.2 sec  92.1 MBytes  12.6 Mbits/sec
+[ 39]  0.0-61.2 sec   163 MBytes  22.3 Mbits/sec
+[  5]  0.0-61.2 sec  34.4 MBytes  4.71 Mbits/sec
+[ 18]  0.0-61.2 sec  25.5 MBytes  3.50 Mbits/sec
+[ 60]  0.0-61.2 sec  32.8 MBytes  4.49 Mbits/sec
+[ 34]  0.0-61.2 sec  28.6 MBytes  3.92 Mbits/sec
+[ 21]  0.0-61.2 sec   140 MBytes  19.2 Mbits/sec
+[ 91]  0.0-61.2 sec  36.5 MBytes  5.00 Mbits/sec
+[ 19]  0.0-61.3 sec  37.5 MBytes  5.13 Mbits/sec
+[ 28]  0.0-61.3 sec  60.9 MBytes  8.34 Mbits/sec
+[ 59]  0.0-61.3 sec  53.2 MBytes  7.28 Mbits/sec
+[ 40]  0.0-61.3 sec  92.6 MBytes  12.7 Mbits/sec
+[ 56]  0.0-61.4 sec  25.5 MBytes  3.48 Mbits/sec
+[ 64]  0.0-61.5 sec   121 MBytes  16.5 Mbits/sec
+[  8]  0.0-61.5 sec  63.5 MBytes  8.66 Mbits/sec
+[ 83]  0.0-61.6 sec  29.8 MBytes  4.05 Mbits/sec
+[ 31]  0.0-61.7 sec  22.2 MBytes  3.03 Mbits/sec
+[SUM]  0.0-61.7 sec  7.16 GBytes   998 Mbits/sec
+N = 100
+------------------------------------------------------------
+Client connecting to login2.uc.futuregrid.org, TCP port 5002
+TCP window size: 27.7 KByte (default)
+------------------------------------------------------------
+[ 97] local 149.165.146.136 port 38523 connected with 149.165.148.5 port 5002
+[  5] local 149.165.146.136 port 38426 connected with 149.165.148.5 port 5002
+[  3] local 149.165.146.136 port 38425 connected with 149.165.148.5 port 5002
+[  6] local 149.165.146.136 port 38427 connected with 149.165.148.5 port 5002
+[  7] local 149.165.146.136 port 38428 connected with 149.165.148.5 port 5002
+[  8] local 149.165.146.136 port 38429 connected with 149.165.148.5 port 5002
+[  9] local 149.165.146.136 port 38430 connected with 149.165.148.5 port 5002
+[ 10] local 149.165.146.136 port 38431 connected with 149.165.148.5 port 5002
+[ 12] local 149.165.146.136 port 38432 connected with 149.165.148.5 port 5002
+[ 13] local 149.165.146.136 port 38433 connected with 149.165.148.5 port 5002
+[ 11] local 149.165.146.136 port 38434 connected with 149.165.148.5 port 5002
+[ 14] local 149.165.146.136 port 38435 connected with 149.165.148.5 port 5002
+[ 16] local 149.165.146.136 port 38436 connected with 149.165.148.5 port 5002
+[ 18] local 149.165.146.136 port 38437 connected with 149.165.148.5 port 5002
+[ 15] local 149.165.146.136 port 38438 connected with 149.165.148.5 port 5002
+[ 17] local 149.165.146.136 port 38439 connected with 149.165.148.5 port 5002
+[ 20] local 149.165.146.136 port 38440 connected with 149.165.148.5 port 5002
+[ 19] local 149.165.146.136 port 38441 connected with 149.165.148.5 port 5002
+[ 22] local 149.165.146.136 port 38442 connected with 149.165.148.5 port 5002
+[ 23] local 149.165.146.136 port 38443 connected with 149.165.148.5 port 5002
+[ 21] local 149.165.146.136 port 38444 connected with 149.165.148.5 port 5002
+[ 28] local 149.165.146.136 port 38445 connected with 149.165.148.5 port 5002
+[ 25] local 149.165.146.136 port 38446 connected with 149.165.148.5 port 5002
+[ 24] local 149.165.146.136 port 38447 connected with 149.165.148.5 port 5002
+[ 26] local 149.165.146.136 port 38448 connected with 149.165.148.5 port 5002
+[ 32] local 149.165.146.136 port 38449 connected with 149.165.148.5 port 5002
+[ 27] local 149.165.146.136 port 38450 connected with 149.165.148.5 port 5002
+[ 30] local 149.165.146.136 port 38451 connected with 149.165.148.5 port 5002
+[ 29] local 149.165.146.136 port 38452 connected with 149.165.148.5 port 5002
+[ 31] local 149.165.146.136 port 38453 connected with 149.165.148.5 port 5002
+[ 35] local 149.165.146.136 port 38454 connected with 149.165.148.5 port 5002
+[ 34] local 149.165.146.136 port 38455 connected with 149.165.148.5 port 5002
+[ 38] local 149.165.146.136 port 38456 connected with 149.165.148.5 port 5002
+[ 33] local 149.165.146.136 port 38457 connected with 149.165.148.5 port 5002
+[ 36] local 149.165.146.136 port 38458 connected with 149.165.148.5 port 5002
+[ 39] local 149.165.146.136 port 38459 connected with 149.165.148.5 port 5002
+[ 40] local 149.165.146.136 port 38460 connected with 149.165.148.5 port 5002
+[ 37] local 149.165.146.136 port 38461 connected with 149.165.148.5 port 5002
+[ 41] local 149.165.146.136 port 38462 connected with 149.165.148.5 port 5002
+[ 43] local 149.165.146.136 port 38463 connected with 149.165.148.5 port 5002
+[ 44] local 149.165.146.136 port 38464 connected with 149.165.148.5 port 5002
+[ 45] local 149.165.146.136 port 38465 connected with 149.165.148.5 port 5002
+[ 46] local 149.165.146.136 port 38466 connected with 149.165.148.5 port 5002
+[ 47] local 149.165.146.136 port 38467 connected with 149.165.148.5 port 5002
+[ 48] local 149.165.146.136 port 38468 connected with 149.165.148.5 port 5002
+[ 49] local 149.165.146.136 port 38469 connected with 149.165.148.5 port 5002
+[ 50] local 149.165.146.136 port 38470 connected with 149.165.148.5 port 5002
+[ 42] local 149.165.146.136 port 38471 connected with 149.165.148.5 port 5002
+[ 52] local 149.165.146.136 port 38472 connected with 149.165.148.5 port 5002
+[ 53] local 149.165.146.136 port 38473 connected with 149.165.148.5 port 5002
+[ 51] local 149.165.146.136 port 38474 connected with 149.165.148.5 port 5002
+[ 55] local 149.165.146.136 port 38475 connected with 149.165.148.5 port 5002
+[ 57] local 149.165.146.136 port 38476 connected with 149.165.148.5 port 5002
+[ 56] local 149.165.146.136 port 38477 connected with 149.165.148.5 port 5002
+[ 58] local 149.165.146.136 port 38478 connected with 149.165.148.5 port 5002
+[ 54] local 149.165.146.136 port 38479 connected with 149.165.148.5 port 5002
+[ 60] local 149.165.146.136 port 38480 connected with 149.165.148.5 port 5002
+[ 59] local 149.165.146.136 port 38481 connected with 149.165.148.5 port 5002
+[ 62] local 149.165.146.136 port 38482 connected with 149.165.148.5 port 5002
+[ 63] local 149.165.146.136 port 38483 connected with 149.165.148.5 port 5002
+[ 64] local 149.165.146.136 port 38484 connected with 149.165.148.5 port 5002
+[ 61] local 149.165.146.136 port 38485 connected with 149.165.148.5 port 5002
+[ 65] local 149.165.146.136 port 38486 connected with 149.165.148.5 port 5002
+[ 66] local 149.165.146.136 port 38487 connected with 149.165.148.5 port 5002
+[ 67] local 149.165.146.136 port 38488 connected with 149.165.148.5 port 5002
+[ 69] local 149.165.146.136 port 38489 connected with 149.165.148.5 port 5002
+[ 70] local 149.165.146.136 port 38490 connected with 149.165.148.5 port 5002
+[ 71] local 149.165.146.136 port 38491 connected with 149.165.148.5 port 5002
+[ 68] local 149.165.146.136 port 38492 connected with 149.165.148.5 port 5002
+[ 72] local 149.165.146.136 port 38493 connected with 149.165.148.5 port 5002
+[ 74] local 149.165.146.136 port 38494 connected with 149.165.148.5 port 5002
+[ 75] local 149.165.146.136 port 38495 connected with 149.165.148.5 port 5002
+[ 76] local 149.165.146.136 port 38496 connected with 149.165.148.5 port 5002
+[ 77] local 149.165.146.136 port 38497 connected with 149.165.148.5 port 5002
+[ 78] local 149.165.146.136 port 38498 connected with 149.165.148.5 port 5002
+[ 73] local 149.165.146.136 port 38499 connected with 149.165.148.5 port 5002
+[ 80] local 149.165.146.136 port 38500 connected with 149.165.148.5 port 5002
+[ 81] local 149.165.146.136 port 38501 connected with 149.165.148.5 port 5002
+[ 82] local 149.165.146.136 port 38502 connected with 149.165.148.5 port 5002
+[ 79] local 149.165.146.136 port 38503 connected with 149.165.148.5 port 5002
+[ 83] local 149.165.146.136 port 38504 connected with 149.165.148.5 port 5002
+[ 84] local 149.165.146.136 port 38505 connected with 149.165.148.5 port 5002
+[ 85] local 149.165.146.136 port 38506 connected with 149.165.148.5 port 5002
+[ 86] local 149.165.146.136 port 38507 connected with 149.165.148.5 port 5002
+[ 88] local 149.165.146.136 port 38508 connected with 149.165.148.5 port 5002
+[ 89] local 149.165.146.136 port 38509 connected with 149.165.148.5 port 5002
+[ 87] local 149.165.146.136 port 38510 connected with 149.165.148.5 port 5002
+[ 91] local 149.165.146.136 port 38511 connected with 149.165.148.5 port 5002
+[ 90] local 149.165.146.136 port 38512 connected with 149.165.148.5 port 5002
+[ 92] local 149.165.146.136 port 38513 connected with 149.165.148.5 port 5002
+[ 93] local 149.165.146.136 port 38514 connected with 149.165.148.5 port 5002
+[ 95] local 149.165.146.136 port 38515 connected with 149.165.148.5 port 5002
+[ 94] local 149.165.146.136 port 38516 connected with 149.165.148.5 port 5002
+[ 96] local 149.165.146.136 port 38517 connected with 149.165.148.5 port 5002
+[ 98] local 149.165.146.136 port 38518 connected with 149.165.148.5 port 5002
+[ 99] local 149.165.146.136 port 38519 connected with 149.165.148.5 port 5002
+[100] local 149.165.146.136 port 38520 connected with 149.165.148.5 port 5002
+[101] local 149.165.146.136 port 38521 connected with 149.165.148.5 port 5002
+[102] local 149.165.146.136 port 38522 connected with 149.165.148.5 port 5002
+[  4] local 149.165.146.136 port 38424 connected with 149.165.148.5 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[ 32]  0.0-60.0 sec  38.4 MBytes  5.37 Mbits/sec
+[  7]  0.0-60.0 sec  46.0 MBytes  6.43 Mbits/sec
+[ 45]  0.0-60.0 sec  87.1 MBytes  12.2 Mbits/sec
+[ 62]  0.0-60.0 sec   271 MBytes  37.9 Mbits/sec
+[100]  0.0-60.0 sec   151 MBytes  21.1 Mbits/sec
+[ 87]  0.0-60.0 sec  38.4 MBytes  5.36 Mbits/sec
+[ 44]  0.0-60.0 sec   305 MBytes  42.7 Mbits/sec
+[ 31]  0.0-60.0 sec  36.6 MBytes  5.12 Mbits/sec
+[ 79]  0.0-60.0 sec  31.8 MBytes  4.44 Mbits/sec
+[ 85]  0.0-60.1 sec   210 MBytes  29.4 Mbits/sec
+[ 56]  0.0-60.1 sec  40.0 MBytes  5.58 Mbits/sec
+[ 97]  0.0-60.1 sec   117 MBytes  16.3 Mbits/sec
+[ 48]  0.0-60.1 sec  38.1 MBytes  5.32 Mbits/sec
+[ 14]  0.0-60.2 sec  48.0 MBytes  6.69 Mbits/sec
+[ 38]  0.0-60.2 sec  47.4 MBytes  6.61 Mbits/sec
+[ 50]  0.0-60.2 sec  93.6 MBytes  13.1 Mbits/sec
+[ 66]  0.0-60.2 sec   152 MBytes  21.2 Mbits/sec
+[ 42]  0.0-60.2 sec  89.2 MBytes  12.4 Mbits/sec
+[ 22]  0.0-60.2 sec  35.1 MBytes  4.90 Mbits/sec
+[ 55]  0.0-60.2 sec   128 MBytes  17.9 Mbits/sec
+[ 71]  0.0-60.2 sec  48.4 MBytes  6.74 Mbits/sec
+[ 77]  0.0-60.2 sec  35.8 MBytes  4.98 Mbits/sec
+[ 78]  0.0-60.2 sec  32.5 MBytes  4.53 Mbits/sec
+[ 17]  0.0-60.2 sec   118 MBytes  16.5 Mbits/sec
+[ 59]  0.0-60.2 sec   290 MBytes  40.4 Mbits/sec
+[ 23]  0.0-60.2 sec  50.6 MBytes  7.05 Mbits/sec
+[  4]  0.0-60.2 sec  36.8 MBytes  5.12 Mbits/sec
+[  6]  0.0-60.2 sec  38.2 MBytes  5.33 Mbits/sec
+[  5]  0.0-60.2 sec  41.6 MBytes  5.80 Mbits/sec
+[ 20]  0.0-60.3 sec  36.6 MBytes  5.10 Mbits/sec
+[ 82]  0.0-60.3 sec  56.8 MBytes  7.90 Mbits/sec
+[ 93]  0.0-60.3 sec  49.9 MBytes  6.94 Mbits/sec
+[ 33]  0.0-60.3 sec  95.2 MBytes  13.3 Mbits/sec
+[ 69]  0.0-60.3 sec  60.8 MBytes  8.45 Mbits/sec
+[ 60]  0.0-60.3 sec   191 MBytes  26.6 Mbits/sec
+[ 75]  0.0-60.3 sec  35.8 MBytes  4.97 Mbits/sec
+[ 54]  0.0-60.3 sec   132 MBytes  18.3 Mbits/sec
+[  8]  0.0-60.4 sec  42.6 MBytes  5.92 Mbits/sec
+[ 57]  0.0-60.4 sec  38.2 MBytes  5.31 Mbits/sec
+[ 51]  0.0-60.4 sec  32.5 MBytes  4.51 Mbits/sec
+[ 61]  0.0-60.4 sec  29.0 MBytes  4.03 Mbits/sec
+[ 26]  0.0-60.4 sec  39.1 MBytes  5.43 Mbits/sec
+[ 84]  0.0-60.4 sec  35.0 MBytes  4.86 Mbits/sec
+[ 11]  0.0-60.4 sec  41.5 MBytes  5.76 Mbits/sec
+[ 83]  0.0-60.5 sec  41.8 MBytes  5.79 Mbits/sec
+[ 12]  0.0-60.5 sec  47.5 MBytes  6.59 Mbits/sec
+[ 41]  0.0-60.5 sec   237 MBytes  32.8 Mbits/sec
+[ 30]  0.0-60.5 sec  70.9 MBytes  9.83 Mbits/sec
+[ 49]  0.0-60.5 sec  35.8 MBytes  4.96 Mbits/sec
+[ 91]  0.0-60.5 sec  41.6 MBytes  5.77 Mbits/sec
+[ 13]  0.0-60.5 sec  43.2 MBytes  6.00 Mbits/sec
+[ 37]  0.0-60.5 sec  75.1 MBytes  10.4 Mbits/sec
+[ 64]  0.0-60.5 sec  55.9 MBytes  7.74 Mbits/sec
+[ 95]  0.0-60.5 sec  45.8 MBytes  6.34 Mbits/sec
+[ 16]  0.0-60.5 sec  30.8 MBytes  4.26 Mbits/sec
+[ 70]  0.0-60.6 sec  42.5 MBytes  5.88 Mbits/sec
+[ 90]  0.0-60.6 sec  45.0 MBytes  6.23 Mbits/sec
+[ 18]  0.0-60.6 sec  38.2 MBytes  5.29 Mbits/sec
+[ 81]  0.0-60.6 sec  40.6 MBytes  5.62 Mbits/sec
+[ 68]  0.0-60.6 sec   205 MBytes  28.3 Mbits/sec
+[ 73]  0.0-60.6 sec  43.1 MBytes  5.97 Mbits/sec
+[ 47]  0.0-60.6 sec  42.6 MBytes  5.90 Mbits/sec
+[ 89]  0.0-60.6 sec  41.0 MBytes  5.67 Mbits/sec
+[ 29]  0.0-60.7 sec  43.4 MBytes  6.00 Mbits/sec
+[ 21]  0.0-60.7 sec  48.2 MBytes  6.67 Mbits/sec
+[101]  0.0-60.7 sec  41.6 MBytes  5.75 Mbits/sec
+[ 39]  0.0-60.7 sec  41.8 MBytes  5.77 Mbits/sec
+[  9]  0.0-60.7 sec  42.4 MBytes  5.86 Mbits/sec
+[ 52]  0.0-60.7 sec  38.2 MBytes  5.28 Mbits/sec
+[ 63]  0.0-60.7 sec   197 MBytes  27.3 Mbits/sec
+[ 67]  0.0-60.7 sec  38.5 MBytes  5.32 Mbits/sec
+[ 88]  0.0-60.8 sec  33.1 MBytes  4.57 Mbits/sec
+[ 53]  0.0-60.8 sec   293 MBytes  40.5 Mbits/sec
+[ 25]  0.0-60.8 sec  41.0 MBytes  5.66 Mbits/sec
+[ 98]  0.0-60.8 sec  45.8 MBytes  6.31 Mbits/sec
+[ 72]  0.0-60.8 sec   148 MBytes  20.3 Mbits/sec
+[ 86]  0.0-60.8 sec  36.8 MBytes  5.07 Mbits/sec
+[ 99]  0.0-60.8 sec  64.0 MBytes  8.83 Mbits/sec
+[ 28]  0.0-60.8 sec  35.8 MBytes  4.93 Mbits/sec
+[ 15]  0.0-60.9 sec  34.9 MBytes  4.81 Mbits/sec
+[ 46]  0.0-60.9 sec   207 MBytes  28.5 Mbits/sec
+[ 10]  0.0-60.9 sec  40.0 MBytes  5.51 Mbits/sec
+[ 96]  0.0-60.9 sec  43.0 MBytes  5.93 Mbits/sec
+[ 36]  0.0-60.9 sec  40.0 MBytes  5.51 Mbits/sec
+[ 40]  0.0-60.9 sec  42.5 MBytes  5.86 Mbits/sec
+[ 65]  0.0-60.9 sec  37.5 MBytes  5.17 Mbits/sec
+[ 34]  0.0-60.9 sec  34.1 MBytes  4.70 Mbits/sec
+[ 35]  0.0-60.9 sec  40.1 MBytes  5.52 Mbits/sec
+[102]  0.0-60.9 sec  77.1 MBytes  10.6 Mbits/sec
+[  3]  0.0-61.0 sec  36.5 MBytes  5.02 Mbits/sec
+[ 76]  0.0-61.0 sec  30.0 MBytes  4.13 Mbits/sec
+[ 24]  0.0-61.0 sec  39.1 MBytes  5.38 Mbits/sec
+[ 58]  0.0-61.0 sec  39.1 MBytes  5.38 Mbits/sec
+[ 19]  0.0-61.0 sec  40.8 MBytes  5.60 Mbits/sec
+[ 43]  0.0-61.0 sec   229 MBytes  31.5 Mbits/sec
+[ 74]  0.0-61.1 sec  23.9 MBytes  3.28 Mbits/sec
+[ 27]  0.0-61.1 sec  36.6 MBytes  5.03 Mbits/sec
+[ 92]  0.0-61.1 sec  45.0 MBytes  6.18 Mbits/sec
+[ 80]  0.0-61.2 sec  29.0 MBytes  3.98 Mbits/sec
+[ 94]  0.0-61.2 sec   155 MBytes  21.3 Mbits/sec
+[SUM]  0.0-61.2 sec  7.15 GBytes  1.00 Gbits/sec
