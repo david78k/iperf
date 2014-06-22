@@ -12,16 +12,15 @@ port=5001
 # 104ms from foxtrot
 server=sierra.futuregrid.org
 
-# 6.5ms from hotel.futuregrid.org
+# 56ms to alamo
+#server=alamo.futuregrid.org 
+
+# 35ms to india
 #server=india.futuregrid.org 
 #server=login2.uc.futuregrid.org 
 #client=india.futuregrid.org 
 
-# 28ms from hotel.futuregrid.org
-#server=alamo.futuregrid.org 
-
-# 76ms from hotel.futuregrid.org
-#server=sierra.futuregrid.org 
+# 30ms to hotel
 
 # RTT (ms), LAN=0.3-0.5ms
 # IMPORTANT: RTT should be halved later
