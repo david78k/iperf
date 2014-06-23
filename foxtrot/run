@@ -10,10 +10,12 @@ port=5001
 #port=5002
 
 # 104ms from foxtrot
-server=sierra.futuregrid.org
+#server=sierra.futuregrid.org
 
 # 56ms to alamo
-#server=alamo.futuregrid.org 
+RTT=56ms
+prefix=alamo
+server=$prefix.futuregrid.org 
 
 # 35ms to india
 #server=india.futuregrid.org 
@@ -49,7 +51,7 @@ Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 30 40 50 60 70 80 90 100 )
 totaltime=60
 #totaltime=120
 
-logdir=$server
+logdir="${server}-$RTT"
 
 mkdir -p $logdir
 
@@ -62,7 +64,7 @@ if $LOCALHOST; then
 	iperf -s -p $port > server.log &
 else
 	ssh $sshserver pkill iperf  
-	ssh $sshserver iperf -s -p $port > server.log &
+	ssh $sshserver iperf -s -p $port > /dev/null &
 fi
 
 sleep 3
@@ -81,12 +83,17 @@ do
 	do
 		echo -n "$N "
 		echo N = $N >> $logfile
+		
+		cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1 -fM"
+
 		#iperf3 -c $server -P $N -t 30 -O 45 >> $logfile
 		if $LOCALHOST; then
 			echo ssh $client iperf -c $server -p $port -P $N -t $totaltime
-			ssh $client iperf -c $server -p $port -P $N -t $totaltime >> $logfile
+			ssh $client $cmd >> $logfile
+			#ssh $client iperf -c $server -p $port -P $N -t $totaltime >> $logfile
 		else
-			iperf -c $server -P $N -p $port -t $totaltime >> $logfile
+			iperf -c $cmd >> $logfile
+			#iperf -c $server -P $N -p $port -t $totaltime >> $logfile
 		fi
 	done
 #	ssh $router service tc stop
