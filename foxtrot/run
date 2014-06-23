@@ -10,12 +10,15 @@ port=5001
 #port=5002
 
 # 104ms from foxtrot
-#server=sierra.futuregrid.org
+RTT=104ms
+prefix=sierra
 
 # 56ms to alamo
-RTT=56ms
-prefix=alamo
+#RTT=56ms
+#prefix=alamo
+
 server=$prefix.futuregrid.org 
+#server=sierra.futuregrid.org
 
 # 35ms to india
 #server=india.futuregrid.org 
