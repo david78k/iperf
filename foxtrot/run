@@ -22,6 +22,8 @@ server=sierra.futuregrid.org
 
 # 30ms to hotel
 
+sshserver=david78k@$server
+
 # RTT (ms), LAN=0.3-0.5ms
 # IMPORTANT: RTT should be halved later
 #RTTs=( 160 ) # 40tcps failed
@@ -59,8 +61,8 @@ if $LOCALHOST; then
 	#logsave server.log iperf -s -p $port &
 	iperf -s -p $port > server.log &
 else
-	ssh $server pkill iperf  
-	ssh $server iperf -s -p $port &
+	ssh $sshserver pkill iperf  
+	ssh $sshserver iperf -s -p $port > server.log &
 fi
 
 sleep 3
@@ -97,6 +99,6 @@ done
 if $LOCALHOST; then
 	pkill iperf
 else 
-	ssh $server pkill iperf
+	ssh $sshserver pkill iperf
 fi
 
