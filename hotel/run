@@ -5,12 +5,13 @@
 LOCALHOST=true
 
 # default port = 5001
-port=5002
+port=5001
+#port=5002
 
 # 6.5ms from hotel.futuregrid.org
 #server=india.futuregrid.org 
-server=login2.uc.futuregrid.org 
-client=india.futuregrid.org 
+#server=login2.uc.futuregrid.org 
+#client=india.futuregrid.org 
 #server=localhost
 
 # 28ms from hotel.futuregrid.org
@@ -19,13 +20,7 @@ client=india.futuregrid.org
 # 76ms from hotel.futuregrid.org
 #server=sierra.futuregrid.org 
 
-# RTT (ms), LAN=0.3-0.5ms
-# IMPORTANT: RTT should be halved later
-#RTTs=( 160 ) # 40tcps failed
-#RTTs=( 20 60 10 140 160 ) # 30tcp failed
-RTT=76
-#RTTs=( 76 )
-#RTTs=( LAN 2 5 10 20 80 180 )
+RTT=76ms
 
 #runs=( 1 2 3 4 5 6 7 8 9 10 )
 #runs=( 2 3 4 5 6 7 8 9 10 )
