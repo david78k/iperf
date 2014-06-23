@@ -26,11 +26,11 @@ server=$prefix.futuregrid.org
 
 sshserver=david78k@$server
 
-runs=( 1 2 3 4 5 6 7 8 9 10 )
+#runs=( 1 2 3 4 5 6 7 8 9 10 )
 #runs=( 2 3 4 5 6 7 8 9 10 )
 #runs=( 21 22 23 24 25 26 27 28 29 30 )
 #runs=( 14 15 16 17 18 19 20 ) 
-#run=12
+runs=( 11 )
 
 # number of parallel TCP connections
 #Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 )
@@ -75,10 +75,10 @@ do
 		echo -n "$N "
 		echo N = $N >> $logfile
 		
+		cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1"
 		#cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1 -fM"
-		cmd="iperf -c $server -P $N -p $port -t $totaltime"
+		#cmd="iperf -c $server -P $N -p $port -t $totaltime"
 
-		#iperf3 -c $server -P $N -t 30 -O 45 >> $logfile
 		if $LOCALHOST; then
 			#echo ssh $client iperf -c $server -p $port -P $N -t $totaltime
 			echo ssh $client $cmd
