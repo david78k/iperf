@@ -46,7 +46,8 @@ genplot <- function (type) {
         }
 
 	#boxplot(data)
-	boxplot(data, 
+	boxplot(data, las = 2, 
+#par(mar = c(12, 5, 4, 2) + 0.1), 
 		xlab = "NUMBER OF STREAMS",
 		ylab = "LINK UTILIZATION (%)",
 		names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
