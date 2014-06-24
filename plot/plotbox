@@ -5,13 +5,15 @@ print(args)
 src <- args[1]
 
 # filter missing values
-data <- read.table(src, na.strings = "NA", fill = TRUE, header=1)
-#data <- read.table(src, na.strings = "NA", fill = TRUE)
+#data <- read.table(src, na.strings = "NA", fill = TRUE, header=1)
+data <- read.table(src, na.strings = "NA", fill = TRUE)
 
 # replace missing values to zero
 data[is.na(data)] <- 0
 print(data)
 
-png("data.png")
+#pngfile = paste0(src, ".png")
+pngfile = paste(src, ".png")
+png(pngfile)
 
 boxplot(data)
