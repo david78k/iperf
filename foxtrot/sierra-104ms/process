@@ -1,0 +1,9 @@
+# make csv
+iperf -c sierra.futuregrid.org -y C -i 1 -P 2 > r12-n2.log
+
+# get N = 1
+head -8 r1.log | tail -1 | awk '{print $7}'
+
+# get N > 1
+grep SUM r1.log | awk '{print $6}'
+
