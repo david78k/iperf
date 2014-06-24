@@ -12,6 +12,7 @@ data <- read.table(src, na.strings = "NA", fill = TRUE)
 data[is.na(data)] <- 0
 print(data)
 
+# transpose
 data <- t(data)
 print(data)
 
