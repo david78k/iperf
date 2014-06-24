@@ -45,9 +45,13 @@ genplot <- function (type) {
                 #emf(paste0(prefix, ".emf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
         }
 
-	#pngfile = paste(src, sep = "", ".png")
-
-	boxplot(data)
+	#boxplot(data)
+	boxplot(data, 
+		xlab = "NUMBER OF STREAMS",
+		ylab = "LINK UTILIZATION (%)",
+		names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
+			"40", "50", "60", "70", "80", "90", "100")
+	)
 }
 
 genplot("png")
