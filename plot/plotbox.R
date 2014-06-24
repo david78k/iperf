@@ -30,18 +30,18 @@ genplot <- function (type) {
         imgfile = paste(prefix, sep = ".", type)
 
         if(type == "png") {
-                png(imgfile)
+                png(imgfile, height = fheight, width = fwidth)
                 #png(paste0(prefix, ".png"), height=fheight, width=fwidth)
         #       png(paste0(prefix, ".png"))
         } else if (type == "pdf") {
-                pdf(imgfile)
+                pdf(imgfile, height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
                 #pdf(paste0(prefix, ".pdf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
         } else if (type == "eps") {
                 postscript(imgfile)
                 #postscript(paste0(prefix, ".eps"))
                 #postscript(paste0(prefix, ".eps"), res = resolution)
         } else if (type == "emf") {
-                emf(imgfile)
+                emf(imgfile, height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
                 #emf(paste0(prefix, ".emf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
         }
 
