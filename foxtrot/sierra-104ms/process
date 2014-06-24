@@ -1,0 +1,20 @@
+#!/bin/bash
+
+outfile=throughput
+runs=( 1 2 3 4 5 6 7 8 9 10 )
+
+for run in ${runs[@]}
+do
+	runout=r${run}.sum
+
+	# get N = 1
+	head -8 r${run}.log | tail -1 | awk '{print $7}' > $runout
+
+	# get N > 1
+	grep SUM r${run}.log | awk '{print $6}' >> $runout
+
+	pastefiles=`echo $pastefiles $runout`
+done
+
+paste $pastefiles > $outfile
+echo Output file $outfile created
