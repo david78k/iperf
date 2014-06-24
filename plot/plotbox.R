@@ -3,6 +3,7 @@
 args <- commandArgs(trailingOnly = TRUE)
 print(args)
 src <- args[1]
+prefix = src
 
 # figure size in pixel
 fheight = 300
@@ -26,29 +27,27 @@ genplot <- function (type) {
         #rm(list = ls())      # Clear all variables
         #graphics.off()    # Close graphics windows
 
+        imgfile = paste(prefix, sep = ".", type)
+
         if(type == "png") {
-                #type(paste0(prefix, sep = ".", type))
-                png(paste0(prefix, ".png"), height=fheight, width=fwidth)
-                #png(paste0(prefix, ".png"), height=300, width=400)
+                png(imgfile)
+                #png(paste0(prefix, ".png"), height=fheight, width=fwidth)
         #       png(paste0(prefix, ".png"))
         } else if (type == "pdf") {
-                pdf(paste0(prefix, ".pdf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
+                pdf(imgfile)
+                #pdf(paste0(prefix, ".pdf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
         } else if (type == "eps") {
-                #png("aapl.png")
+                postscript(imgfile)
+                #postscript(paste0(prefix, ".eps"))
                 #postscript(paste0(prefix, ".eps"), res = resolution)
-                postscript(paste0(prefix, ".eps"))
         } else if (type == "emf") {
-                #postscript("aapl.eps")
-                emf(paste0(prefix, ".emf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
-                #emf('aapl.emf')
+                emf(imgfile)
+                #emf(paste0(prefix, ".emf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
         }
 
-#pngfile = paste0(src, ".png")
-pngfile = paste(src, sep = "", ".png")
-png(pngfile)
+	#pngfile = paste(src, sep = "", ".png")
 
-boxplot(data)
-
+	boxplot(data)
 }
 
 genplot("png")
