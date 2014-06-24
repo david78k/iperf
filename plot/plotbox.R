@@ -45,8 +45,8 @@ genplot <- function (type) {
                 #emf(paste0(prefix, ".emf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
         }
 
-	#par(mar = c(0, 0, 0, 0))
-	par(mar = c(12, 5, 4, 2) + 0.1)
+	# c(bottom, left, top, right)
+	par(mar = c(5, 5, 1, 1) + 0.1)
 
 	# las = 2 to rotate xlabels
 	#boxplot(data)
