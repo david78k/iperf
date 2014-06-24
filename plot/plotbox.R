@@ -45,9 +45,11 @@ genplot <- function (type) {
                 #emf(paste0(prefix, ".emf"), height=1.5*fheight/100.0, width=1.5*fwidth/100.0)
         }
 
+	# las = 2 to rotate xlabels
 	#boxplot(data)
-	boxplot(data, las = 2, 
-#par(mar = c(12, 5, 4, 2) + 0.1), 
+	boxplot(data, 
+		#las = 2, 
+		#par(mar = c(12, 5, 4, 2) + 0.1), 
 		xlab = "NUMBER OF STREAMS",
 		ylab = "LINK UTILIZATION (%)",
 		names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
