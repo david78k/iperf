@@ -15,10 +15,10 @@ data <- read.table(src, na.strings = "NA", fill = TRUE)
 
 # replace missing values to zero
 data[is.na(data)] <- 0
-print(data)
+#print(data)
 
 # transpose
-data <- t(data)
+data <- t(data*100/1000)
 print(data)
 
 require(devEMF)
