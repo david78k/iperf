@@ -9,10 +9,8 @@ xlabel = "NUMBER OF PARALLEL STREAMS"
 ylabel = "LINK UTILIZATION (%)"
 
 # figure size in pixel
-#fheight = 300
-fheight = 200
-#fwidth = 400
-fwidth = 300
+fheight = 300
+fwidth = 400
 
 # filter missing values
 #data <- read.table(src, na.strings = "NA", fill = TRUE, header=1)
