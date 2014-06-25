@@ -19,7 +19,7 @@ data[is.na(data)] <- 0
 
 # transpose
 data <- t(data*100/1000)
-print(data)
+#print(data)
 
 require(devEMF)
 
@@ -55,7 +55,8 @@ genplot <- function (type) {
 		xlab = "NUMBER OF STREAMS",
 		ylab = "LINK UTILIZATION (%)",
 		names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
-			"40", "50", "60", "70", "80", "90", "100")
+			"40", "50", "60", "70", "80", "90", "100"),
+		ylim = c(0, 100)
 	)
 }
 
