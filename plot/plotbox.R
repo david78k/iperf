@@ -51,7 +51,7 @@ genplot <- function (type) {
 	# las = 2 to rotate xlabels
 	#boxplot(data)
 	boxplot(data, 
-		#las = 2, 
+		las = 2, 
 		xlab = "NUMBER OF STREAMS",
 		ylab = "LINK UTILIZATION (%)",
 		names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
