@@ -5,9 +5,14 @@ print(args)
 src <- args[1]
 prefix = src
 
+xlabel = "NUMBER OF PARALLEL STREAMS"
+ylabel = "LINK UTILIZATION (%)"
+
 # figure size in pixel
-fheight = 300
-fwidth = 400
+#fheight = 300
+fheight = 200
+#fwidth = 400
+fwidth = 300
 
 # filter missing values
 #data <- read.table(src, na.strings = "NA", fill = TRUE, header=1)
@@ -52,8 +57,8 @@ genplot <- function (type) {
 	#boxplot(data)
 	boxplot(data, 
 		las = 2, 
-		xlab = "NUMBER OF STREAMS",
-		ylab = "LINK UTILIZATION (%)",
+		xlab = xlabel,
+		ylab = ylabel,
 		names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
 			"40", "50", "60", "70", "80", "90", "100"),
 		ylim = c(0, 100)
