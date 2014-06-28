@@ -1,7 +1,7 @@
 #!/bin/bash
 # iperf testing script
 
-# is localhost server?
+# is localhost the server?
 #LOCALHOST=true
 LOCALHOST=false
 
@@ -9,20 +9,22 @@ LOCALHOST=false
 port=5001
 #port=5002
 
-# 189ms to sierra
-RTT=189ms
+# 116ms to sierra
+RTT=116ms
 prefix=sierra
 
 # 160ms to alamo
 #RTT=160ms
 #prefix=alamo
 
-# 116ms to india
+# 190ms to hotel
+#RTT=190ms
+#prefix=hotel
+
+# 186ms to india
 #server=india.futuregrid.org 
 #server=login2.uc.futuregrid.org 
 #client=india.futuregrid.org 
-
-# 190ms to hotel
 
 server=$prefix.futuregrid.org 
 
