@@ -9,31 +9,30 @@ LOCALHOST=false
 port=5001
 #port=5002
 
-# 104ms from foxtrot
-RTT=104ms
+# 189ms to sierra
+RTT=189ms
 prefix=sierra
 
-# 56ms to alamo
-#RTT=56ms
+# 160ms to alamo
+#RTT=160ms
 #prefix=alamo
 
-server=$prefix.futuregrid.org 
-#server=sierra.futuregrid.org
-
-# 35ms to india
+# 116ms to india
 #server=india.futuregrid.org 
 #server=login2.uc.futuregrid.org 
 #client=india.futuregrid.org 
 
-# 30ms to hotel
+# 190ms to hotel
+
+server=$prefix.futuregrid.org 
 
 sshserver=david78k@$server
 
-#runs=( 1 2 3 4 5 6 7 8 9 10 )
+runs=( 1 2 3 4 5 6 7 8 9 10 )
 #runs=( 2 3 4 5 6 7 8 9 10 )
-#runs=( 21 22 23 24 25 26 27 28 29 30 )
 #runs=( 14 15 16 17 18 19 20 ) 
-runs=( 11 )
+#runs=( 11 )
+#runs=( 21 22 23 24 25 26 27 28 29 30 )
 
 # number of parallel TCP connections
 #Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 )
