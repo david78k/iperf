@@ -5,6 +5,9 @@
 #LOCALHOST=true
 LOCALHOST=false
 
+# show the details of all the streams every second
+DETAIL=false
+
 # default port = 5001
 port=5001
 #port=5002
@@ -54,6 +57,10 @@ mkdir -p $logdir
 
 #ssh $server iperf3 -s > server.log &
 
+if $DETAIL; then
+	cmddetail="-i 1"
+fi
+
 if $LOCALHOST; then
 	echo localhost is server
 	pkill iperf  
@@ -80,9 +87,9 @@ do
 		echo -n "$N "
 		echo N = $N >> $logfile
 		
-		cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1"
+		cmd="iperf -c $server -P $N -p $port -t $totaltime $cmddetail"
+		#cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1"
 		#cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1 -fM"
-		#cmd="iperf -c $server -P $N -p $port -t $totaltime"
 
 		if $LOCALHOST; then
 			#echo ssh $client iperf -c $server -p $port -P $N -t $totaltime
