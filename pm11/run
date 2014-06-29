@@ -14,19 +14,20 @@ port=5001
 #prefix=sierra
 
 # 160ms to alamo
-RTT=160ms
-prefix=alamo
+#RTT=160ms
+#prefix=alamo
 
 # 190ms to hotel
-#RTT=190ms
-#prefix=hotel
+RTT=190ms
+prefix=hotel
+#prefix=login1.uc
+server=login1.uc.futuregrid.org 
 
 # 186ms to india
 #server=india.futuregrid.org 
-#server=login2.uc.futuregrid.org 
 #client=india.futuregrid.org 
 
-server=$prefix.futuregrid.org 
+#server=$prefix.futuregrid.org 
 
 sshserver=david78k@$server
 
