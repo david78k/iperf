@@ -10,12 +10,12 @@ port=5001
 #port=5002
 
 # 116ms to sierra
-RTT=116ms
-prefix=sierra
+#RTT=116ms
+#prefix=sierra
 
 # 160ms to alamo
-#RTT=160ms
-#prefix=alamo
+RTT=160ms
+prefix=alamo
 
 # 190ms to hotel
 #RTT=190ms
