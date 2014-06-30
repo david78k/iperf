@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# generate throughput file
+/root/iperf/parseiperf
+
+# draw box-and-whisker plot
+/root/iperf/plot/plotbox.R throughput
