@@ -1,0 +1,115 @@
+#!/bin/bash
+# iperf testing script
+
+# is localhost the server?
+#LOCALHOST=true
+LOCALHOST=false
+
+# show the details of all the streams every second
+DETAIL=false
+
+# default port = 5001
+port=5001
+#port=5002
+
+# 116ms to sierra
+#RTT=116ms
+#prefix=sierra
+
+# 160ms to alamo
+#RTT=160ms
+#prefix=alamo
+
+#server=$prefix.futuregrid.org 
+
+# 190ms to hotel
+RTT=190ms
+prefix=hotel
+server=login1.uc.futuregrid.org 
+
+# 186ms to india
+#server=india.futuregrid.org 
+#client=india.futuregrid.org 
+
+sshserver=david78k@$server
+
+runs=( 1 2 3 4 5 6 7 8 9 10 )
+#runs=( 2 3 4 5 6 7 8 9 10 )
+#runs=( 14 15 16 17 18 19 20 ) 
+#runs=( 11 )
+#runs=( 21 22 23 24 25 26 27 28 29 30 )
+
+# number of parallel TCP connections
+#Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 )
+Ns=( 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 30 40 50 60 70 80 90 100 )
+#Ns=( 1 2 3 4 5 )
+#Ns=( 6 7 8 9 10 12 14 16 18 20 30 40 50 60 70 80 90 100 )
+
+# total run time in seconds
+#totaltime=30
+totaltime=60
+#totaltime=120
+
+logdir="${prefix}-$RTT"
+
+mkdir -p $logdir
+
+#ssh $server iperf3 -s > server.log &
+
+if $DETAIL; then
+	cmddetail="-i 1"
+fi
+
+if $LOCALHOST; then
+	echo localhost is server
+	pkill iperf  
+	#logsave server.log iperf -s -p $port &
+	iperf -s -p $port > server.log &
+else
+	ssh $sshserver pkill iperf  
+	ssh $sshserver iperf -s -p $port > /dev/null &
+fi
+
+echo iperf server started
+
+sleep 3
+
+for run in ${runs[@]};
+do
+	#logfile=${RTT}ms-r${run}.log
+	logfile=$logdir/r${run}.log
+	rm $logfile
+
+	echo -n "Run = $run: "
+	for N in ${Ns[@]}
+	do
+		echo -n "$N "
+		echo N = $N >> $logfile
+		
+		cmd="iperf -c $server -P $N -p $port -t $totaltime $cmddetail"
+		#cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1"
+		#cmd="iperf -c $server -P $N -p $port -t $totaltime -i 1 -fM"
+
+		if $LOCALHOST; then
+			#echo ssh $client iperf -c $server -p $port -P $N -t $totaltime
+			echo ssh $client $cmd
+			ssh $client $cmd >> $logfile
+			#ssh $client iperf -c $server -p $port -P $N -t $totaltime >> $logfile
+		else
+			echo $cmd
+			$cmd >> $logfile
+			#iperf -c $server -P $N -p $port -t $totaltime >> $logfile
+		fi
+	done
+	echo
+done
+
+#echo
+
+# stop iperf
+if $LOCALHOST; then
+	pkill iperf
+else 
+	ssh $sshserver pkill iperf
+fi
+
