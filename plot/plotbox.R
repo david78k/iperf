@@ -1,5 +1,6 @@
 #!/usr/bin/Rscript
 
+# boxplot throughput in link utilization %
 args <- commandArgs(trailingOnly = TRUE)
 print(args)
 src <- args[1]

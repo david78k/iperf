@@ -1,5 +1,6 @@
 #!/usr/bin/Rscript
 
+# boxplot throughput in mbps
 # input: throughput file
 # output: throughput.mbps.png (pdf/emf)
 args <- commandArgs(trailingOnly = TRUE)
