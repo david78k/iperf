@@ -8,6 +8,8 @@ LOCALHOST=false
 # show the details of all the streams every second
 DETAIL=false
 
+router=david78k-7
+
 # default port = 5001
 port=5001
 #port=5002
