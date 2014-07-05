@@ -12,8 +12,9 @@ DETAIL=false
 port=5001
 #port=5002
 
-# 180ms to david78k-5
-RTT=180ms
+# RTT to david78k-5
+RTTs=( LAN 2 5 10 20 80 180 )
+#RTT=180ms
 
 # tcp receiver/sender window 8MB
 prefix=win8m 
@@ -46,6 +47,8 @@ mkdir -p $logdir
 
 #ssh $server iperf3 -s > server.log &
 
+ssh $router service tc stop
+
 if $DETAIL; then
 	cmddetail="-i 1"
 fi
@@ -64,13 +67,23 @@ echo iperf server started
 
 sleep 3
 
-for run in ${runs[@]};
+#for run in ${runs[@]};
+#do
+for RTT in ${RTTs[@]};
 do
+	echo RTT = ${RTT}ms
+        if [ $RTT != "LAN" ]; then
+                # IMPORTANT: RTT should be halved
+                ssh $router service tc delay `expr $RTT / 2`
+                #ssh $router service tc delay $RTT
+        fi
+
+        logfile=${RTT}ms.log
 	#logfile=${RTT}ms-r${run}.log
 	logfile=$logdir/r${run}.log
 	rm $logfile
 
-	echo -n "Run = $run: "
+#	echo -n "Run = $run: "
 	for N in ${Ns[@]}
 	do
 		echo -n "$N "
@@ -92,6 +105,7 @@ do
 		fi
 	done
 	echo
+	ssh $router service tc stop
 done
 
 #echo
