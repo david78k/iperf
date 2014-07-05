@@ -59,7 +59,7 @@ genplot <- function (type) {
 	# las = 2 to rotate xlabels
 	#boxplot(data)
 	boxplot(data, 
-		las = 2, 
+		las = 1, 
 		xlab = xlabel,
 		ylab = ylabel,
 		names = cols,
