@@ -62,12 +62,12 @@ genplot <- function (type) {
 	par(mar = c(5, 5, 1, 1) + 0.1)
 
 	# las = 2 to rotate xlabels
-	boxplot(data,
-	#boxplot(data[N], 
+	#boxplot(data,
+	boxplot(data[N], 
 		las = 1, 
 		xlab = xlabel,
 		ylab = ylabel
-		#names = N
+		#,names = N
 		#names = c("1", "2", "4", "6", "8", "10", "12", "14", "16", "18", "20", "40") 
 		#names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
 	#		"40", "50", "60", "70", "80", "90", "100")
