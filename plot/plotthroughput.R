@@ -1,6 +1,6 @@
 #!/usr/bin/Rscript
 
-# boxplot throughput in mbps
+# boxplot throughput in mbps or MB/s
 # input: throughput file
 # output: throughput.mbps.png (pdf/emf)
 args <- commandArgs(trailingOnly = TRUE)
@@ -9,11 +9,13 @@ src <- args[1]
 #prefix = src
 prefix = paste(src, sep = ".", "mbps")
 
+N <- c(1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 40) 
+
 xlabel = "NUMBER OF PARALLEL STREAMS"
-ylabel = "THROUGHPUT (Mbps)"
+ylabel = "THROUGHPUT (MB/S)"
+#ylabel = "THROUGHPUT (Mbps)"
 #ylabel = "AGGREGATE THROUGHPUT (Mbps)"
 #ylabel = "AGGREGATE THROUGHPUT (MB/S)"
-#ylabel = "LINK UTILIZATION (%)"
 
 # figure size in pixel
 fheight = 300
@@ -28,8 +30,8 @@ data[is.na(data)] <- 0
 #print(data)
 
 # transpose
-data <- t(data)
-#data <- t(data/8)
+#data <- t(data)
+data <- t(data/8)
 #print(data)
 
 require(devEMF)
@@ -60,14 +62,16 @@ genplot <- function (type) {
 	par(mar = c(5, 5, 1, 1) + 0.1)
 
 	# las = 2 to rotate xlabels
-	#boxplot(data)
-	boxplot(data, 
-		las = 2, 
+	boxplot(data,
+	#boxplot(data[N], 
+		las = 1, 
 		xlab = xlabel,
-		ylab = ylabel,
-		names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
-			"40", "50", "60", "70", "80", "90", "100")
-		,ylim = c(0, 1000)
+		ylab = ylabel
+		#names = N
+		#names = c("1", "2", "4", "6", "8", "10", "12", "14", "16", "18", "20", "40") 
+		#names = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "14", "16", "18", "20", "30", 
+	#		"40", "50", "60", "70", "80", "90", "100")
+	#	,ylim = c(0, 1000)
 	)
 }
 
